@@ -1,0 +1,1 @@
+start chrome "https://analytics.google.com/analytics/web/#/p311702334/reports/reportinghub?params=_u..nav%3Dmaui%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20240819%26_u.date01%3D20240825%26_r.3..seldim%3D%5B%22firstUserDefaultChannelGrouping%22%5D%26_r.4..seldim%3D%5B%22sessionDefaultChannelGrouping%22%5D&collectionId=5961215183"

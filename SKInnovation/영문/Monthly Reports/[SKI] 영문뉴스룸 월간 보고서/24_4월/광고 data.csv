@@ -1,0 +1,1471 @@
+# ----------------------------------------
+# 보고서 CSV 내보내기
+# 계정: skinno global
+# 속성: skinno 글로벌 - GA4
+# ----------------------------------------
+# 
+# 모든 사용자
+# 시작일: 20240401
+# 종료일: 20240430
+페이지 경로 및 화면 클래스,세션 기본 채널 그룹,조회수,세션수,사용자,사용자당 조회수,평균 참여 시간,이벤트 수,주요 이벤트,총 수익
+/global/archives/17817,Paid Search,2490,2246,1215,2.049382716049383,2.1843621399176953,8359,0,0
+/global/,Direct,395,316,255,1.5490196078431373,12.623529411764705,1665,0,0
+/global/archives/17990,Paid Search,388,314,294,1.3197278911564625,1.5442176870748299,1432,0,0
+/global/,Organic Search,387,270,193,2.005181347150259,21.95336787564767,1575,0,0
+/global/archives/category/press-room/financial-results,Organic Search,358,150,121,2.958677685950413,32.99173553719008,1433,0,0
+/global/archives/17817,Direct,315,256,215,1.4651162790697674,28.42325581395349,1177,0,0
+/global/archives/category/press-room/press-release,Direct,303,287,223,1.358744394618834,5.8923766816143495,1183,0,0
+/global/,Referral,272,222,147,1.8503401360544218,27.238095238095237,1153,0,0
+/global/latestnews,Direct,244,219,102,2.392156862745098,38.705882352941174,916,0,0
+/global/archives/17426,Organic Search,237,193,135,1.7555555555555555,56.28148148148148,990,0,0
+/global/archives/17950,Direct,195,184,152,1.2828947368421053,16.019736842105264,792,0,0
+/global/archives/category/corporates/sk-on,Direct,168,97,43,3.9069767441860463,109.13953488372093,589,0,0
+/global/archives/17216,Organic Search,142,159,128,1.109375,34.8515625,652,0,0
+/global/archives/category/press-room/press-release,Organic Search,142,123,81,1.7530864197530864,24.358024691358025,564,0,0
+/global/archives/6216,Organic Search,121,127,94,1.2872340425531914,59.4468085106383,559,0,0
+/global/archives/category/corporates/sk-on,Organic Search,121,86,73,1.6575342465753424,18.493150684931507,485,0,0
+/global/archives/17950,Organic Social,111,113,100,1.11,9.3,475,0,0
+/global/archives/16463,Organic Search,110,116,96,1.1458333333333333,26.625,519,0,0
+/global/archives/15374,Organic Search,106,109,65,1.6307692307692307,46.16923076923077,457,0,0
+/global/archives/17990,Direct,100,81,71,1.408450704225352,20.943661971830984,370,0,0
+/global/archives/17499,Paid Search,99,92,14,7.071428571428571,1.5,295,0,0
+/global/archives/17737,Direct,92,45,16,5.75,74.9375,272,0,0
+/global/archives/15490,Organic Search,90,93,77,1.1688311688311688,35.81818181818182,410,0,0
+/global/latestnews,Organic Search,89,77,45,1.9777777777777779,31.066666666666666,335,0,0
+/global/archives/10774,Organic Search,87,88,63,1.380952380952381,51.74603174603175,395,0,0
+/global/archives/category/corporates/sk-innovation,Organic Search,83,71,63,1.3174603174603174,20.555555555555557,305,0,0
+/global/archives/17950,Organic Search,81,79,54,1.5,34.851851851851855,337,0,0
+/global/archives/15664,Organic Search,80,86,62,1.2903225806451613,94.19354838709677,368,0,0
+/global/archives/category/corporates,Organic Search,80,57,50,1.6,14.98,310,0,0
+/global/archives/category/insight/trend_report,Direct,78,32,32,2.4375,124.6875,236,0,0
+/global/archives/3820,Organic Search,75,68,50,1.5,64.16,321,0,0
+/global/archives/16834,Organic Search,73,74,57,1.280701754385965,35.49122807017544,317,0,0
+/global/archives/9910,Organic Search,72,72,52,1.3846153846153846,57.13461538461539,324,0,0
+/global/archives/category/press-room,Organic Search,70,58,46,1.5217391304347827,18.543478260869566,275,0,0
+/global/archives/12022,Organic Search,65,65,54,1.2037037037037037,41.166666666666664,316,0,0
+/global/archives/17426,Direct,65,53,39,1.6666666666666667,21.76923076923077,245,0,0
+/global/archives/17817,Organic Search,64,70,54,1.1851851851851851,35.46296296296296,269,0,0
+/global/archives/category/press-room/financial-results,Referral,63,42,25,2.52,29.68,241,0,0
+/global/archives/17965,Direct,61,54,51,1.196078431372549,47.294117647058826,253,0,0
+/global/archives/category/press-room/press-release,Referral,61,49,33,1.8484848484848484,30.515151515151516,234,0,0
+/global/archives/category/corporates/sk-enterm,Organic Search,56,25,22,2.5454545454545454,37.59090909090909,227,0,0
+/global/archives/15687,Organic Search,54,57,42,1.2857142857142858,44.714285714285715,227,0,0
+/global/archives/17863,Organic Social,54,60,47,1.148936170212766,51.702127659574465,245,0,0
+/global/archives/category/corporates/sk-geo-centric,Direct,54,30,30,1.8,102.56666666666666,184,0,0
+/global/archives/category/press-room,Referral,53,49,23,2.3043478260869565,18.47826086956522,200,0,0
+/global/latestnews,Referral,50,34,27,1.8518518518518519,47.18518518518518,191,0,0
+/global/archives/17965,Organic Social,49,45,39,1.2564102564102564,13.23076923076923,212,0,0
+/global/archives/17989,Direct,49,44,40,1.225,20.95,184,0,0
+/global/archives/17426,Referral,47,42,30,1.5666666666666667,123.13333333333334,189,0,0
+/global/archives/14766,Organic Search,45,46,39,1.1538461538461537,17,202,0,0
+/global/archives/16448,Organic Search,45,40,35,1.2857142857142858,35.42857142857143,191,0,0
+/global/archives/17863,Direct,45,46,35,1.2857142857142858,35.08571428571429,164,0,0
+/global/archives/category/corporate/sk-enmove,Referral,45,34,18,2.5,35.111111111111114,174,0,0
+/global/archives/category/corporates/sk-innovation,Direct,44,38,37,1.1891891891891893,51.75675675675676,166,0,0
+/global/archives/16060,Organic Search,43,47,35,1.2285714285714286,53.57142857142857,198,0,0
+/global/archives/17595,Organic Search,43,48,39,1.1025641025641026,61.64102564102564,176,0,0
+/global/archives/16376,Organic Search,42,41,35,1.2,64,201,0,0
+/global/archives/17356,Organic Search,40,45,34,1.1764705882352942,62.26470588235294,181,0,0
+/global/archives/17978,Organic Search,40,36,33,1.2121212121212122,36.60606060606061,171,0,0
+/global/archives/17990,Organic Search,40,34,29,1.3793103448275863,49.89655172413793,159,0,0
+/global/archives/18065,Organic Search,40,23,19,2.1052631578947367,30.63157894736842,162,0,0
+/global/archives/17569,Organic Search,39,48,32,1.21875,38.6875,167,0,0
+/global/archives/16532,Organic Search,38,35,28,1.3571428571428572,88.03571428571429,167,0,0
+/global/archives/17893,Direct,38,30,24,1.5833333333333333,67.16666666666667,137,0,0
+/global/archives/13780,Organic Search,37,42,34,1.088235294117647,37.26470588235294,172,0,0
+/global/archives/17595,Direct,37,32,30,1.2333333333333334,26.8,143,0,0
+/global/archives/17595,Referral,37,40,33,1.121212121212121,47.333333333333336,154,0,0
+/global/archives/17863,Organic Search,36,35,31,1.1612903225806452,12.709677419354838,136,0,0
+/global/archives/17990,Referral,35,31,24,1.4583333333333333,16.291666666666668,132,0,0
+/global/archives/category/people/inno-people,Organic Search,35,31,28,1.25,20.357142857142858,131,0,0
+/global/archives/14491,Organic Search,34,34,27,1.2592592592592593,39.851851851851855,150,0,0
+/global/archives/15462,Organic Search,34,31,28,1.2142857142857142,35.57142857142857,146,0,0
+/global/archives/category/press-room/issue-fact,Organic Search,34,30,26,1.3076923076923077,12.423076923076923,133,0,0
+/global/sustainability-report,Organic Search,34,33,21,1.619047619047619,28.666666666666668,160,0,0
+/global/archives/16286,Organic Search,33,32,23,1.434782608695652,12.826086956521738,140,0,0
+/global/archives/17737,Organic Search,33,36,28,1.1785714285714286,18.821428571428573,139,0,0
+/global/archives/17950,Referral,33,33,24,1.375,43.458333333333336,127,0,0
+/global/archives/category/insight,Organic Search,33,28,26,1.2692307692307692,17.846153846153847,124,0,0
+/global/archives/16970,Organic Search,32,33,26,1.2307692307692308,19.26923076923077,151,0,0
+/global/archives/category/corporates/sk-ie-technology,Direct,32,26,26,1.2307692307692308,68.15384615384616,117,0,0
+/global/archives/18022,Direct,31,26,20,1.55,26.5,112,0,0
+/global/archives/category/corporates,Direct,31,22,17,1.8235294117647058,22.294117647058822,121,0,0
+/global/archives/category/insight/trend_report,Organic Search,31,22,17,1.8235294117647058,27.11764705882353,124,0,0
+/global/archives/11807,Organic Search,30,29,24,1.25,37.416666666666664,127,0,0
+/global/archives/12106,Organic Search,30,33,25,1.2,31.2,141,0,0
+/global/archives/17863,Referral,30,25,14,2.142857142857143,49.785714285714285,111,0,0
+/global/archives/13595,Organic Search,29,34,25,1.16,121.96,137,0,0
+/global/archives/15374,Direct,29,27,21,1.380952380952381,5.904761904761905,110,0,0
+/global/archives/16493,Organic Search,29,30,23,1.2608695652173914,48.52173913043478,130,0,0
+/global/archives/17499,Organic Search,29,31,23,1.2608695652173914,96,137,0,0
+/global/archives/17737,Paid Search,29,26,8,3.625,2.125,88,0,0
+/global/archives/17817,Referral,29,26,24,1.2083333333333333,50.375,122,0,0
+/global/archives/17844,Organic Search,29,29,26,1.1153846153846154,17.46153846153846,121,0,0
+/global/archives/17989,Organic Search,29,33,25,1.16,35.44,117,0,0
+/global/archives/category/corporates/sk-energy,Organic Search,29,27,25,1.16,22.48,113,0,0
+/global/archives/13595,Referral,28,27,24,1.1666666666666667,52.375,132,0,0
+/global/archives/18065,Organic Social,28,26,25,1.12,27.32,122,0,0
+/global/archives/13521,Organic Search,27,27,24,1.125,32.5,116,0,0
+/global/archives/17047,Organic Search,27,28,22,1.2272727272727273,48.27272727272727,134,0,0
+/global/archives/17216,Referral,27,28,18,1.5,88.61111111111111,111,0,0
+/global/archives/category/corporates/sk-ie-technology,Organic Search,27,23,20,1.35,17,109,0,0
+/global/archives/category/insight/expert-voice,Direct,27,27,27,1,58.925925925925924,95,0,0
+/global/archives/12274/skee,Organic Search,26,21,19,1.368421052631579,12.842105263157896,126,0,0
+/global/archives/14803,Direct,26,24,21,1.2380952380952381,39.23809523809524,110,0,0
+/global/archives/15103,Organic Search,26,23,19,1.368421052631579,86.78947368421052,114,0,0
+/global/archives/17356,Referral,26,27,21,1.2380952380952381,76.52380952380952,116,0,0
+/global/archives/17844,Direct,26,25,24,1.0833333333333333,30.583333333333332,94,0,0
+/global/archives/17965,Organic Search,26,30,21,1.2380952380952381,44.76190476190476,104,0,0
+/global/archives/17978,Direct,26,27,24,1.0833333333333333,28.166666666666668,101,0,0
+/global/archives/category/people,Organic Search,26,20,18,1.4444444444444444,15.166666666666666,98,0,0
+/global/archives/category/press-room/financial-results,Direct,26,16,15,1.7333333333333334,20.6,102,0,0
+/global/archives/10774,Direct,25,26,24,1.0416666666666667,30.333333333333332,109,0,0
+/global/archives/16613,Paid Search,25,22,17,1.4705882352941178,1.7647058823529411,87,0,0
+/global/archives/category/people/ceo-leaders,Direct,25,24,24,1.0416666666666667,62.083333333333336,90,0,0
+/global/archives/tag/financial-results,Organic Search,25,9,9,2.7777777777777777,14.11111111111111,99,0,0
+/global/archives/11087,Organic Search,24,26,22,1.0909090909090908,22.363636363636363,110,0,0
+/global/archives/15664,Direct,24,21,19,1.263157894736842,14.947368421052632,101,0,0
+/global/archives/17313,Organic Search,24,20,19,1.263157894736842,28.894736842105264,94,0,0
+/global/archives/17313,Referral,24,20,16,1.5,62.625,89,0,0
+/global/archives/17893,Referral,24,17,9,2.6666666666666665,36.333333333333336,94,0,0
+/global/archives/822,Organic Search,24,22,21,1.1428571428571428,43.142857142857146,116,0,0
+/global/archives/tag/sko,Organic Search,24,23,22,1.0909090909090908,8.181818181818182,114,0,0
+/global/archives/14243,Organic Search,23,21,18,1.2777777777777777,31.27777777777778,94,0,0
+/global/archives/17169,Organic Search,23,25,22,1.0454545454545454,69.13636363636364,107,0,0
+/global/archives/18065,Direct,23,21,18,1.2777777777777777,47.44444444444444,95,0,0
+/global/archives/9548,Organic Search,23,25,21,1.0952380952380953,40,102,0,0
+/global/archives/9709,Organic Search,23,19,17,1.3529411764705883,74.58823529411765,103,0,0
+/global/archives/category/corporates,Referral,23,21,18,1.2777777777777777,26.77777777777778,82,0,0
+/global/,Organic Social,22,22,8,2.75,16.375,89,0,0
+/global/archives/14770,Organic Search,22,24,20,1.1,22.45,102,0,0
+/global/archives/16939,Organic Search,22,25,22,1,32.59090909090909,105,0,0
+/global/archives/17817,Organic Social,22,25,15,1.4666666666666666,25.733333333333334,110,0,0
+/global/archives/category/corporates/sk-on,Referral,22,22,18,1.2222222222222223,41.05555555555556,83,0,0
+/global/archives/10913,Organic Search,21,20,18,1.1666666666666667,30.88888888888889,92,0,0
+/global/archives/12220,Organic Search,21,21,17,1.2352941176470589,28.176470588235293,94,0,0
+/global/archives/12306,Organic Search,21,27,20,1.05,32.25,100,0,0
+/global/archives/13130,Organic Search,21,22,17,1.2352941176470589,36.470588235294116,85,0,0
+/global/archives/category/press-room,Direct,21,19,16,1.3125,20.625,77,0,0
+/global/archives/14634,Organic Search,20,18,18,1.1111111111111112,44.166666666666664,97,0,0
+/global/archives/15259,Organic Search,20,23,19,1.0526315789473684,7.421052631578948,87,0,0
+/global/archives/15937,Paid Search,20,18,3,6.666666666666667,0,59,0,0
+/global/archives/17965,Referral,20,19,16,1.25,35.4375,74,0,0
+/global/archives/4499,Organic Search,20,20,18,1.1111111111111112,22.833333333333332,91,0,0
+/global/archives/4612,Organic Search,20,21,15,1.3333333333333333,28.333333333333332,90,0,0
+/global/archives/5892,Organic Search,20,20,16,1.25,75.6875,98,0,0
+/global/archives/6216,Direct,20,20,17,1.1764705882352942,50.35294117647059,94,0,0
+/global/archives/10939,Organic Search,19,19,17,1.1176470588235294,30.705882352941178,78,0,0
+/global/archives/13329,Organic Search,19,21,13,1.4615384615384615,32.61538461538461,90,0,0
+/global/archives/15353,Organic Search,19,19,18,1.0555555555555556,22.27777777777778,88,0,0
+/global/archives/17216,Direct,19,19,18,1.0555555555555556,6,66,0,0
+/global/archives/18022,Organic Search,19,17,11,1.7272727272727273,22.636363636363637,68,0,0
+/global/archives/7445,Organic Search,19,21,17,1.1176470588235294,44.411764705882355,85,0,0
+/global/archives/8327,Organic Search,19,17,16,1.1875,21.5,82,0,0
+/global/archives/9668,Organic Search,19,18,13,1.4615384615384615,16.846153846153847,73,0,0
+/global/archives/category/corporate/sk-energy,Referral,19,14,9,2.111111111111111,51.44444444444444,87,0,0
+/global/archives/15937,Organic Search,18,20,16,1.125,17.1875,83,0,0
+/global/archives/16131,Paid Search,18,17,4,4.5,0,51,0,0
+/global/archives/9668,Direct,18,21,17,1.0588235294117647,3.3529411764705883,77,0,0
+/global/archives/category/corporates/sk-earthon,Organic Search,18,16,13,1.3846153846153846,15.692307692307692,76,0,0
+/global/archives/category/corporates/sk-geo-centric,Organic Search,18,14,13,1.3846153846153846,24.692307692307693,67,0,0
+/global/sustainability-report,Direct,18,19,18,1,11.11111111111111,79,0,0
+/global/,Paid Search,17,10,8,2.125,20.25,60,0,0
+/global/archives/11087,Direct,17,11,10,1.7,28.2,62,0,0
+/global/archives/16154,Paid Search,17,15,6,2.8333333333333335,3.5,51,0,0
+/global/archives/3962,Organic Search,17,21,16,1.0625,17.625,83,0,0
+/global/archives/category/insight,Direct,17,17,15,1.1333333333333333,23.8,70,0,0
+/global/archives/10654,Organic Search,16,14,12,1.3333333333333333,17.166666666666668,66,0,0
+/global/archives/12950,Organic Search,16,17,15,1.0666666666666667,34.733333333333334,75,0,0
+/global/archives/14354,Organic Search,16,16,13,1.2307692307692308,185,77,0,0
+/global/archives/15204,Organic Search,16,16,14,1.1428571428571428,39.642857142857146,71,0,0
+/global/archives/15840,Organic Search,16,17,15,1.0666666666666667,14.466666666666667,75,0,0
+/global/archives/16286,Direct,16,16,16,1,0,63,0,0
+/global/archives/17844,Referral,16,18,16,1,32.375,63,0,0
+/global/archives/6807,Organic Search,16,16,12,1.3333333333333333,40.083333333333336,72,0,0
+/global/archives/7245,Organic Search,16,16,13,1.2307692307692308,42.92307692307692,65,0,0
+/global/archives/8400,Organic Search,16,16,13,1.2307692307692308,23.76923076923077,72,0,0
+/global/archives/11853,Organic Search,15,18,13,1.1538461538461537,33.23076923076923,67,0,0
+/global/archives/12190,Organic Search,15,14,14,1.0714285714285714,53.214285714285715,63,0,0
+/global/archives/13932,Organic Search,15,16,7,2.142857142857143,35.285714285714285,64,0,0
+/global/archives/15574,Organic Search,15,18,14,1.0714285714285714,40.642857142857146,65,0,0
+/global/archives/15610,Organic Search,15,14,10,1.5,23.5,73,0,0
+/global/archives/17796,Direct,15,17,16,0.9375,20.375,57,0,0
+/global/archives/18022,Referral,15,13,8,1.875,9.375,55,0,0
+/global/archives/3674,Organic Search,15,11,10,1.5,66.5,66,0,0
+/global/archives/489,Organic Search,15,10,9,1.6666666666666667,148.66666666666666,66,0,0
+/global/archives/7961,Organic Search,15,14,12,1.25,58,72,0,0
+/global/archives/category/corporates/sk-innovation,Referral,15,12,12,1.25,13.5,52,0,0
+/global/archives/category/people,Referral,15,12,11,1.3636363636363635,64.36363636363636,55,0,0
+/global/archives/tag/pouch-type-battery,Organic Search,15,13,12,1.25,14.583333333333334,74,0,0
+/global/archives/10535,Organic Search,14,17,13,1.0769230769230769,21.76923076923077,73,0,0
+/global/archives/1058,Organic Search,14,13,10,1.4,22.5,66,0,0
+/global/archives/14193,Organic Search,14,11,10,1.4,77,60,0,0
+/global/archives/15374,Referral,14,13,13,1.0769230769230769,77,61,0,0
+/global/archives/15687,Referral,14,14,12,1.1666666666666667,83.16666666666667,68,0,0
+/global/archives/16131,Direct,14,17,11,1.2727272727272727,16.363636363636363,61,0,0
+/global/archives/16131,Organic Search,14,8,4,3.5,49,54,0,0
+/global/archives/16154,Organic Search,14,16,12,1.1666666666666667,58.916666666666664,64,0,0
+/global/archives/17386,Organic Search,14,14,14,1,68.71428571428571,64,0,0
+/global/archives/17569,Direct,14,16,13,1.0769230769230769,67.3076923076923,62,0,0
+/global/archives/17978,Referral,14,13,8,1.75,50.625,53,0,0
+/global/archives/5944,Organic Search,14,19,13,1.0769230769230769,22.23076923076923,73,0,0
+/global/archives/7476,Organic Search,14,10,9,1.5555555555555556,129.88888888888889,60,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Organic Search,14,10,9,1.5555555555555556,16.11111111111111,50,0,0
+/global/archives/tag/2024-q1,Organic Search,14,5,5,2.8,18.2,55,0,0
+/global/archives/tag/ecopro-bm,Organic Search,14,12,9,1.5555555555555556,7,65,0,0
+/global/archives/tag/green-bonds,Organic Search,14,12,11,1.2727272727272727,11.454545454545455,66,0,0
+/global/archives/tag/sk-battery-america,Organic Search,14,9,9,1.5555555555555556,89.44444444444444,64,0,0
+/global/who-we-are,Organic Search,14,12,8,1.75,19.625,65,0,0
+/global/archives/10835,Organic Search,13,12,11,1.1818181818181819,31.363636363636363,52,0,0
+/global/archives/12147,Organic Search,13,13,12,1.0833333333333333,92.41666666666667,57,0,0
+/global/archives/12688,Organic Search,13,9,8,1.625,38.75,52,0,0
+/global/archives/14628,Direct,13,8,8,1.625,2.5,47,0,0
+/global/archives/15687,Direct,13,14,10,1.3,18.3,53,0,0
+/global/archives/15865,Organic Search,13,12,10,1.3,40.9,50,0,0
+/global/archives/16060,Direct,13,12,11,1.1818181818181819,52.27272727272727,53,0,0
+/global/archives/16060,Referral,13,12,11,1.1818181818181819,12.636363636363637,52,0,0
+/global/archives/16376,Paid Search,13,12,4,3.25,0,37,0,0
+/global/archives/16480,Paid Search,13,13,1,13,0,40,0,0
+/global/archives/16613,Direct,13,11,11,1.1818181818181819,2.090909090909091,47,0,0
+/global/archives/17514,Organic Search,13,13,13,1,23.76923076923077,59,0,0
+/global/archives/17796,Organic Search,13,15,13,1,78.76923076923077,52,0,0
+/global/archives/17893,Organic Search,13,15,8,1.625,29.125,48,0,0
+/global/archives/17978,Organic Social,13,12,12,1.0833333333333333,9.75,60,0,0
+/global/archives/17989,Referral,13,13,12,1.0833333333333333,30.666666666666668,47,0,0
+/global/archives/4308,Organic Search,13,13,13,1,80.38461538461539,63,0,0
+/global/archives/4751,Organic Search,13,14,12,1.0833333333333333,35.666666666666664,59,0,0
+/global/archives/7319,Organic Search,13,11,11,1.1818181818181819,18.545454545454547,59,0,0
+/global/archives/733,Organic Search,13,14,11,1.1818181818181819,31.09090909090909,66,0,0
+/global/archives/7596,Organic Search,13,17,13,1,26.53846153846154,66,0,0
+/global/archives/9740,Organic Search,13,13,12,1.0833333333333333,39.333333333333336,55,0,0
+/global/archives/category/corporates/sk-enmove,Organic Search,13,12,11,1.1818181818181819,16.09090909090909,46,0,0
+/global/archives/tag/skei-singapore,Organic Search,13,9,8,1.625,10.75,56,0,0
+/global/privacy-policy,Direct,13,15,9,1.4444444444444444,53.77777777777778,52,0,0
+/global/archives/11161,Organic Search,12,15,11,1.0909090909090908,24.90909090909091,55,0,0
+/global/archives/14766,Paid Search,12,9,4,3,7.75,37,0,0
+/global/archives/16169,Organic Search,12,13,11,1.0909090909090908,39,54,0,0
+/global/archives/16925,Organic Search,12,14,11,1.0909090909090908,35.81818181818182,48,0,0
+/global/archives/16970,Referral,12,13,11,1.0909090909090908,142,58,0,0
+/global/archives/17356,Direct,12,14,11,1.0909090909090908,25.90909090909091,53,0,0
+/global/archives/17446,Organic Search,12,13,10,1.2,13.7,50,0,0
+/global/archives/9548,Direct,12,11,10,1.2,17.4,53,0,0
+/global/archives/category/corporate/sk-on,Referral,12,12,2,6,45.5,43,0,0
+/global/archives/category/corporates/sk-enmove,Referral,12,7,4,3,93.25,45,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Referral,12,8,5,2.4,38.4,46,0,0
+/global/archives/10872,Organic Search,11,14,9,1.2222222222222223,60.77777777777778,53,0,0
+/global/archives/11992,Organic Search,11,13,9,1.2222222222222223,28.444444444444443,52,0,0
+/global/archives/12008,Organic Search,11,11,9,1.2222222222222223,7.333333333333333,47,0,0
+/global/archives/12667,Organic Search,11,11,9,1.2222222222222223,47.666666666666664,50,0,0
+/global/archives/13313,Organic Search,11,11,10,1.1,21.3,48,0,0
+/global/archives/14078,Organic Search,11,11,11,1,28.636363636363637,51,0,0
+/global/archives/14179,Organic Search,11,13,8,1.375,19.625,45,0,0
+/global/archives/14226,Organic Search,11,11,11,1,18.636363636363637,53,0,0
+/global/archives/14309,Referral,11,16,3,3.6666666666666665,445.6666666666667,47,0,0
+/global/archives/15490,Direct,11,11,9,1.2222222222222223,11.333333333333334,43,0,0
+/global/archives/15689,Organic Search,11,10,9,1.2222222222222223,32.666666666666664,44,0,0
+/global/archives/15985,Organic Search,11,10,10,1.1,20.4,45,0,0
+/global/archives/16169,Referral,11,9,2,5.5,24,41,0,0
+/global/archives/16787,Organic Search,11,12,11,1,47.18181818181818,60,0,0
+/global/archives/17499,Direct,11,11,9,1.2222222222222223,4.222222222222222,42,0,0
+/global/archives/2293,Organic Search,11,13,10,1.1,33.9,52,0,0
+/global/archives/8105,Organic Search,11,11,11,1,42,52,0,0
+/global/archives/9493,Organic Search,11,11,7,1.5714285714285714,17.428571428571427,47,0,0
+/global/archives/category/people,Direct,11,11,8,1.375,10.25,40,0,0
+/global/archives/tag/ncm9,Organic Search,11,8,7,1.5714285714285714,37.142857142857146,42,0,0
+/global/archives/tag/poe,Organic Search,11,8,8,1.375,6.875,54,0,0
+/global/archives/tag/sk-primacor-europe,Organic Search,11,11,10,1.1,9.3,55,0,0
+/global/archives/tag/skba,Organic Search,11,10,9,1.2222222222222223,27.333333333333332,53,0,0
+/global/archives/tag/skeo,Organic Search,11,15,10,1.1,18.2,56,0,0
+/global/archives/11087,Referral,10,11,10,1,39.8,50,0,0
+/global/archives/11527,Organic Search,10,8,7,1.4285714285714286,16.857142857142858,40,0,0
+/global/archives/12036,Organic Search,10,11,9,1.1111111111111112,20.444444444444443,48,0,0
+/global/archives/14309,Organic Search,10,13,11,0.9090909090909091,7.2727272727272725,45,0,0
+/global/archives/15490,Paid Search,10,9,3,3.3333333333333335,1.3333333333333333,33,0,0
+/global/archives/15865,Paid Search,10,9,4,2.5,1.75,30,0,0
+/global/archives/16881,Organic Search,10,9,8,1.25,29.5,44,0,0
+/global/archives/17476,Organic Search,10,9,9,1.1111111111111112,43,46,0,0
+/global/archives/253,Organic Search,10,11,8,1.25,77.375,38,0,0
+/global/archives/9509,Organic Search,10,9,9,1.1111111111111112,35.77777777777778,43,0,0
+/global/archives/category/insight,Referral,10,8,7,1.4285714285714286,9.285714285714286,35,0,0
+/global/archives/category/people/sustainability,Organic Search,10,10,8,1.25,18.625,38,0,0
+/global/archives/category/press-room/issue-fact,Referral,10,8,8,1.25,13,33,0,0
+/global/archives/10159,Organic Search,9,10,9,1,11.444444444444445,44,0,0
+/global/archives/10985,Organic Search,9,8,8,1.125,32,43,0,0
+/global/archives/11004,Organic Search,9,10,7,1.2857142857142858,43.142857142857146,40,0,0
+/global/archives/14264,Organic Search,9,10,8,1.125,52.5,37,0,0
+/global/archives/14565,Organic Search,9,8,8,1.125,23.125,38,0,0
+/global/archives/14628,Organic Search,9,11,9,1,40.888888888888886,38,0,0
+/global/archives/14788,Organic Search,9,9,6,1.5,13,36,0,0
+/global/archives/15259,Direct,9,9,9,1,0,35,0,0
+/global/archives/15409,Organic Search,9,8,7,1.2857142857142858,18.142857142857142,39,0,0
+/global/archives/16405,Organic Search,9,9,8,1.125,27.125,43,0,0
+/global/archives/16719,Direct,9,8,6,1.5,3.1666666666666665,26,0,0
+/global/archives/17569,Referral,9,6,5,1.8,89.4,28,0,0
+/global/archives/17623,Organic Search,9,11,5,1.8,69.8,39,0,0
+/global/archives/4146,Organic Search,9,8,7,1.2857142857142858,130.28571428571428,42,0,0
+/global/archives/6150,Organic Search,9,9,6,1.5,89.16666666666667,31,0,0
+/global/archives/6253,Organic Search,9,10,8,1.125,49,42,0,0
+/global/archives/6343,Organic Search,9,11,7,1.2857142857142858,50.142857142857146,50,0,0
+/global/archives/6517,Organic Search,9,10,7,1.2857142857142858,43,41,0,0
+/global/archives/7031,Organic Search,9,7,5,1.8,40.8,37,0,0
+/global/archives/7292,Organic Search,9,10,8,1.125,22.125,36,0,0
+/global/archives/7761,Organic Search,9,13,8,1.125,250.875,40,0,0
+/global/archives/8087,Organic Search,9,9,7,1.2857142857142858,13.285714285714286,42,0,0
+/global/archives/9096,Organic Search,9,11,6,1.5,74,35,0,0
+/global/archives/category/corporate/sk-rading-international,Organic Search,9,11,7,1.2857142857142858,12.142857142857142,45,0,0
+/global/archives/tag/ecopro,Organic Search,9,9,8,1.125,7.625,41,0,0
+/global/archives/tag/georgia,Organic Search,9,11,8,1.125,62,46,0,0
+/global/archives/tag/mbwa,Organic Search,9,6,6,1.5,7.166666666666667,42,0,0
+/global/archives/11147,Referral,8,8,6,1.3333333333333333,65.83333333333333,40,0,0
+/global/archives/13780,Direct,8,9,6,1.3333333333333333,7.5,35,0,0
+/global/archives/14309,Direct,8,8,8,1,9.25,30,0,0
+/global/archives/14333,Organic Search,8,8,7,1.1428571428571428,53.57142857142857,32,0,0
+/global/archives/16376,Direct,8,7,3,2.6666666666666665,8,27,0,0
+/global/archives/16463,Direct,8,8,8,1,18.25,37,0,0
+/global/archives/17022,Organic Search,8,8,8,1,63.5,37,0,0
+/global/archives/17134,Organic Search,8,8,8,1,80.25,33,0,0
+/global/archives/1722,Organic Search,8,8,7,1.1428571428571428,31.714285714285715,38,0,0
+/global/archives/17737,Organic Social,8,9,7,1.1428571428571428,6.571428571428571,36,0,0
+/global/archives/17796,Referral,8,8,8,1,79.75,31,0,0
+/global/archives/18022,Organic Social,8,9,6,1.3333333333333333,9.5,34,0,0
+/global/archives/4844,Organic Search,8,12,8,1,4.25,37,0,0
+/global/archives/5129,Organic Search,8,11,7,1.1428571428571428,5.857142857142857,40,0,0
+/global/archives/6090,Organic Search,8,9,6,1.3333333333333333,48.166666666666664,32,0,0
+/global/archives/6824,Organic Search,8,7,7,1.1428571428571428,23.714285714285715,32,0,0
+/global/archives/7043,Organic Search,8,7,5,1.6,10.2,33,0,0
+/global/archives/7245,Direct,8,8,7,1.1428571428571428,4.857142857142857,31,0,0
+/global/archives/7353,Direct,8,8,8,1,0,30,0,0
+/global/archives/8067,Organic Search,8,8,8,1,3,34,0,0
+/global/archives/8152,Organic Search,8,7,6,1.3333333333333333,31.333333333333332,36,0,0
+/global/archives/9998,Organic Search,8,9,8,1,21.625,39,0,0
+/global/archives/category/corporate/sk-ie-technology,Referral,8,6,5,1.6,82.2,39,0,0
+/global/archives/category/corporate/sk-on,Direct,8,7,7,1.1428571428571428,3,32,0,0
+/global/archives/category/corporates/sk-geo-centric,Referral,8,6,6,1.3333333333333333,47.333333333333336,31,0,0
+/global/archives/category/insight/expert-voice,Referral,8,6,6,1.3333333333333333,28.166666666666668,30,0,0
+/global/archives/category/people/ceo-leaders,Organic Search,8,8,7,1.1428571428571428,22.285714285714285,35,0,0
+/global/archives/tag/energy-super-station,Organic Search,8,5,5,1.6,16.4,35,0,0
+/global/archives/10872,Direct,7,7,2,3.5,121.5,25,0,0
+/global/archives/11415,Organic Search,7,7,7,1,12.142857142857142,30,0,0
+/global/archives/11537,Referral,7,7,6,1.1666666666666667,35,24,0,0
+/global/archives/11807,Direct,7,6,6,1.1666666666666667,119.33333333333333,30,0,0
+/global/archives/12072,Organic Search,7,8,7,1,16.428571428571427,35,0,0
+/global/archives/1237,Organic Search,7,5,4,1.75,23.25,28,0,0
+/global/archives/13130,Direct,7,7,7,1,1.2857142857142858,29,0,0
+/global/archives/1321,Direct,7,7,7,1,0.14285714285714285,24,0,0
+/global/archives/13804,Organic Search,7,9,6,1.1666666666666667,67.66666666666667,36,0,0
+/global/archives/14264,Direct,7,9,6,1.1666666666666667,101.66666666666667,33,0,0
+/global/archives/14740,Organic Search,7,7,6,1.1666666666666667,7.333333333333333,29,0,0
+/global/archives/15007,Organic Search,7,7,6,1.1666666666666667,44,32,0,0
+/global/archives/15204,Paid Search,7,7,2,3.5,0,22,0,0
+/global/archives/15497,Organic Search,7,8,6,1.1666666666666667,28.166666666666668,31,0,0
+/global/archives/16493,Direct,7,8,6,1.1666666666666667,49.666666666666664,28,0,0
+/global/archives/17313,Direct,7,9,7,1,5.857142857142857,32,0,0
+/global/archives/17989,Organic Social,7,7,7,1,4.285714285714286,29,0,0
+/global/archives/2329,Organic Search,7,7,6,1.1666666666666667,69.66666666666667,28,0,0
+/global/archives/4360,Organic Search,7,7,5,1.4,42,30,0,0
+/global/archives/4728,Organic Search,7,10,6,1.1666666666666667,1.5,32,0,0
+/global/archives/6014,Organic Search,7,7,6,1.1666666666666667,123.33333333333333,34,0,0
+/global/archives/653,Organic Search,7,6,6,1.1666666666666667,31.166666666666668,29,0,0
+/global/archives/7740,Organic Search,7,6,5,1.4,18.6,30,0,0
+/global/archives/7894,Organic Search,7,6,5,1.4,23,31,0,0
+/global/archives/7906,Organic Search,7,8,7,1,16.428571428571427,37,0,0
+/global/archives/8383,Organic Search,7,7,7,1,4.142857142857143,28,0,0
+/global/archives/8914,Organic Search,7,7,7,1,35.42857142857143,36,0,0
+/global/archives/9910,Direct,7,7,6,1.1666666666666667,36.5,29,0,0
+/global/archives/category/ces/ces-2022-ces-2022,Organic Search,7,5,5,1.4,16.4,27,0,0
+/global/archives/category/corporates/sk-energy,Direct,7,8,7,1,18.285714285714285,28,0,0
+/global/archives/category/corporates/sk-rading-international,Organic Search,7,5,4,1.75,21,26,0,0
+/global/archives/category/corporates/sk-rading-international,Referral,7,5,5,1.4,12.8,25,0,0
+/global/archives/category/insight/trend_report,Referral,7,5,5,1.4,21.2,25,0,0
+/global/archives/category/people/inno-people,Direct,7,7,7,1,18,29,0,0
+/global/archives/tag/2023-q4,Organic Search,7,5,5,1.4,4.8,26,0,0
+/global/archives/tag/all-solid-state-battery,Organic Search,7,5,5,1.4,9.8,31,0,0
+/global/archives/tag/blueovalsk,Organic Search,7,3,3,2.3333333333333335,28.333333333333332,28,0,0
+/global/archives/tag/ess,Organic Search,7,6,5,1.4,7.8,31,0,0
+/global/archives/tag/lithium-ion-battery,Organic Search,7,6,5,1.4,10.6,34,0,0
+/global/archives/tag/pbat,Organic Search,7,6,5,1.4,23,33,0,0
+/global/archives/tag/skbmp,Organic Search,7,8,6,1.1666666666666667,5.666666666666667,33,0,0
+/global/archives/tag/z-folding,Organic Search,7,3,3,2.3333333333333335,29.666666666666668,26,0,0
+/global/latestnews,Organic Social,7,9,2,3.5,32,30,0,0
+/global/archives/11004,Direct,6,5,5,1.2,14.4,24,0,0
+/global/archives/11037,Organic Search,6,7,6,1,55,32,0,0
+/global/archives/11147,Organic Search,6,6,6,1,11.666666666666666,27,0,0
+/global/archives/11879,Organic Search,6,5,3,2,69,24,0,0
+/global/archives/11980,Organic Search,6,6,5,1.2,61.8,25,0,0
+/global/archives/12106,Direct,6,7,6,1,4,28,0,0
+/global/archives/12269,Organic Search,6,7,5,1.2,16,26,0,0
+/global/archives/12471,Organic Search,6,7,6,1,36.833333333333336,27,0,0
+/global/archives/13036,Organic Search,6,6,6,1,26.333333333333332,26,0,0
+/global/archives/13060,Organic Search,6,8,6,1,21,31,0,0
+/global/archives/13211,Organic Search,6,6,6,1,25.5,26,0,0
+/global/archives/13443,Organic Search,6,6,6,1,46.166666666666664,24,0,0
+/global/archives/13748,Organic Search,6,6,5,1.2,10.2,23,0,0
+/global/archives/14065,Organic Search,6,8,5,1.2,62.2,28,0,0
+/global/archives/14491,Direct,6,6,6,1,62.166666666666664,26,0,0
+/global/archives/14493,Organic Search,6,7,6,1,70.66666666666667,26,0,0
+/global/archives/15353,Organic Social,6,6,6,1,21.333333333333332,23,0,0
+/global/archives/15574,Direct,6,8,6,1,11.666666666666666,22,0,0
+/global/archives/15592,Organic Search,6,6,5,1.2,11.2,26,0,0
+/global/archives/15664,Referral,6,6,6,1,24.333333333333332,27,0,0
+/global/archives/15760,Organic Search,6,7,6,1,24.5,30,0,0
+/global/archives/16154,Direct,6,7,5,1.2,14.6,23,0,0
+/global/archives/16480,Direct,6,7,3,2,6.333333333333333,20,0,0
+/global/archives/17623,Referral,6,6,4,1.5,53,25,0,0
+/global/archives/17893,Organic Social,6,6,6,1,57.5,29,0,0
+/global/archives/1960,Direct,6,8,5,1.2,4.8,29,0,0
+/global/archives/1960,Organic Search,6,8,4,1.5,49,26,0,0
+/global/archives/3464,Organic Search,6,6,6,1,15.166666666666666,25,0,0
+/global/archives/4482,Organic Search,6,7,6,1,22.333333333333332,28,0,0
+/global/archives/4728,Direct,6,6,6,1,6.833333333333333,24,0,0
+/global/archives/5016,Organic Search,6,8,5,1.2,32.4,32,0,0
+/global/archives/564,Organic Search,6,8,6,1,26.5,25,0,0
+/global/archives/7112,Organic Search,6,5,4,1.5,12,26,0,0
+/global/archives/7919,Organic Search,6,6,4,1.5,159.75,29,0,0
+/global/archives/8310,Organic Search,6,6,5,1.2,59.4,25,0,0
+/global/archives/8350,Organic Search,6,7,5,1.2,0.8,22,0,0
+/global/archives/8428,Organic Search,6,7,6,1,14.833333333333334,28,0,0
+/global/archives/8599,Organic Search,6,8,4,1.5,13,27,0,0
+/global/archives/9493,Direct,6,8,4,1.5,2.75,25,0,0
+/global/archives/9616,Referral,6,7,6,1,9.833333333333334,26,0,0
+/global/archives/9715,Organic Search,6,4,4,1.5,28,28,0,0
+/global/archives/9877,Organic Search,6,5,4,1.5,11.25,24,0,0
+/global/archives/category/corporate/sk-energy,Organic Search,6,3,3,2,27,24,0,0
+/global/archives/category/corporate/sk-geo-centric,Direct,6,7,6,1,18.333333333333332,25,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Organic Search,6,6,6,1,16.666666666666668,30,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Referral,6,5,5,1.2,4.4,27,0,0
+/global/archives/category/corporates,Organic Social,6,3,3,2,12,21,0,0
+/global/archives/category/corporates/sk-energy,Referral,6,6,6,1,17.666666666666668,22,0,0
+/global/archives/category/people/onsite-report,Organic Search,6,6,5,1.2,20,22,0,0
+/global/archives/tag/bev,Organic Search,6,1,1,6,29,26,0,0
+/global/archives/tag/ferrari,Organic Search,6,6,5,1.2,9.6,28,0,0
+/global/archives/tag/financial-results,Referral,6,2,2,3,28.5,24,0,0
+/global/archives/tag/germany,Organic Search,6,4,4,1.5,16.5,28,0,0
+/global/archives/tag/pyrolysis,Organic Search,6,6,4,1.5,71.25,28,0,0
+/global/privacy-policy,Organic Search,6,7,5,1.2,17.2,25,0,0
+/global/archives/10264,Organic Search,5,3,3,1.6666666666666667,71.33333333333333,21,0,0
+/global/archives/10310,Organic Search,5,5,5,1,19.4,23,0,0
+/global/archives/12008,Direct,5,6,3,1.6666666666666667,37,24,0,0
+/global/archives/12022,Direct,5,4,4,1.25,24.75,23,0,0
+/global/archives/13103,Organic Search,5,6,5,1,126.8,26,0,0
+/global/archives/13413,Organic Search,5,5,5,1,26.6,23,0,0
+/global/archives/1399,Organic Search,5,6,5,1,61.8,27,0,0
+/global/archives/14004,Organic Search,5,6,5,1,49.8,27,0,0
+/global/archives/14193,Direct,5,7,4,1.25,27.75,25,0,0
+/global/archives/14442,Organic Search,5,4,4,1.25,44.25,22,0,0
+/global/archives/14634,Paid Search,5,5,1,5,0,16,0,0
+/global/archives/14668,Organic Search,5,6,4,1.25,27.25,21,0,0
+/global/archives/15574,Referral,5,7,5,1,37.8,20,0,0
+/global/archives/16480,Organic Search,5,5,4,1.25,18.75,20,0,0
+/global/archives/16493,Referral,5,4,3,1.6666666666666667,36.333333333333336,21,0,0
+/global/archives/16719,Paid Search,5,5,2,2.5,0,15,0,0
+/global/archives/16970,Direct,5,4,4,1.25,11.25,21,0,0
+/global/archives/17169,Direct,5,4,4,1.25,127.75,21,0,0
+/global/archives/17216,Organic Social,5,5,5,1,12.6,22,0,0
+/global/archives/17292,Organic Search,5,4,4,1.25,28.25,23,0,0
+/global/archives/17460,Organic Search,5,5,5,1,6.8,21,0,0
+/global/archives/17476,Direct,5,5,5,1,97.4,23,0,0
+/global/archives/17595,Paid Search,5,5,1,5,0,16,0,0
+/global/archives/17697,Organic Search,5,7,4,1.25,5.5,22,0,0
+/global/archives/17796,Organic Social,5,3,3,1.6666666666666667,5.333333333333333,19,0,0
+/global/archives/17990,Unassigned,5,3,3,1.6666666666666667,0,9,0,0
+/global/archives/2212,Organic Search,5,7,4,1.25,46.5,25,0,0
+/global/archives/303,Organic Search,5,6,4,1.25,18.75,23,0,0
+/global/archives/3123,Organic Search,5,4,4,1.25,8.25,22,0,0
+/global/archives/3197,Referral,5,4,3,1.6666666666666667,10.333333333333334,17,0,0
+/global/archives/3304,Organic Search,5,4,4,1.25,9.75,19,0,0
+/global/archives/3393,Organic Search,5,5,5,1,14.8,22,0,0
+/global/archives/349,Organic Search,5,5,5,1,13.4,21,0,0
+/global/archives/3786,Organic Search,5,4,3,1.6666666666666667,8,21,0,0
+/global/archives/3820,Direct,5,6,5,1,6.6,25,0,0
+/global/archives/4026,Organic Search,5,5,5,1,0.6,20,0,0
+/global/archives/4193,Organic Search,5,4,4,1.25,14.25,21,0,0
+/global/archives/4585,Organic Search,5,4,4,1.25,31.25,21,0,0
+/global/archives/4776,Organic Search,5,5,5,1,33.4,19,0,0
+/global/archives/4793,Organic Search,5,6,5,1,0.8,23,0,0
+/global/archives/4921,Organic Search,5,5,4,1.25,6.5,20,0,0
+/global/archives/5404,Organic Search,5,6,5,1,21,22,0,0
+/global/archives/5772,Organic Search,5,6,4,1.25,26.5,25,0,0
+/global/archives/6090,Direct,5,5,4,1.25,37.5,20,0,0
+/global/archives/6313,Organic Search,5,6,5,1,27.2,23,0,0
+/global/archives/7302,Organic Search,5,4,4,1.25,46.5,25,0,0
+/global/archives/7633,Direct,5,4,4,1.25,140.5,19,0,0
+/global/archives/8168,Organic Search,5,5,5,1,4.8,20,0,0
+/global/archives/8255,Organic Search,5,5,1,5,31,22,0,0
+/global/archives/9079,Organic Search,5,1,1,5,61,16,0,0
+/global/archives/category/corporate/sk-enmove,Organic Search,5,4,4,1.25,7.25,15,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Direct,5,3,3,1.6666666666666667,61.333333333333336,20,0,0
+/global/archives/category/corporates/sk-on,Organic Social,5,5,3,1.6666666666666667,273.3333333333333,19,0,0
+/global/archives/category/people/inno-people,Referral,5,7,4,1.25,17.25,22,0,0
+/global/archives/category/social-value/csr-program,Direct,5,5,5,1,0,19,0,0
+/global/archives/tag/1-4-butanediol,Organic Search,5,4,4,1.25,23.25,24,0,0
+/global/archives/tag/blueoval-sk,Organic Search,5,3,3,1.6666666666666667,11,21,0,0
+/global/archives/tag/earnings,Organic Search,5,3,2,2.5,5.5,21,0,0
+/global/archives/tag/europe,Organic Search,5,4,4,1.25,53,19,0,0
+/global/archives/tag/jee-dong-seob,Organic Search,5,5,4,1.25,7.75,23,0,0
+/global/archives/tag/komarom,Organic Search,5,4,4,1.25,9.75,24,0,0
+/global/archives/tag/lee-seong-jun,Organic Search,5,4,4,1.25,4.5,22,0,0
+/global/archives/tag/ncm811,Organic Search,5,5,5,1,6.6,24,0,0
+/global/archives/tag/sk-gc-americas,Organic Search,5,3,2,2.5,11.5,24,0,0
+/global/archives/tag/sk-hi-tech-battery-materials-poland,Organic Search,5,4,4,1.25,17.5,23,0,0
+/global/archives/tag/sk-supex-council,Organic Search,5,3,3,1.6666666666666667,18,21,0,0
+/global/archives/tag/sk综合化学,Organic Search,5,3,3,1.6666666666666667,30.666666666666668,21,0,0
+/global/archives/tag/ulsan-complex,Organic Search,5,6,5,1,14.4,27,0,0
+/global/archives/10133,Organic Search,4,5,5,0.8,266.8,16,0,0
+/global/archives/10610,Organic Search,4,6,3,1.3333333333333333,0,16,0,0
+/global/archives/10767,Organic Search,4,6,4,1,16.25,20,0,0
+/global/archives/10802,Organic Search,4,4,4,1,55,19,0,0
+/global/archives/11214,Organic Search,4,4,4,1,15.5,18,0,0
+/global/archives/11512,Organic Search,4,5,4,1,11,20,0,0
+/global/archives/11537,Organic Search,4,8,4,1,9.5,22,0,0
+/global/archives/11596,Referral,4,5,4,1,12.5,20,0,0
+/global/archives/11830,Direct,4,4,4,1,0,16,0,0
+/global/archives/11853,Direct,4,4,4,1,7,16,0,0
+/global/archives/12022,Referral,4,4,3,1.3333333333333333,30.666666666666668,13,0,0
+/global/archives/12306,Direct,4,5,3,1.3333333333333333,55.333333333333336,21,0,0
+/global/archives/12373,Organic Search,4,5,4,1,13.5,17,0,0
+/global/archives/12413,Direct,4,6,5,0.8,0,15,0,0
+/global/archives/13018,Organic Search,4,4,2,2,48,17,0,0
+/global/archives/13513,Organic Search,4,4,3,1.3333333333333333,8.333333333333334,16,0,0
+/global/archives/13795,Organic Search,4,4,3,1.3333333333333333,59.666666666666664,19,0,0
+/global/archives/13850,Organic Search,4,5,3,1.3333333333333333,56,20,0,0
+/global/archives/1425,Organic Search,4,3,3,1.3333333333333333,23.333333333333332,17,0,0
+/global/archives/14493,Direct,4,4,2,2,2.5,17,0,0
+/global/archives/14493,Referral,4,4,3,1.3333333333333333,150,18,0,0
+/global/archives/14688,Organic Search,4,4,4,1,15,20,0,0
+/global/archives/14766,Direct,4,3,3,1.3333333333333333,19.666666666666668,14,0,0
+/global/archives/15067,Organic Search,4,4,4,1,10.25,17,0,0
+/global/archives/15259,Referral,4,3,2,2,5,15,0,0
+/global/archives/15430,Organic Search,4,4,4,1,35.75,17,0,0
+/global/archives/15462,Direct,4,4,4,1,14,18,0,0
+/global/archives/16308,Organic Search,4,6,3,1.3333333333333333,7,21,0,0
+/global/archives/16613,Organic Search,4,5,4,1,15.25,17,0,0
+/global/archives/16834,Direct,4,3,3,1.3333333333333333,18.333333333333332,17,0,0
+/global/archives/16881,Direct,4,4,0,0,0,12,0,0
+/global/archives/16881,Paid Search,4,4,0,0,0,10,0,0
+/global/archives/16904,Direct,4,5,4,1,14.5,16,0,0
+/global/archives/1703,Organic Search,4,3,2,2,87,13,0,0
+/global/archives/17144,Organic Search,4,4,4,1,18.25,16,0,0
+/global/archives/17426,Organic Social,4,5,2,2,4,16,0,0
+/global/archives/17446,Referral,4,4,4,1,44,16,0,0
+/global/archives/17623,Direct,4,5,4,1,164.25,16,0,0
+/global/archives/17623,Organic Social,4,4,4,1,0,16,0,0
+/global/archives/17737,Referral,4,5,4,1,15.25,12,0,0
+/global/archives/17931,Direct,4,1,1,4,0,12,0,0
+/global/archives/4193,Direct,4,3,1,4,93,15,0,0
+/global/archives/4218,Referral,4,3,1,4,181,18,0,0
+/global/archives/4812,Organic Search,4,5,4,1,13.5,21,0,0
+/global/archives/497,Organic Search,4,4,4,1,118.5,18,0,0
+/global/archives/5944,Direct,4,4,3,1.3333333333333333,12,17,0,0
+/global/archives/5981,Organic Search,4,5,4,1,2.5,18,0,0
+/global/archives/6377,Organic Search,4,5,4,1,39,21,0,0
+/global/archives/638,Organic Search,4,5,4,1,21.5,19,0,0
+/global/archives/736,Organic Search,4,4,3,1.3333333333333333,3,15,0,0
+/global/archives/7670,Organic Search,4,4,3,1.3333333333333333,15.666666666666666,20,0,0
+/global/archives/8899,Organic Search,4,5,4,1,59.5,20,0,0
+/global/archives/9740,Referral,4,6,4,1,46.75,18,0,0
+/global/archives/category/corporates/sk-enmove,Direct,4,4,3,1.3333333333333333,4.333333333333333,18,0,0
+/global/archives/category/social-value/opinions,Direct,4,4,4,1,0,15,0,0
+/global/archives/category/social-value/social-enterprise,Direct,4,4,4,1,0,16,0,0
+/global/archives/tag/2023-q4,Referral,4,2,2,2,7.5,16,0,0
+/global/archives/tag/annual-general-meeting-of-shareholders,Organic Search,4,3,3,1.3333333333333333,12.666666666666666,20,0,0
+/global/archives/tag/australia,Organic Search,4,1,1,4,31,15,0,0
+/global/archives/tag/battery,Organic Search,4,4,4,1,21.25,14,0,0
+/global/archives/tag/ccs,Organic Search,4,3,3,1.3333333333333333,7.333333333333333,16,0,0
+/global/archives/tag/depolymerization,Organic Search,4,3,2,2,60.5,18,0,0
+/global/archives/tag/group-iii-base-oil,Organic Search,4,5,2,2,9,20,0,0
+/global/archives/tag/indeung-mountain,Organic Search,4,4,3,1.3333333333333333,27,18,0,0
+/global/archives/tag/inobus,Organic Search,4,3,3,1.3333333333333333,10.333333333333334,19,0,0
+/global/archives/tag/poland,Organic Search,4,3,3,1.3333333333333333,10.666666666666666,19,0,0
+/global/archives/tag/polestar-5,Organic Search,4,1,1,4,6,13,0,0
+/global/archives/tag/sk-earthon-shenzhen,Organic Search,4,3,3,1.3333333333333333,17,20,0,0
+/global/archives/tag/sk-functional-polymer,Organic Search,4,4,3,1.3333333333333333,12.666666666666666,19,0,0
+/global/archives/tag/sk-global-forum,Organic Search,4,3,3,1.3333333333333333,7.333333333333333,18,0,0
+/global/archives/tag/sk-innovations-institute-of-environmental-science-technology,Organic Search,4,3,3,1.3333333333333333,17.666666666666668,17,0,0
+/global/archives/tag/skbh,Organic Search,4,4,4,1,11,19,0,0
+/global/archives/tag/skgca,Organic Search,4,6,3,1.3333333333333333,9.333333333333334,22,0,0
+/global/archives/tag/skti,Organic Search,4,4,4,1,1,17,0,0
+/global/archives/tag/weixing-chemical,Organic Search,4,2,2,2,8.5,17,0,0
+/global/terms-and-conditions,Direct,4,4,2,2,14.5,16,0,0
+/global/who-we-are,Direct,4,3,3,1.3333333333333333,40.666666666666664,16,0,0
+/global/404,Direct,3,1,1,3,9,13,0,0
+/global/archives/10133,Direct,3,3,3,1,10.666666666666666,11,0,0
+/global/archives/10897,Organic Search,3,4,3,1,18.333333333333332,12,0,0
+/global/archives/10985,Direct,3,3,3,1,56.666666666666664,13,0,0
+/global/archives/11010,Organic Search,3,2,2,1.5,23.5,11,0,0
+/global/archives/11037,Referral,3,3,3,1,7,10,0,0
+/global/archives/11058,Organic Search,3,2,2,1.5,28.5,12,0,0
+/global/archives/11400,Organic Search,3,3,3,1,7.666666666666667,15,0,0
+/global/archives/11415,Direct,3,6,3,1,0,17,0,0
+/global/archives/11683,Organic Search,3,3,3,1,27.666666666666668,11,0,0
+/global/archives/1175,Organic Search,3,2,2,1.5,17.5,11,0,0
+/global/archives/11830,Organic Search,3,4,3,1,2.3333333333333335,11,0,0
+/global/archives/12106,Referral,3,1,1,3,803,10,0,0
+/global/archives/1257,Organic Search,3,3,3,1,33,15,0,0
+/global/archives/12610,Organic Search,3,3,3,1,66.66666666666667,13,0,0
+/global/archives/12692,Direct,3,1,1,3,594,12,0,0
+/global/archives/12692,Organic Search,3,3,3,1,70,15,0,0
+/global/archives/13153,Organic Search,3,3,3,1,25.666666666666668,14,0,0
+/global/archives/13230,Organic Search,3,3,3,1,172,16,0,0
+/global/archives/13256,Organic Search,3,3,3,1,74,15,0,0
+/global/archives/13327,Organic Search,3,4,3,1,7.333333333333333,15,0,0
+/global/archives/13374,Organic Search,3,3,3,1,35.333333333333336,15,0,0
+/global/archives/13595,Direct,3,3,3,1,3.3333333333333335,11,0,0
+/global/archives/13795,Direct,3,2,2,1.5,0,10,0,0
+/global/archives/14400,Organic Search,3,4,3,1,33.333333333333336,16,0,0
+/global/archives/14415,Organic Search,3,4,3,1,22.666666666666668,14,0,0
+/global/archives/14740,Direct,3,4,3,1,13.333333333333334,13,0,0
+/global/archives/14800,Organic Search,3,3,3,1,19.666666666666668,13,0,0
+/global/archives/14803,Organic Search,3,2,2,1.5,0,10,0,0
+/global/archives/14896,Organic Search,3,2,2,1.5,31,13,0,0
+/global/archives/1493,Organic Search,3,3,3,1,14,12,0,0
+/global/archives/14962,Organic Search,3,3,3,1,11,12,0,0
+/global/archives/15317,Organic Search,3,3,2,1.5,19,15,0,0
+/global/archives/15638,Organic Search,3,3,3,1,7.666666666666667,11,0,0
+/global/archives/15654,Organic Search,3,3,3,1,20.666666666666668,13,0,0
+/global/archives/15902,Organic Search,3,3,3,1,2,13,0,0
+/global/archives/16025,Organic Search,3,3,2,1.5,32.5,12,0,0
+/global/archives/16154,Referral,3,5,3,1,45.333333333333336,13,0,0
+/global/archives/16169,Direct,3,3,3,1,16.666666666666668,11,0,0
+/global/archives/16286,Referral,3,3,3,1,16.333333333333332,11,0,0
+/global/archives/16448,Referral,3,2,2,1.5,27,10,0,0
+/global/archives/16480,Referral,3,5,3,1,17.333333333333332,13,0,0
+/global/archives/16563,Organic Search,3,3,3,1,23.333333333333332,13,0,0
+/global/archives/16613,Organic Video,3,3,0,0,0,9,0,0
+/global/archives/16719,Organic Search,3,3,3,1,34,13,0,0
+/global/archives/16939,Referral,3,4,3,1,56,12,0,0
+/global/archives/17010,Referral,3,3,3,1,27,12,0,0
+/global/archives/17169,Referral,3,4,3,1,48,10,0,0
+/global/archives/17446,Organic Social,3,3,3,1,36,12,0,0
+/global/archives/17446,Paid Search,3,2,1,3,8,8,0,0
+/global/archives/17514,Referral,3,3,3,1,13.666666666666666,11,0,0
+/global/archives/17595,Organic Social,3,4,3,1,69.33333333333333,9,0,0
+/global/archives/17697,Direct,3,4,3,1,98.66666666666667,11,0,0
+/global/archives/17697,Referral,3,2,2,1.5,4.5,10,0,0
+/global/archives/17817,Unassigned,3,8,6,0.5,7.666666666666667,12,0,0
+/global/archives/17844,Organic Social,3,4,3,1,27.666666666666668,13,0,0
+/global/archives/2026,Organic Search,3,3,3,1,6.666666666666667,11,0,0
+/global/archives/2280,Organic Search,3,2,2,1.5,10,10,0,0
+/global/archives/2448,Organic Search,3,4,3,1,96.66666666666667,16,0,0
+/global/archives/3005,Organic Search,3,3,3,1,52,14,0,0
+/global/archives/3709,Organic Search,3,3,3,1,45,14,0,0
+/global/archives/3726,Organic Search,3,3,2,1.5,14,14,0,0
+/global/archives/3820,Referral,3,4,3,1,33.333333333333336,15,0,0
+/global/archives/3962,Direct,3,2,2,1.5,0,10,0,0
+/global/archives/417,Organic Search,3,3,3,1,16.333333333333332,12,0,0
+/global/archives/4309,Organic Search,3,3,3,1,131.66666666666666,15,0,0
+/global/archives/5288,Organic Search,3,3,1,3,0,9,0,0
+/global/archives/5310,Organic Search,3,4,3,1,1,13,0,0
+/global/archives/5609,Organic Search,3,3,3,1,17.333333333333332,14,0,0
+/global/archives/5892,Direct,3,3,3,1,0,10,0,0
+/global/archives/5893,Organic Search,3,3,3,1,5.333333333333333,14,0,0
+/global/archives/631,Organic Search,3,2,2,1.5,25.5,14,0,0
+/global/archives/6323,Organic Search,3,3,2,1.5,0,12,0,0
+/global/archives/6343,Direct,3,3,2,1.5,3,13,0,0
+/global/archives/6462,Organic Search,3,3,3,1,16,14,0,0
+/global/archives/6504,Organic Search,3,4,3,1,36,12,0,0
+/global/archives/6517,Direct,3,3,3,1,0.3333333333333333,11,0,0
+/global/archives/6546,Organic Search,3,3,3,1,26.666666666666668,15,0,0
+/global/archives/6857,Direct,3,1,1,3,0,8,0,0
+/global/archives/7125,Direct,3,1,1,3,0,8,0,0
+/global/archives/7125,Organic Search,3,4,3,1,4.666666666666667,15,0,0
+/global/archives/7710,Organic Search,3,3,3,1,91.66666666666667,15,0,0
+/global/archives/7794,Organic Search,3,4,3,1,29.333333333333332,12,0,0
+/global/archives/7991,Organic Search,3,3,3,1,5.666666666666667,15,0,0
+/global/archives/8046,Referral,3,3,3,1,95,16,0,0
+/global/archives/8298,Organic Search,3,3,3,1,22,10,0,0
+/global/archives/8360,Organic Search,3,3,3,1,17,11,0,0
+/global/archives/8846,Organic Search,3,3,3,1,15.666666666666666,11,0,0
+/global/archives/9096,Direct,3,4,2,1.5,10.5,13,0,0
+/global/archives/9096,Referral,3,4,2,1.5,12,12,0,0
+/global/archives/9394,Organic Search,3,4,2,1.5,11,14,0,0
+/global/archives/9480,Organic Search,3,3,3,1,13.333333333333334,16,0,0
+/global/archives/9695,Organic Search,3,2,2,1.5,49,13,0,0
+/global/archives/9837,Organic Search,3,4,2,1.5,2,14,0,0
+/global/archives/9893,Organic Search,3,4,2,1.5,6,14,0,0
+/global/archives/category/corporate,Direct,3,2,1,3,4,15,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Direct,3,3,3,1,0,12,0,0
+/global/archives/tag/ambassadors-spouses-association-in-seoul,Organic Search,3,2,2,1.5,10.5,13,0,0
+/global/archives/tag/arc,Organic Search,3,3,3,1,5.333333333333333,15,0,0
+/global/archives/tag/best-oil-company,Organic Search,3,3,3,1,7,13,0,0
+/global/archives/tag/biofuel,Organic Search,3,3,2,1.5,12,14,0,0
+/global/archives/tag/biofuel,Referral,3,1,1,3,31,8,0,0
+/global/archives/tag/carbon-to-green,Organic Search,3,2,2,1.5,24,11,0,0
+/global/archives/tag/ces-2023,Organic Search,3,4,3,1,6.666666666666667,11,0,0
+/global/archives/tag/digital-transformation,Direct,3,3,3,1,0,11,0,0
+/global/archives/tag/digital-transformation,Organic Search,3,3,2,1.5,5,15,0,0
+/global/archives/tag/georgia,Direct,3,3,3,1,23,12,0,0
+/global/archives/tag/greenification,Organic Search,3,1,1,3,95,14,0,0
+/global/archives/tag/hydrogen,Organic Search,3,3,3,1,28.666666666666668,11,0,0
+/global/archives/tag/india,Organic Search,3,3,3,1,5.333333333333333,16,0,0
+/global/archives/tag/lithium-ion-batteries,Organic Search,3,2,2,1.5,12.5,12,0,0
+/global/archives/tag/myanmart,Organic Search,3,1,1,3,8,12,0,0
+/global/archives/tag/nmc,Organic Search,3,2,2,1.5,6.5,13,0,0
+/global/archives/tag/peru,Organic Search,3,2,2,1.5,21,15,0,0
+/global/archives/tag/rhee-jang-weon,Organic Search,3,3,3,1,8.333333333333334,16,0,0
+/global/archives/tag/sales,Organic Search,3,1,1,3,15,12,0,0
+/global/archives/tag/separator,Organic Search,3,3,3,1,8.666666666666666,12,0,0
+/global/archives/tag/sk-block-427,Organic Search,3,3,3,1,4.333333333333333,12,0,0
+/global/archives/tag/sk-geo-centric,Direct,3,2,1,3,108,13,0,0
+/global/archives/tag/sk-lubricants,Referral,3,3,3,1,63.666666666666664,11,0,0
+/global/archives/tag/ske,Organic Search,3,3,2,1.5,55,14,0,0
+/global/archives/tag/technology,Direct,3,3,3,1,3.3333333333333335,10,0,0
+/global/archives/tag/tesla,Organic Search,3,2,2,1.5,7,14,0,0
+/global/archives/tag/texas,Organic Search,3,3,3,1,14,16,0,0
+/global/archives/tag/turkey,Organic Search,3,3,3,1,7.333333333333333,15,0,0
+/global/archives/tag/ulsan-clx,Organic Search,3,3,3,1,9,15,0,0
+/global/family-site-links,Organic Search,3,4,3,1,3.6666666666666665,14,0,0
+/global/terms-and-conditions,Organic Search,3,3,3,1,17.666666666666668,12,0,0
+/global/terms-and-conditions,Paid Search,3,3,0,0,0,9,0,0
+/global/archives/,Referral,2,1,1,2,4,8,0,0
+/global/archives/10031,Organic Search,2,2,2,1,11,7,0,0
+/global/archives/10276,Organic Search,2,2,2,1,7,5,0,0
+/global/archives/10310,Referral,2,2,2,1,7,6,0,0
+/global/archives/10326,Organic Search,2,2,2,1,10,8,0,0
+/global/archives/1043,Organic Search,2,3,2,1,8,11,0,0
+/global/archives/10445,Organic Search,2,2,2,1,20,9,0,0
+/global/archives/10460,Organic Search,2,1,1,2,41,9,0,0
+/global/archives/10478,Organic Search,2,1,1,2,63,7,0,0
+/global/archives/10570,Organic Search,2,2,2,1,0.5,7,0,0
+/global/archives/1058,Direct,2,2,2,1,43,11,0,0
+/global/archives/10654,Direct,2,2,2,1,19,9,0,0
+/global/archives/10654,Referral,2,1,1,2,42,7,0,0
+/global/archives/10845/카드뉴스_p2,Organic Search,2,1,1,2,10,9,0,0
+/global/archives/10913,Direct,2,1,1,2,39,8,0,0
+/global/archives/10939,Direct,2,2,2,1,7,8,0,0
+/global/archives/10939,Referral,2,2,1,2,18,7,0,0
+/global/archives/11161,Direct,2,1,1,2,136,7,0,0
+/global/archives/11475,Organic Search,2,2,2,1,89.5,10,0,0
+/global/archives/11596,Direct,2,2,2,1,4.5,10,0,0
+/global/archives/11596,Organic Search,2,2,2,1,17.5,10,0,0
+/global/archives/11889,Organic Search,2,2,2,1,11,7,0,0
+/global/archives/12036,Direct,2,3,3,0.6666666666666666,2,8,0,0
+/global/archives/12147,Direct,2,2,2,1,1,7,0,0
+/global/archives/12190,Direct,2,2,2,1,6,8,0,0
+/global/archives/12241,Organic Search,2,1,1,2,5,8,0,0
+/global/archives/12274,Organic Search,2,2,2,1,24,9,0,0
+/global/archives/12319,Organic Search,2,2,2,1,9,8,0,0
+/global/archives/12389,Organic Search,2,2,2,1,56.5,9,0,0
+/global/archives/12413,Organic Search,2,3,2,1,473.5,7,0,0
+/global/archives/12471,Direct,2,2,2,1,0,6,0,0
+/global/archives/12477,Referral,2,1,1,2,12,8,0,0
+/global/archives/12603,Referral,2,2,2,1,15.5,8,0,0
+/global/archives/12891,Organic Search,2,3,2,1,129.5,9,0,0
+/global/archives/12968,Referral,2,1,1,2,12,7,0,0
+/global/archives/13103,Direct,2,1,1,2,38,8,0,0
+/global/archives/13130,Referral,2,2,2,1,15.5,8,0,0
+/global/archives/13184,Referral,2,3,2,1,43,9,0,0
+/global/archives/1321,Organic Search,2,2,1,2,109,9,0,0
+/global/archives/1321,Referral,2,1,1,2,13,7,0,0
+/global/archives/13327,Direct,2,1,1,2,127,8,0,0
+/global/archives/13329,Direct,2,2,2,1,24.5,8,0,0
+/global/archives/13443,Paid Search,2,2,1,2,1,6,0,0
+/global/archives/13521,Direct,2,2,2,1,22,10,0,0
+/global/archives/13544,Direct,2,2,2,1,31,9,0,0
+/global/archives/13544,Paid Search,2,2,0,0,0,6,0,0
+/global/archives/13804,Referral,2,1,1,2,52,8,0,0
+/global/archives/13932,Direct,2,3,2,1,0,8,0,0
+/global/archives/14030,Organic Search,2,3,2,1,6.5,6,0,0
+/global/archives/14146,Organic Search,2,2,2,1,16,8,0,0
+/global/archives/14219,Organic Search,2,2,2,1,0,7,0,0
+/global/archives/14226,Direct,2,1,1,2,149,8,0,0
+/global/archives/14226,Referral,2,2,1,2,163,8,0,0
+/global/archives/14243,Referral,2,2,2,1,22,7,0,0
+/global/archives/14302,Organic Search,2,3,1,2,91,10,0,0
+/global/archives/14333,Direct,2,2,2,1,14.5,9,0,0
+/global/archives/14384,Organic Search,2,2,2,1,140.5,7,0,0
+/global/archives/14493,Paid Search,2,2,0,0,0,5,0,0
+/global/archives/14588,Organic Search,2,2,2,1,6,9,0,0
+/global/archives/14615,Organic Search,2,2,2,1,26,9,0,0
+/global/archives/14634,Direct,2,1,1,2,0,6,0,0
+/global/archives/14634,Organic Social,2,2,2,1,27.5,6,0,0
+/global/archives/1473,Organic Search,2,2,2,1,36.5,9,0,0
+/global/archives/14803,Referral,2,2,2,1,71.5,9,0,0
+/global/archives/15067,Organic Social,2,2,2,1,22.5,7,0,0
+/global/archives/15374,Paid Search,2,1,1,2,0,5,0,0
+/global/archives/15374,Unassigned,2,2,2,1,0,2,0,0
+/global/archives/15462,Referral,2,2,2,1,7,9,0,0
+/global/archives/15592,Direct,2,2,2,1,0.5,8,0,0
+/global/archives/15610,Direct,2,3,2,1,2.5,10,0,0
+/global/archives/15623,Organic Search,2,2,2,1,20.5,9,0,0
+/global/archives/15638,Direct,2,2,2,1,42,8,0,0
+/global/archives/15840,Direct,2,2,1,2,0,7,0,0
+/global/archives/15865,Referral,2,2,2,1,117.5,8,0,0
+/global/archives/15937,Direct,2,2,1,2,0,6,0,0
+/global/archives/15964,Direct,2,2,2,1,0,6,0,0
+/global/archives/16073,Organic Search,2,2,2,1,81.5,7,0,0
+/global/archives/16118,Organic Search,2,2,2,1,25,8,0,0
+/global/archives/16187,Organic Search,2,2,2,1,34,11,0,0
+/global/archives/16334,Referral,2,2,2,1,9.5,7,0,0
+/global/archives/16463,Referral,2,4,2,1,264,8,0,0
+/global/archives/16613,Referral,2,2,1,2,78,9,0,0
+/global/archives/16624,Organic Search,2,3,3,0.6666666666666666,1,9,0,0
+/global/archives/16719,Referral,2,2,2,1,103,6,0,0
+/global/archives/16787,Direct,2,2,2,1,0,8,0,0
+/global/archives/16881,Referral,2,2,2,1,9,8,0,0
+/global/archives/16904,Organic Search,2,2,2,1,32.5,10,0,0
+/global/archives/16925,Direct,2,3,3,0.6666666666666666,11.333333333333334,6,0,0
+/global/archives/16952,Organic Search,2,2,2,1,18.5,7,0,0
+/global/archives/16980,Organic Search,2,3,2,1,1.5,9,0,0
+/global/archives/17022,Direct,2,2,2,1,0,8,0,0
+/global/archives/17144,Organic Social,2,1,1,2,26,10,0,0
+/global/archives/17446,Direct,2,2,2,1,28.5,8,0,0
+/global/archives/17499,Referral,2,3,2,1,24.5,7,0,0
+/global/archives/1768,Organic Search,2,2,2,1,52,9,0,0
+/global/archives/17697,Organic Social,2,2,2,1,0,8,0,0
+/global/archives/17796,Paid Search,2,1,1,2,7,5,0,0
+/global/archives/17863,Paid Search,2,1,1,2,17,7,0,0
+/global/archives/2262,Direct,2,2,2,1,0,5,0,0
+/global/archives/2262,Organic Search,2,3,2,1,36.5,11,0,0
+/global/archives/2490,Organic Search,2,3,2,1,9.5,13,0,0
+/global/archives/2557,Organic Search,2,2,2,1,26,10,0,0
+/global/archives/2568,Organic Search,2,2,2,1,15,8,0,0
+/global/archives/2576,Organic Search,2,2,2,1,99.5,10,0,0
+/global/archives/2635,Organic Search,2,2,2,1,5.5,8,0,0
+/global/archives/2701,Organic Search,2,2,2,1,8,9,0,0
+/global/archives/2756,Organic Search,2,2,2,1,13.5,10,0,0
+/global/archives/298,Organic Search,2,2,2,1,25,8,0,0
+/global/archives/311,Organic Search,2,3,2,1,125,13,0,0
+/global/archives/3820,Organic Social,2,2,2,1,0,9,0,0
+/global/archives/4002,Organic Search,2,2,2,1,0,8,0,0
+/global/archives/401,Direct,2,2,2,1,0,8,0,0
+/global/archives/4110,Organic Search,2,2,2,1,32.5,11,0,0
+/global/archives/4218,Direct,2,3,2,1,0,10,0,0
+/global/archives/4415,Organic Search,2,2,2,1,7.5,6,0,0
+/global/archives/4556,Organic Search,2,2,2,1,1.5,11,0,0
+/global/archives/4569,Organic Search,2,2,1,2,2,8,0,0
+/global/archives/4612,Direct,2,4,2,1,0,12,0,0
+/global/archives/4829,Organic Search,2,2,2,1,7.5,7,0,0
+/global/archives/4844,Referral,2,1,1,2,19,8,0,0
+/global/archives/4900,Organic Search,2,2,2,1,32,10,0,0
+/global/archives/5040,Organic Search,2,2,2,1,204,10,0,0
+/global/archives/507,Organic Search,2,2,2,1,46,11,0,0
+/global/archives/521,Organic Search,2,2,2,1,17.5,10,0,0
+/global/archives/5234,Organic Search,2,2,2,1,22,12,0,0
+/global/archives/5357,Organic Search,2,2,2,1,46.5,9,0,0
+/global/archives/5804,Organic Search,2,3,2,1,10.5,11,0,0
+/global/archives/6072,Organic Search,2,2,2,1,5,8,0,0
+/global/archives/6119,Organic Search,2,2,2,1,47.5,9,0,0
+/global/archives/6343,Referral,2,2,1,2,20,10,0,0
+/global/archives/6623,Direct,2,2,1,2,0,7,0,0
+/global/archives/6734,Organic Search,2,2,2,1,27,8,0,0
+/global/archives/6760,Organic Search,2,3,2,1,8,9,0,0
+/global/archives/6807,Direct,2,2,1,2,9,7,0,0
+/global/archives/6824,Direct,2,1,1,2,67,9,0,0
+/global/archives/6834,Organic Search,2,2,2,1,40,10,0,0
+/global/archives/6857,Organic Search,2,2,2,1,39,11,0,0
+/global/archives/7099,Organic Search,2,2,2,1,8.5,9,0,0
+/global/archives/7195,Direct,2,2,2,1,8,9,0,0
+/global/archives/7215,Organic Search,2,2,2,1,2,8,0,0
+/global/archives/7245,Referral,2,3,2,1,32,11,0,0
+/global/archives/7292,Direct,2,2,2,1,0,8,0,0
+/global/archives/7379,Referral,2,3,3,0.6666666666666666,15.666666666666666,9,0,0
+/global/archives/7463,Direct,2,2,1,2,20,8,0,0
+/global/archives/7463,Referral,2,2,1,2,447,9,0,0
+/global/archives/7633,Referral,2,2,1,2,106,10,0,0
+/global/archives/7808,Direct,2,3,2,1,13,12,0,0
+/global/archives/7870,Organic Search,2,2,1,2,116,11,0,0
+/global/archives/8230,Organic Search,2,2,2,1,49.5,10,0,0
+/global/archives/831,Organic Search,2,2,2,1,11,8,0,0
+/global/archives/8400,Direct,2,1,1,2,0,6,0,0
+/global/archives/8400,Referral,2,1,1,2,108,5,0,0
+/global/archives/8486,Unassigned,2,2,2,1,11,4,0,0
+/global/archives/8599,Direct,2,2,2,1,0,4,0,0
+/global/archives/8604,Direct,2,2,2,1,0,6,0,0
+/global/archives/8708,Direct,2,2,2,1,0,6,0,0
+/global/archives/8765,Direct,2,2,2,1,0,5,0,0
+/global/archives/8829,Organic Search,2,2,2,1,22,9,0,0
+/global/archives/8929,Organic Search,2,1,1,2,0,6,0,0
+/global/archives/9129,Organic Search,2,2,2,1,11,10,0,0
+/global/archives/9168,Organic Search,2,3,2,1,12,10,0,0
+/global/archives/9213,Organic Search,2,3,2,1,22,11,0,0
+/global/archives/9250,Organic Search,2,2,2,1,35.5,9,0,0
+/global/archives/9354,Organic Search,2,2,2,1,52.5,10,0,0
+/global/archives/9616,Organic Search,2,2,2,1,76.5,10,0,0
+/global/archives/9648,Organic Search,2,2,2,1,4,6,0,0
+/global/archives/9770,Organic Search,2,2,2,1,54.5,10,0,0
+/global/archives/category/corporate/sk-energy,Direct,2,2,1,2,9,9,0,0
+/global/archives/category/corporate/sk-global-chemical,Direct,2,2,2,1,0.5,11,0,0
+/global/archives/category/corporates/sk-earthon,Referral,2,2,2,1,7.5,6,0,0
+/global/archives/category/corporates/sk-geo-centric,Organic Social,2,2,2,1,35.5,7,0,0
+/global/archives/category/corporates/sk-ie-technology,Referral,2,3,2,1,4,9,0,0
+/global/archives/category/corporates/sk-on,Paid Search,2,2,2,1,23,6,0,0
+/global/archives/category/people/onsite-report,Direct,2,2,2,1,30.5,8,0,0
+/global/archives/category/press-room,Organic Social,2,2,1,2,129,9,0,0
+/global/archives/tag/2022-esg-report,Direct,2,2,2,1,0,7,0,0
+/global/archives/tag/2023-q4,Direct,2,1,1,2,8,6,0,0
+/global/archives/tag/2023-sk-global-forum,Organic Search,2,1,1,2,8,7,0,0
+/global/archives/tag/advanced-plastic-recycling-cluster,Direct,2,1,1,2,39,8,0,0
+/global/archives/tag/advanced-sf-battery,Organic Search,2,1,1,2,4,9,0,0
+/global/archives/tag/ascon,Organic Search,2,2,1,2,0,5,0,0
+/global/archives/tag/battery,Referral,2,1,1,2,102,8,0,0
+/global/archives/tag/bmr,Organic Search,2,1,1,2,23,9,0,0
+/global/archives/tag/board-of-directors,Organic Search,2,1,1,2,30,8,0,0
+/global/archives/tag/carbon-capture,Organic Search,2,2,2,1,16,10,0,0
+/global/archives/tag/connectivity,Direct,2,2,2,1,2,10,0,0
+/global/archives/tag/csr-program,Organic Search,2,2,2,1,6.5,10,0,0
+/global/archives/tag/data-center,Organic Search,2,2,2,1,5,7,0,0
+/global/archives/tag/data-centers,Organic Search,2,2,2,1,16.5,9,0,0
+/global/archives/tag/doosan,Organic Search,2,1,1,2,7,6,0,0
+/global/archives/tag/earnings,Referral,2,1,1,2,66,5,0,0
+/global/archives/tag/ek-energy,Organic Search,2,2,2,1,9,11,0,0
+/global/archives/tag/electric-vehicles,Organic Search,2,2,2,1,28,9,0,0
+/global/archives/tag/electrical-efficiency,Direct,2,2,2,1,1.5,10,0,0
+/global/archives/tag/esg,Direct,2,2,2,1,0,8,0,0
+/global/archives/tag/ev-battery,Organic Search,2,2,2,1,14,8,0,0
+/global/archives/tag/financial-story,Organic Search,2,1,1,2,11,7,0,0
+/global/archives/tag/financial-story-financial-story,Organic Search,2,2,2,1,8.5,10,0,0
+/global/archives/tag/french,Organic Search,2,1,1,2,51,8,0,0
+/global/archives/tag/geopolitics,Organic Search,2,1,1,2,6,9,0,0
+/global/archives/tag/ho-chi-minh,Direct,2,2,2,1,0,10,0,0
+/global/archives/tag/hydrogen,Referral,2,1,1,2,63,7,0,0
+/global/archives/tag/hyundai-motors,Organic Search,2,2,1,2,8,7,0,0
+/global/archives/tag/iaa-mobility-2023,Direct,2,2,2,1,0,10,0,0
+/global/archives/tag/infinium,Organic Search,2,2,2,1,3.5,11,0,0
+/global/archives/tag/interbattery-2024,Organic Search,2,3,2,1,0,9,0,0
+/global/archives/tag/ioniq-5,Organic Search,2,1,1,2,11,9,0,0
+/global/archives/tag/ivancsa,Organic Search,2,1,1,2,10,9,0,0
+/global/archives/tag/jakarta,Direct,2,1,1,2,61,12,0,0
+/global/archives/tag/jee-dong-seob,Direct,2,2,1,2,0,7,0,0
+/global/archives/tag/kentucky,Organic Search,2,1,1,2,20,9,0,0
+/global/archives/tag/lfp,Organic Search,2,2,2,1,3,8,0,0
+/global/archives/tag/malaysia,Organic Search,2,2,2,1,10,11,0,0
+/global/archives/tag/ncm9,Referral,2,1,1,2,9,8,0,0
+/global/archives/tag/open-innovation-post,Organic Search,2,2,2,1,5,7,0,0
+/global/archives/tag/partnership,Organic Search,2,1,1,2,47,8,0,0
+/global/archives/tag/pbat,Direct,2,2,1,2,20,9,0,0
+/global/archives/tag/pcr,Organic Search,2,2,2,1,12.5,10,0,0
+/global/archives/tag/pct,Organic Search,2,2,2,1,22.5,11,0,0
+/global/archives/tag/plastic,Organic Search,2,1,1,2,11,7,0,0
+/global/archives/tag/polymer,Direct,2,1,1,2,23,8,0,0
+/global/archives/tag/refining-business,Direct,2,2,2,1,1.5,10,0,0
+/global/archives/tag/rosewell,Organic Search,2,3,2,1,0,10,0,0
+/global/archives/tag/seaweed,Organic Search,2,2,1,2,5,7,0,0
+/global/archives/tag/singapore,Organic Search,2,1,1,2,19,7,0,0
+/global/archives/tag/sk-gc-americas,Direct,2,2,2,1,0,10,0,0
+/global/archives/tag/sk-innovation-young-ambassador,Organic Search,2,1,1,2,26,10,0,0
+/global/archives/tag/sk-lubricants,Organic Search,2,3,2,1,3.5,9,0,0
+/global/archives/tag/sk-tank-terminal,Organic Search,2,2,2,1,4,7,0,0
+/global/archives/tag/skba,Direct,2,2,2,1,0,8,0,0
+/global/archives/tag/skbm,Organic Search,2,2,2,1,0.5,7,0,0
+/global/archives/tag/ske,Direct,2,1,1,2,8,8,0,0
+/global/archives/tag/sken,Organic Search,2,2,2,1,6.5,11,0,0
+/global/archives/tag/sko,Direct,2,2,2,1,1,5,0,0
+/global/archives/tag/skoh,Organic Search,2,2,2,1,12,9,0,0
+/global/archives/tag/solid-power,Organic Search,2,2,2,1,20.5,9,0,0
+/global/archives/tag/sustainability,Direct,2,2,2,1,0,8,0,0
+/global/archives/tag/sustainability-report,Direct,2,2,2,1,0,7,0,0
+/global/archives/tag/sustainable-aviation-fuel,Referral,2,1,1,2,2,6,0,0
+/global/archives/tag/techonology,Organic Search,2,1,1,2,5,7,0,0
+/global/archives/tag/winter-pro-lfp-battery,Organic Search,2,2,2,1,11.5,9,0,0
+/global/archives/tag/zic,Referral,2,1,1,2,26,6,0,0
+/global/terms-and-conditions,Referral,2,2,2,1,5.5,7,0,0
+/DocProxy/Fetch/b4768ae9-146f-ee11-abcb-12bc89a8f273~0~NoCache,Direct,1,2,1,1,0,6,0,0
+/global/archives/,Organic Search,1,1,1,1,3,4,0,0
+/global/archives/10066,Organic Search,1,1,1,1,30,3,0,0
+/global/archives/10073,Direct,1,1,1,1,17,3,0,0
+/global/archives/10460,Direct,1,1,1,1,0,4,0,0
+/global/archives/10511,Organic Search,1,1,1,1,85,5,0,0
+/global/archives/10535,Direct,1,1,1,1,8,4,0,0
+/global/archives/10713,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/10774,Referral,1,1,1,1,3,4,0,0
+/global/archives/10835,Direct,1,1,1,1,9,5,0,0
+/global/archives/10842,Organic Search,1,1,1,1,19,5,0,0
+/global/archives/10845,Organic Search,1,1,1,1,10,3,0,0
+/global/archives/10872,Organic Social,1,1,1,1,378,3,0,0
+/global/archives/10872,Referral,1,1,1,1,0,2,0,0
+/global/archives/10897,Direct,1,1,1,1,0,4,0,0
+/global/archives/10897,Referral,1,3,1,1,58,6,0,0
+/global/archives/10977,Direct,1,1,1,1,0,4,0,0
+/global/archives/10977,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/11161,Referral,1,1,1,1,221,5,0,0
+/global/archives/11189,Organic Search,1,1,1,1,25,4,0,0
+/global/archives/11237,Organic Search,1,1,1,1,14,3,0,0
+/global/archives/1131,Direct,1,2,1,1,13,7,0,0
+/global/archives/11328,Referral,1,1,1,1,27,4,0,0
+/global/archives/11376,Organic Search,1,1,1,1,33,4,0,0
+/global/archives/11486,Organic Search,1,1,1,1,8,5,0,0
+/global/archives/11512,Direct,1,1,1,1,0,4,0,0
+/global/archives/11512,Referral,1,1,1,1,42,5,0,0
+/global/archives/11537,Direct,1,1,1,1,19,4,0,0
+/global/archives/11573,Organic Search,1,1,1,1,188,5,0,0
+/global/archives/11756,Direct,1,1,1,1,0,4,0,0
+/global/archives/11758,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/11842,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/11916,Organic Search,1,1,1,1,12,5,0,0
+/global/archives/11955,Organic Search,1,1,1,1,80,5,0,0
+/global/archives/11992,Direct,1,1,1,1,0,4,0,0
+/global/archives/12044,Organic Search,1,1,1,1,14,4,0,0
+/global/archives/12091,Organic Search,1,1,1,1,33,5,0,0
+/global/archives/12125,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/12237,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/12306,Referral,1,1,1,1,0,3,0,0
+/global/archives/12373,Direct,1,2,1,1,17,7,0,0
+/global/archives/12373,Referral,1,1,1,1,59,6,0,0
+/global/archives/12413,Unassigned,1,1,1,1,0,1,0,0
+/global/archives/12460,Organic Search,1,1,1,1,37,5,0,0
+/global/archives/12475,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/12479,Referral,1,1,1,1,9,3,0,0
+/global/archives/12483,Organic Search,1,1,1,1,35,4,0,0
+/global/archives/12487,Organic Search,1,1,1,1,44,3,0,0
+/global/archives/12487,Referral,1,1,1,1,18,4,0,0
+/global/archives/12603,Direct,1,1,1,1,2,3,0,0
+/global/archives/12610/221206_ces_day1_콘텐츠_이미지_11_900,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/12610/221206_ces_day1_콘텐츠_이미지_15_900,Organic Search,1,1,1,1,0,5,0,0
+/global/archives/12617,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/12667,Direct,1,1,1,1,3,3,0,0
+/global/archives/12688,Direct,1,1,1,1,0,4,0,0
+/global/archives/12878,Organic Search,1,1,1,1,0,2,0,0
+/global/archives/12950,Direct,1,1,1,1,0,4,0,0
+/global/archives/13036,Direct,1,1,1,1,12,4,0,0
+/global/archives/13036,Referral,1,1,1,1,11,5,0,0
+/global/archives/13060,Direct,1,1,1,1,3,4,0,0
+/global/archives/13184,Direct,1,1,1,1,0,4,0,0
+/global/archives/13184,Organic Search,1,1,1,1,6,4,0,0
+/global/archives/13230,Referral,1,1,1,1,0,3,0,0
+/global/archives/13313,Direct,1,1,1,1,106,6,0,0
+/global/archives/13329,Referral,1,1,1,1,4,4,0,0
+/global/archives/13437,Referral,1,1,1,1,0,3,0,0
+/global/archives/13513,Direct,1,1,1,1,0,3,0,0
+/global/archives/13544,Organic Search,1,1,1,1,61,3,0,0
+/global/archives/13595,Unassigned,1,1,1,1,4,4,0,0
+/global/archives/13667,Organic Search,1,1,1,1,12,5,0,0
+/global/archives/13669,Organic Search,1,1,1,1,23,5,0,0
+/global/archives/13748,Direct,1,2,2,0.5,29,6,0,0
+/global/archives/13850,Referral,1,1,1,1,6,4,0,0
+/global/archives/13981,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/1399,Direct,1,2,1,1,5,6,0,0
+/global/archives/14078,Referral,1,2,1,1,0,5,0,0
+/global/archives/14083,Organic Search,1,1,1,1,4,3,0,0
+/global/archives/14146,Direct,1,1,1,1,0,3,0,0
+/global/archives/14179,Direct,1,1,1,1,0,3,0,0
+/global/archives/14179,Paid Search,1,1,0,0,0,3,0,0
+/global/archives/14219,Referral,1,1,1,1,15,4,0,0
+/global/archives/14264,Organic Social,1,1,1,1,0,4,0,0
+/global/archives/14309,Unassigned,1,1,1,1,0,2,0,0
+/global/archives/14384,Direct,1,2,2,0.5,23,2,0,0
+/global/archives/14384,Unassigned,1,1,1,1,0,1,0,0
+/global/archives/14415,Direct,1,1,1,1,9,4,0,0
+/global/archives/14491,Referral,1,1,1,1,0,4,0,0
+/global/archives/14565,Direct,1,1,1,1,0,4,0,0
+/global/archives/14628,Organic Social,1,1,1,1,17,5,0,0
+/global/archives/14634,Referral,1,1,1,1,81,4,0,0
+/global/archives/14690,Organic Search,1,1,1,1,151,5,0,0
+/global/archives/14690,Referral,1,1,1,1,47,4,0,0
+/global/archives/14755,Organic Search,1,1,1,1,37,4,0,0
+/global/archives/14766,Referral,1,1,1,1,189,5,0,0
+/global/archives/14770,Direct,1,1,1,1,44,6,0,0
+/global/archives/14858,Referral,1,1,1,1,37,4,0,0
+/global/archives/14869,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/15007,Direct,1,2,1,1,0,6,0,0
+/global/archives/15007,Referral,1,1,1,1,34,6,0,0
+/global/archives/15067,Direct,1,1,1,1,0,4,0,0
+/global/archives/15103,Direct,1,1,1,1,0,3,0,0
+/global/archives/15103,Referral,1,1,1,1,23,4,0,0
+/global/archives/15204,Direct,1,1,1,1,5,5,0,0
+/global/archives/15353,Direct,1,1,1,1,0,3,0,0
+/global/archives/15374,Organic Social,1,1,1,1,0,2,0,0
+/global/archives/15409,Referral,1,1,1,1,0,4,0,0
+/global/archives/15430,Direct,1,1,1,1,83,5,0,0
+/global/archives/15490,Organic Social,1,1,1,1,13,5,0,0
+/global/archives/15490,Referral,1,2,1,1,0,4,0,0
+/global/archives/15490,Unassigned,1,1,1,1,0,2,0,0
+"/global/archives/15490On September 6 to include the Accelera by Cummins, Daimler Truck and Paccar joint venture",Organic Search,1,1,1,1,2,4,0,0
+/global/archives/15497,Direct,1,1,1,1,15,3,0,0
+/global/archives/15497,Organic Social,1,1,1,1,0,3,0,0
+/global/archives/15610,Referral,1,1,1,1,13,4,0,0
+/global/archives/15638,Organic Social,1,1,1,1,15,5,0,0
+/global/archives/15638,Referral,1,1,1,1,25,3,0,0
+/global/archives/15654,Direct,1,1,1,1,18,6,0,0
+/global/archives/15664,Paid Search,1,1,1,1,0,3,0,0
+/global/archives/15689,Direct,1,1,1,1,0,5,0,0
+/global/archives/15865,Direct,1,1,1,1,208,4,0,0
+/global/archives/15937,Organic Social,1,1,1,1,14,5,0,0
+/global/archives/15964,Organic Search,1,1,1,1,13,4,0,0
+/global/archives/15985,Direct,1,2,2,0.5,0,6,0,0
+/global/archives/16005,Organic Search,1,1,1,1,97,6,0,0
+/global/archives/16005,Referral,1,1,1,1,0,3,0,0
+/global/archives/16025,Referral,1,2,1,1,70,4,0,0
+/global/archives/16060,Organic Social,1,1,1,1,47,5,0,0
+/global/archives/16131,Organic Social,1,1,1,1,0,2,0,0
+/global/archives/16131,Referral,1,1,1,1,45,4,0,0
+/global/archives/16154,Organic Social,1,1,1,1,0,2,0,0
+/global/archives/16334,Direct,1,1,1,1,0,3,0,0
+/global/archives/16376,Referral,1,1,1,1,18,4,0,0
+/global/archives/16532,Paid Search,1,1,1,1,0,3,0,0
+/global/archives/16532,Unassigned,1,1,1,1,11,2,0,0
+/global/archives/16583,Referral,1,2,1,1,0,5,0,0
+/global/archives/16624,Direct,1,1,1,1,1,4,0,0
+/global/archives/16624,Referral,1,1,1,1,0,3,0,0
+/global/archives/16738,Organic Search,1,1,1,1,140,6,0,0
+/global/archives/16787,Referral,1,1,1,1,0,4,0,0
+/global/archives/16810,Organic Search,1,1,1,1,54,3,0,0
+/global/archives/16834,Referral,1,1,1,1,4,3,0,0
+/global/archives/16904,Referral,1,1,1,1,89,4,0,0
+/global/archives/16939,Direct,1,2,2,0.5,66.5,7,0,0
+/global/archives/16980,Direct,1,1,1,1,0,2,0,0
+/global/archives/16980,Referral,1,1,1,1,0,3,0,0
+/global/archives/17010,Direct,1,1,1,1,0,4,0,0
+/global/archives/17010,Organic Search,1,1,1,1,8,4,0,0
+/global/archives/17022,Referral,1,1,1,1,10,3,0,0
+/global/archives/17047,Direct,1,1,1,1,0,4,0,0
+/global/archives/17047,Organic Social,1,1,1,1,47,5,0,0
+/global/archives/17047​,Direct,1,1,1,1,3,6,0,0
+/global/archives/17134,Direct,1,1,1,1,47,4,0,0
+/global/archives/17134,Organic Social,1,1,1,1,10,4,0,0
+/global/archives/17144,Referral,1,1,1,1,25,4,0,0
+/global/archives/17292,Direct,1,1,1,1,0,4,0,0
+/global/archives/17292,Referral,1,1,1,1,68,3,0,0
+/global/archives/17356,Organic Social,1,1,1,1,8,4,0,0
+/global/archives/17386,Direct,1,1,1,1,9,3,0,0
+/global/archives/17514,Direct,1,1,1,1,98,5,0,0
+/global/archives/17844,Paid Search,1,1,1,1,17,4,0,0
+/global/archives/18065,Referral,1,1,1,1,0,3,0,0
+/global/archives/1903,Organic Search,1,1,1,1,11,3,0,0
+/global/archives/1960,Referral,1,1,1,1,12,5,0,0
+/global/archives/2026,Direct,1,1,1,1,21,5,0,0
+/global/archives/2212,Direct,1,2,1,1,11,4,0,0
+/global/archives/2212,Referral,1,1,1,1,19,4,0,0
+/global/archives/2329,Direct,1,2,1,1,28,4,0,0
+/global/archives/2329,Referral,1,1,1,1,36,4,0,0
+/global/archives/2535,Organic Search,1,1,1,1,7,5,0,0
+/global/archives/2675,Organic Search,1,1,1,1,39,5,0,0
+/global/archives/2860,Organic Search,1,2,1,1,0,5,0,0
+/global/archives/290,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/295,Organic Search,1,1,1,1,66,5,0,0
+/global/archives/3032,Organic Search,1,1,1,1,5,3,0,0
+/global/archives/3197,Organic Search,1,1,1,1,66,6,0,0
+/global/archives/3220,Direct,1,1,1,1,18,5,0,0
+/global/archives/3220,Organic Search,1,1,1,1,7,5,0,0
+/global/archives/3269,Organic Search,1,1,1,1,35,5,0,0
+/global/archives/3269,Referral,1,1,1,1,8,4,0,0
+/global/archives/3343,Organic Search,1,1,1,1,9,4,0,0
+/global/archives/3375,Referral,1,1,1,1,30,4,0,0
+/global/archives/3393,Direct,1,1,1,1,72,5,0,0
+/global/archives/3709,Direct,1,1,1,1,0,4,0,0
+/global/archives/3731,Direct,1,1,1,1,0,3,0,0
+/global/archives/3731,Organic Search,1,1,1,1,10,5,0,0
+/global/archives/3741,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/3741,Referral,1,1,1,1,32,3,0,0
+/global/archives/3830,Organic Search,1,2,1,1,0,6,0,0
+/global/archives/3873,Organic Search,1,2,1,1,161,7,0,0
+/global/archives/3922,Organic Search,1,1,1,1,297,5,0,0
+/global/archives/4077,Organic Search,1,1,1,1,209,5,0,0
+/global/archives/4086,Organic Search,1,1,1,1,9,4,0,0
+/global/archives/4218,Organic Search,1,1,1,1,14,5,0,0
+/global/archives/4255,Organic Search,1,1,1,1,0,5,0,0
+/global/archives/4450,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/449,Organic Search,1,1,1,1,10,5,0,0
+/global/archives/4499,Direct,1,1,1,1,0,4,0,0
+/global/archives/4518,Direct,1,1,1,1,4,3,0,0
+/global/archives/4518,Organic Search,1,1,1,1,124,6,0,0
+/global/archives/4614,Direct,1,1,1,1,0,3,0,0
+/global/archives/4705,Organic Search,1,1,1,1,37,5,0,0
+/global/archives/4793,Direct,1,3,2,0.5,0,8,0,0
+/global/archives/4844,Direct,1,2,1,1,0,6,0,0
+/global/archives/489,Direct,1,1,1,1,0,4,0,0
+/global/archives/5129,Direct,1,2,1,1,0,6,0,0
+/global/archives/5146,Organic Search,1,1,1,1,1,6,0,0
+/global/archives/5182,Organic Search,1,1,1,1,56,4,0,0
+/global/archives/528,Organic Search,1,1,1,1,27,5,0,0
+/global/archives/542,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/5528,Direct,1,1,1,1,0,3,0,0
+/global/archives/5528,Organic Search,1,1,1,1,17,4,0,0
+/global/archives/5721,Organic Search,1,1,1,1,47,3,0,0
+/global/archives/576,Organic Search,1,1,1,1,26,5,0,0
+/global/archives/5772,Direct,1,1,1,1,34,5,0,0
+/global/archives/5853,Referral,1,2,1,1,0,5,0,0
+/global/archives/6216,Organic Social,1,1,1,1,26,6,0,0
+/global/archives/6216,Referral,1,1,0,0,0,2,0,0
+/global/archives/6216,Unassigned,1,1,1,1,0,2,0,0
+"/global/archives/6216, Accessed June 17, 2023",Direct,1,1,1,1,5,6,0,0
+"/global/archives/62162021, https:/skinnonews.com/global/archives/6216",Direct,1,1,1,1,2,6,0,0
+/global/archives/6253,Direct,1,2,1,1,0,6,0,0
+/global/archives/6377,Direct,1,1,1,1,0,4,0,0
+/global/archives/6414,Organic Search,1,1,1,1,7,5,0,0
+/global/archives/648,Organic Search,1,1,1,1,33,6,0,0
+/global/archives/6517,Referral,1,1,1,1,10,5,0,0
+/global/archives/6623,Organic Search,1,1,1,1,54,5,0,0
+/global/archives/6658,Organic Search,1,2,1,1,0,6,0,0
+/global/archives/6683,Direct,1,1,1,1,0,4,0,0
+/global/archives/6710,Organic Search,1,1,1,1,22,5,0,0
+/global/archives/6749,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/6784,Organic Search,1,1,1,1,30,5,0,0
+/global/archives/6871,Organic Search,1,1,1,1,17,6,0,0
+/global/archives/6971,Organic Search,1,2,1,1,0,5,0,0
+/global/archives/7031,Direct,1,1,1,1,0,3,0,0
+/global/archives/7177,Organic Search,1,1,1,1,7,5,0,0
+/global/archives/7195,Organic Search,1,1,1,1,68,5,0,0
+/global/archives/7234,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/733,Direct,1,1,1,1,22,5,0,0
+/global/archives/7353,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/7379,Organic Search,1,1,1,1,7,3,0,0
+/global/archives/7445,Direct,1,1,1,1,11,6,0,0
+/global/archives/7445,Referral,1,1,1,1,26,5,0,0
+/global/archives/751,Direct,1,1,1,1,22,5,0,0
+/global/archives/7544,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/7596,Direct,1,1,1,1,1,3,0,0
+/global/archives/7633,Organic Search,1,1,1,1,23,5,0,0
+/global/archives/7848,Organic Search,1,1,1,1,0,2,0,0
+/global/archives/7870,Direct,1,1,1,1,2,5,0,0
+/global/archives/7979,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/8022,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/8046,Direct,1,2,1,1,0,5,0,0
+/global/archives/8046,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/822,Direct,1,1,1,1,36,3,0,0
+/global/archives/8238,Direct,1,1,1,1,0,2,0,0
+/global/archives/8463,Referral,1,1,1,1,23,3,0,0
+/global/archives/8485,Organic Search,1,1,1,1,13,3,0,0
+/global/archives/8486,Organic Search,1,1,1,1,39,3,0,0
+/global/archives/8487,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/8708,Organic Search,1,1,1,1,26,4,0,0
+/global/archives/8972,Organic Search,1,1,1,1,22,5,0,0
+/global/archives/9157,Organic Search,1,1,1,1,15,5,0,0
+/global/archives/9191,Organic Search,1,1,1,1,2,5,0,0
+/global/archives/9224,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/9236,Direct,1,1,1,1,29,6,0,0
+/global/archives/9250,Referral,1,1,1,1,32,4,0,0
+/global/archives/926,Direct,1,1,1,1,7,3,0,0
+/global/archives/9264,Direct,1,1,1,1,22,4,0,0
+/global/archives/9275,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/9286,Organic Search,1,1,1,1,24,4,0,0
+/global/archives/9299,Organic Search,1,1,1,1,48,5,0,0
+/global/archives/9310,Organic Search,1,1,1,1,7,5,0,0
+/global/archives/9310,Referral,1,1,1,1,110,5,0,0
+/global/archives/9354,Referral,1,1,1,1,75,4,0,0
+/global/archives/9480,Direct,1,1,1,1,0,4,0,0
+/global/archives/9480,Referral,1,1,1,1,142,3,0,0
+/global/archives/9493,Referral,1,2,1,1,0,6,0,0
+/global/archives/9509,Direct,1,1,1,1,1,5,0,0
+/global/archives/951,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/9648,Direct,1,1,1,1,0,4,0,0
+/global/archives/9668,Referral,1,2,2,0.5,16.5,5,0,0
+/global/archives/9682,Organic Search,1,1,1,1,6,5,0,0
+/global/archives/9740,Direct,1,1,1,1,23,6,0,0
+/global/archives/9756,Organic Search,1,1,1,1,16,5,0,0
+/global/archives/9786,Organic Search,1,1,1,1,14,4,0,0
+/global/archives/9797,Organic Search,1,2,1,1,0,6,0,0
+/global/archives/9837,Direct,1,1,1,1,0,4,0,0
+/global/archives/9877,Direct,1,1,1,1,47,5,0,0
+/global/archives/9908,Direct,1,1,1,1,0,4,0,0
+/global/archives/9910,Organic Social,1,1,1,1,0,4,0,0
+/global/archives/9910,Unassigned,1,1,1,1,0,1,0,0
+/global/archives/9978,Organic Search,1,2,1,1,7,4,0,0
+/global/archives/9978,Referral,1,1,1,1,24,4,0,0
+/global/archives/9998/attachment/03,Organic Search,1,1,1,1,6,4,0,0
+/global/archives/category/ces/ces-2023,Direct,1,1,1,1,0,4,0,0
+/global/archives/category/corporate/sk-enterm,Organic Search,1,1,1,1,10,4,0,0
+/global/archives/category/corporate/sk-ie-technology,Direct,1,1,1,1,0,4,0,0
+/global/archives/category/corporate/sk-innovation,Organic Search,1,1,1,1,26,4,0,0
+/global/archives/category/corporate/sk-on,Organic Search,1,1,1,1,7,3,0,0
+/global/archives/category/corporate/sk-rading-international,Direct,1,1,0,0,0,3,0,0
+/global/archives/category/corporate/sk-rading-international,Referral,1,1,1,1,0,4,0,0
+/global/archives/category/corporates,Unassigned,1,1,1,1,17,3,0,0
+/global/archives/category/corporates/sk-enterm,Referral,1,1,1,1,4,4,0,0
+/global/archives/category/insight/expert-voice,Organic Search,1,1,1,1,1,4,0,0
+/global/archives/category/people,Organic Social,1,1,1,1,8,3,0,0
+/global/archives/category/people/ceo-leaders,Referral,1,1,1,1,4,3,0,0
+/global/archives/category/people/inno-people,Organic Social,1,1,1,1,29,4,0,0
+/global/archives/category/people/onsite-report,Referral,1,1,1,1,28,3,0,0
+/global/archives/category/people/sustainability,Direct,1,1,1,1,0,3,0,0
+/global/archives/category/people/sustainability,Referral,1,2,1,1,13,6,0,0
+/global/archives/category/press-room/commercials,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/category/press-room/financial-results,Unassigned,1,1,1,1,7,3,0,0
+/global/archives/tag/1-happinese-sharing-fund,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/1-happiness-sharing-fund,Organic Search,1,1,1,1,34,4,0,0
+/global/archives/tag/2023-q3,Organic Search,1,1,1,1,13,4,0,0
+/global/archives/tag/2024,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/tag/advanced-recycling-cluster,Organic Search,1,1,1,1,7,3,0,0
+/global/archives/tag/air-liquide-korea,Organic Search,1,1,1,1,4,3,0,0
+/global/archives/tag/airrane,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/all-solid-state-battery,Direct,1,1,1,1,0,4,0,0
+/global/archives/tag/ankara,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/tag/annandale-village,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/tag/asphalt,Organic Search,1,1,1,1,14,4,0,0
+/global/archives/tag/atvm,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/tag/autosilicon,Organic Search,1,1,1,1,7,4,0,0
+/global/archives/tag/baas,Organic Search,1,1,1,1,40,6,0,0
+/global/archives/tag/battery-business,Organic Search,1,1,1,1,14,5,0,0
+/global/archives/tag/battery-diagnosis,Organic Search,1,1,1,1,0,2,0,0
+/global/archives/tag/bettery,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/black-gold,Paid Search,1,1,1,1,8,3,0,0
+/global/archives/tag/bmw,Organic Search,1,1,1,1,7,6,0,0
+/global/archives/tag/board-of-directors,Direct,1,1,1,1,8,4,0,0
+/global/archives/tag/bod,Organic Search,1,1,1,1,6,5,0,0
+/global/archives/tag/bpse,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/tag/brightmark,Organic Search,1,1,1,1,9,6,0,0
+/global/archives/tag/business-model-transformation,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/canada,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/tag/carbon-capture-and-storage,Organic Search,1,1,1,1,18,4,0,0
+/global/archives/tag/cathode,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/tag/ccs-hub-project,Organic Search,1,1,1,1,6,3,0,0
+/global/archives/tag/ccus,Organic Search,1,1,1,1,8,5,0,0
+/global/archives/tag/ceo,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/tag/ces-2020,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/ces-2021,Organic Search,1,1,1,1,6,4,0,0
+/global/archives/tag/cha-gyu-tak,Organic Search,1,1,1,1,5,3,0,0
+/global/archives/tag/changzhou,Direct,1,1,1,1,0,3,0,0
+/global/archives/tag/changzhou,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/chile,Organic Search,1,1,1,1,19,5,0,0
+/global/archives/tag/choi-yun-seok,Referral,1,1,1,1,16,4,0,0
+/global/archives/tag/circularity,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/clean-mobility,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/clean-mobility,Organic Search,1,1,1,1,12,6,0,0
+/global/archives/tag/concrete,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/tag/daejeon,Organic Search,1,1,1,1,15,6,0,0
+/global/archives/tag/din-certco,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/tag/disability,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/dnv,Organic Search,1,1,1,1,11,6,0,0
+/global/archives/tag/e-mobility,Organic Search,1,1,1,1,30,4,0,0
+/global/archives/tag/economic-value,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/envirun-for-the-earth,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/tag/envirun-plogging-week,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/tag/essayist,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/ethylene-acrylic-acid,Organic Search,1,1,1,1,8,6,0,0
+/global/archives/tag/europe,Referral,1,1,1,1,3,4,0,0
+/global/archives/tag/ev,Organic Search,1,1,0,0,0,2,0,0
+/global/archives/tag/ev-batteries,Direct,1,1,1,1,4,4,0,0
+/global/archives/tag/ev-battery,Direct,1,1,1,1,0,3,0,0
+/global/archives/tag/ev-plant,Referral,1,1,1,1,46,4,0,0
+/global/archives/tag/f-150-lightning,Organic Search,1,1,1,1,16,5,0,0
+/global/archives/tag/family-event,Organic Social,1,1,1,1,0,2,0,0
+/global/archives/tag/ferrari,Paid Search,1,1,1,1,16,3,0,0
+/global/archives/tag/ford,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/tag/fuel-cost,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/fulcrum-bioenergy,Organic Search,1,1,1,1,5,6,0,0
+/global/archives/tag/georgia,Referral,1,1,1,1,13,4,0,0
+/global/archives/tag/global-battery-alliance,Organic Search,1,1,1,1,7,6,0,0
+/global/archives/tag/grape-lab,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/tag/grc,Organic Search,1,1,1,1,480,5,0,0
+/global/archives/tag/green,Direct,1,1,1,1,3,5,0,0
+/global/archives/tag/green-anchoring,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/tag/happy-elephant,Organic Search,1,1,1,1,14,5,0,0
+/global/archives/tag/hope,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/houston,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/tag/hr-manager,Organic Search,1,1,1,1,9,6,0,0
+/global/archives/tag/hungary,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/hvac,Organic Search,1,1,1,1,15,4,0,0
+/global/archives/tag/hyundai-mobis,Organic Search,1,1,1,1,1,5,0,0
+/global/archives/tag/idpd,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/tag/ilboc,Organic Search,1,1,1,1,1,3,0,0
+/global/archives/tag/immersion-cooling,Referral,1,1,1,1,14,3,0,0
+/global/archives/tag/ingine,Organic Search,1,1,1,1,20,6,0,0
+/global/archives/tag/interbattery2021,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/iscc,Organic Search,1,1,1,1,25,6,0,0
+/global/archives/tag/iwd,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/jiangsu,Organic Search,1,1,1,1,2,4,0,0
+/global/archives/tag/kentucky,Direct,1,1,1,1,16,6,0,0
+/global/archives/tag/kleannara,Organic Search,1,1,1,1,6,5,0,0
+/global/archives/tag/kolon-industries,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/tag/ktl,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/liquid-cooling,Referral,1,1,1,1,13,4,0,0
+/global/archives/tag/liquid-immersion-cooling,Organic Search,1,1,1,1,15,4,0,0
+/global/archives/tag/liquid-immersion-cooling-system,Organic Search,1,2,1,1,0,7,0,0
+/global/archives/tag/lithium-ion,Organic Search,1,1,1,1,6,4,0,0
+/global/archives/tag/loop-industries,Organic Search,1,2,1,1,0,6,0,0
+/global/archives/tag/lubricant-base-oil-production,Organic Search,1,1,1,1,39,6,0,0
+/global/archives/tag/lubricants,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/maintenance,Organic Search,1,1,1,1,5,6,0,0
+/global/archives/tag/manglub,Organic Search,1,1,1,1,11,5,0,0
+/global/archives/tag/market-kurly,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/natural-graphite,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/tag/new-year-message,Referral,1,1,1,1,23,3,0,0
+/global/archives/tag/oil-price,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/oil-spill,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/tag/op,Organic Search,1,1,1,1,3,4,0,0
+/global/archives/tag/pat-wilson,Organic Search,1,1,1,1,4,5,0,0
+/global/archives/tag/patra-sk,Organic Search,1,1,1,1,6,6,0,0
+/global/archives/tag/pbt,Organic Search,1,2,0,0,0,5,0,0
+/global/archives/tag/perdect-day,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/pet,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/tag/petroleum,Organic Search,1,1,1,1,4,4,0,0
+/global/archives/tag/petronas,Organic Search,1,1,1,1,39,4,0,0
+/global/archives/tag/plogging,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/tag/polypropylene,Organic Search,1,1,1,1,10,5,0,0
+/global/archives/tag/pr-campaign,Organic Search,1,1,1,1,4,3,0,0
+/global/archives/tag/premium-base-oil,Organic Search,1,1,1,1,5,4,0,0
+/global/archives/tag/production-facility,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/project,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/pta,Organic Search,1,2,1,1,0,6,0,0
+/global/archives/tag/pvep,Organic Search,1,1,1,1,23,5,0,0
+/global/archives/tag/quebec,Organic Search,1,1,1,1,16,6,0,0
+/global/archives/tag/rd-management,Organic Search,1,1,1,1,6,3,0,0
+/global/archives/tag/recruit,Organic Search,1,1,1,1,6,4,0,0
+/global/archives/tag/recycle,Organic Search,1,1,1,1,7,4,0,0
+/global/archives/tag/rhee-jang-weon,Direct,1,1,1,1,3,5,0,0
+/global/archives/tag/rmi,Organic Search,1,1,1,1,0,3,0,0
+/global/archives/tag/roadmap,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/roadmap,Organic Search,1,1,1,1,8,6,0,0
+/global/archives/tag/russia,Referral,1,2,2,0.5,9.5,6,0,0
+/global/archives/tag/s-pack,Organic Search,1,1,1,1,7,4,0,0
+/global/archives/tag/san-jose,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/tag/sanhaejinmi,Organic Search,1,1,1,1,0,5,0,0
+/global/archives/tag/shareholders,Direct,1,1,1,1,4,5,0,0
+/global/archives/tag/sheco-ark,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/singapore,Direct,1,1,1,1,4,5,0,0
+/global/archives/tag/sinopec,Organic Search,1,1,1,1,35,4,0,0
+/global/archives/tag/sinopec-sk-wuhan-petrochemical,Organic Search,1,1,1,1,11,6,0,0
+/global/archives/tag/sk-bakmi-gas-station,Organic Search,1,1,1,1,16,6,0,0
+/global/archives/tag/sk-battery-america,Direct,1,1,1,1,0,3,0,0
+/global/archives/tag/sk-battery-hungary,Organic Search,1,1,1,1,59,6,0,0
+/global/archives/tag/sk-earthon,Direct,1,1,1,1,0,4,0,0
+/global/archives/tag/sk-ecoplant,Organic Search,1,1,1,1,10,4,0,0
+/global/archives/tag/sk-green,Organic Search,1,1,1,1,6,5,0,0
+/global/archives/tag/sk-inc,Organic Search,1,1,1,1,19,6,0,0
+/global/archives/tag/sk-incheon-petrochem,Organic Search,1,1,1,1,20,6,0,0
+/global/archives/tag/sk-innovation,Organic Search,1,1,1,1,8,4,0,0
+/global/archives/tag/sk-innovation-young-ambassador,Direct,1,2,1,1,0,6,0,0
+/global/archives/tag/sk-on,Organic Search,1,1,1,1,6,5,0,0
+/global/archives/tag/sk-seorin-building,Organic Search,1,1,1,1,14,6,0,0
+/global/archives/tag/sk-seorin-building,Referral,1,1,1,1,8,4,0,0
+/global/archives/tag/sk-tank-terminal,Referral,1,1,1,1,13,4,0,0
+/global/archives/tag/sk-trading-international,Organic Search,1,1,1,1,9,5,0,0
+/global/archives/tag/skbh,Direct,1,1,1,1,4,7,0,0
+/global/archives/tag/skbmc,Organic Search,1,1,1,1,13,6,0,0
+/global/archives/tag/skfp,Organic Search,1,1,1,1,5,6,0,0
+/global/archives/tag/skgc-shanghai,Organic Search,1,1,1,1,4,6,0,0
+/global/archives/tag/skhb,Organic Search,1,1,1,1,0,4,0,0
+/global/archives/tag/skinno-way,Organic Search,1,1,1,1,3,4,0,0
+/global/archives/tag/skipc,Organic Search,1,1,1,1,12,6,0,0
+/global/archives/tag/skr,Organic Search,1,1,1,1,1,4,0,0
+/global/archives/tag/sustainable-economy,Direct,1,1,1,1,4,5,0,0
+/global/archives/tag/synthetic-crude-oil,Organic Search,1,1,1,1,0,5,0,0
+/global/archives/tag/together-in-action,Organic Search,1,1,1,1,2,5,0,0
+/global/archives/tag/tri-gen,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/ultra-pure,Direct,1,1,1,1,0,3,0,0
+/global/archives/tag/vietnam,Organic Search,1,1,1,1,9,6,0,0
+/global/archives/tag/vietnamese-mekong-delta,Organic Search,1,1,1,1,5,4,0,0
+/global/archives/tag/vinfast,Organic Search,1,1,1,1,12,5,0,0
+/global/archives/tag/vingroup,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/volunteer,Organic Search,1,1,1,1,32,4,0,0
+/global/archives/tag/volunteer-activity,Organic Search,1,1,1,1,40,5,0,0
+/global/archives/tag/vwbe,Direct,1,1,1,1,0,4,0,0
+/global/archives/tag/vwbe,Organic Search,1,1,1,1,2,5,0,0
+/global/archives/tag/waste-water-treatment-system,Direct,1,1,1,1,0,5,0,0
+/global/archives/tag/yukong,Organic Search,1,1,1,1,3,5,0,0
+/global/archives/tag/中韩石化,Direct,1,1,1,1,0,5,0,0
+/global/login,Organic Search,1,1,1,1,2,4,0,0
+/global/archives/11415,Unassigned,0,1,1,0,34,1,0,0
+/global/archives/11596,Unassigned,0,1,1,0,8,1,0,0
+/global/archives/11623👈,Unassigned,0,1,1,0,7,1,0,0
+/global/archives/11830,Referral,0,1,1,0,9,1,0,0
+/global/archives/12106,Unassigned,0,1,1,0,31,1,0,0
+/global/archives/12471,Unassigned,0,1,1,0,3,1,0,0
+/global/archives/13413,Unassigned,0,1,1,0,0,1,0,0
+/global/archives/13521,Referral,0,1,1,0,61,1,0,0
+/global/archives/14179,Referral,0,1,1,0,0,2,0,0
+/global/archives/14770,Referral,0,1,1,0,91,1,0,0
+/global/archives/15760,Direct,0,1,1,0,0,2,0,0
+/global/archives/15937,Referral,0,1,1,0,104,1,0,0
+/global/archives/16532,Direct,0,1,1,0,0,2,0,0
+/global/archives/16719,Organic Social,0,1,1,0,0,2,0,0
+/global/archives/16904,Organic Social,0,1,1,0,62,1,0,0
+/global/archives/16925,Unassigned,0,1,1,0,22,1,0,0
+/global/archives/17426,Unassigned,0,1,1,0,0,1,0,0
+/global/archives/17499,Unassigned,0,1,0,0,0,1,0,0
+/global/archives/17950,Unassigned,0,3,3,0,7,3,0,0
+/global/archives/2293,Referral,0,1,1,0,99,1,0,0
+/global/archives/253,Direct,0,1,1,0,0,2,0,0
+/global/archives/8486,Direct,0,1,1,0,47,1,0,0
+/global/archives/9616,Direct,0,1,1,0,0,2,0,0
+/global/archives/tag/family-event,Organic Search,0,1,1,0,577,1,0,0
+/global/latestnews,Unassigned,0,2,2,0,19.5,2,0,0

@@ -1,0 +1,3513 @@
+# ----------------------------------------
+# 보고서 CSV 내보내기
+# 계정: skinno global
+# 속성: skinno 글로벌 - GA4
+# ----------------------------------------
+# 
+# 모든 사용자
+# 시작일: 20240601
+# 종료일: 20240630
+페이지 경로 및 화면 클래스,국가,조회수,사용자,사용자당 조회수,평균 참여 시간,이벤트 수,주요 이벤트,총 수익
+/global/archives/18140,India,657,187,3.513368983957219,1.3422459893048129,2019,0,0
+/global/,South Korea,331,117,2.8290598290598292,33.1025641025641,1382,0,0
+/global/archives/18283,United States,206,191,1.0785340314136125,16.445026178010473,855,0,0
+/global/archives/18283,Germany,192,153,1.2549019607843137,8.366013071895425,763,0,0
+/global/latestnews,China,188,207,0.9082125603864735,19.154589371980677,747,0,0
+/global/archives/category/press-room/press-release,France,178,177,1.0056497175141244,0.9152542372881356,712,0,0
+/global/,United Kingdom,118,111,1.063063063063063,4.486486486486487,503,0,0
+/global/latestnews,Germany,98,3,32.666666666666664,28,233,0,0
+/global/,Japan,87,36,2.4166666666666665,44.19444444444444,376,0,0
+/global/archives/18283,South Korea,78,50,1.56,18.84,309,0,0
+/global/,United States,72,43,1.6744186046511629,26.58139534883721,313,0,0
+/global/archives/17817,India,65,17,3.823529411764706,14.529411764705882,196,0,0
+/global/,China,61,30,2.033333333333333,20.433333333333334,223,0,0
+/global/archives/category/press-room/press-release,Japan,55,15,3.6666666666666665,46,210,0,0
+/global/archives/18283,Japan,53,33,1.606060606060606,63.06060606060606,226,0,0
+/global/archives/7245,United States,53,53,1,4.509433962264151,214,0,0
+/global/archives/category/press-room/financial-results,United States,51,15,3.4,39.333333333333336,203,0,0
+/global/archives/category/corporates/sk-on,South Korea,50,23,2.1739130434782608,30.695652173913043,201,0,0
+/global/,India,48,26,1.8461538461538463,24.423076923076923,192,0,0
+/global/archives/category/press-room/financial-results,India,46,15,3.066666666666667,28.666666666666668,167,0,0
+/global/archives/17426,India,45,21,2.142857142857143,74.19047619047619,198,0,0
+/global/archives/18283,India,45,31,1.4516129032258065,43.096774193548384,182,0,0
+/global/archives/15374,South Korea,42,29,1.4482758620689655,34.62068965517241,170,0,0
+/global/archives/18283,Iran,42,25,1.68,10.88,128,0,0
+/global/archives/17216,United States,41,33,1.2424242424242424,51.45454545454545,178,0,0
+/global/archives/category/press-room/financial-results,Japan,41,14,2.9285714285714284,47.92857142857143,160,0,0
+/global/archives/16463,United States,40,39,1.0256410256410255,47.30769230769231,196,0,0
+/global/archives/17216,South Korea,40,29,1.3793103448275863,27.655172413793103,167,0,0
+/global/archives/category/corporates/sk-on,Japan,40,17,2.3529411764705883,23.235294117647058,151,0,0
+/global/archives/category/press-room/press-release,India,40,21,1.9047619047619047,12.523809523809524,159,0,0
+/global/latestnews,South Korea,40,13,3.076923076923077,24.53846153846154,159,0,0
+/global/archives/18283,China,39,31,1.2580645161290323,36.70967741935484,156,0,0
+/global/archives/18361,United States,38,38,1,9.81578947368421,160,0,0
+/global/archives/18107,United States,37,26,1.4230769230769231,74.03846153846153,155,0,0
+/global/archives/12274/skee,South Korea,35,23,1.5217391304347827,23.347826086956523,170,0,0
+/global/archives/9910,Malaysia,34,30,1.1333333333333333,70.3,168,0,0
+/global/archives/18283,France,33,26,1.2692307692307692,41.84615384615385,149,0,0
+/global/archives/18301,United States,33,22,1.5,30.136363636363637,125,0,0
+/global/archives/17623,South Korea,32,23,1.391304347826087,23.391304347826086,148,0,0
+/global/archives/18065,Japan,32,12,2.6666666666666665,61.416666666666664,128,0,0
+/global/archives/18361,India,31,21,1.4761904761904763,43.523809523809526,121,0,0
+/global/archives/category/insight,South Korea,31,6,5.166666666666667,61.5,119,0,0
+/global/archives/category/press-room/financial-results,Hong Kong,31,14,2.2142857142857144,23.5,123,0,0
+/global/,Singapore,30,22,1.3636363636363635,10.863636363636363,129,0,0
+/global/archives/category/press-room/press-release,Singapore,30,12,2.5,35.833333333333336,106,0,0
+/global/sustainability-report,United States,30,28,1.0714285714285714,2.25,123,0,0
+/global/,Hungary,29,9,3.2222222222222223,35.111111111111114,123,0,0
+/global/archives/10774,South Korea,29,19,1.5263157894736843,31,122,0,0
+/global/archives/12106,Indonesia,29,14,2.0714285714285716,67.42857142857143,110,0,0
+/global/latestnews,United States,29,6,4.833333333333333,37.333333333333336,101,0,0
+/global/archives/18167,South Korea,28,14,2,49.07142857142857,98,0,0
+/global/archives/17426,United States,27,15,1.8,66.13333333333334,122,0,0
+/global/archives/6216,United States,27,21,1.2857142857142858,151.95238095238096,130,0,0
+/global/archives/category/insight/trend_report,South Korea,27,12,2.25,18.5,99,0,0
+/global/archives/15374,Malaysia,26,20,1.3,68.7,109,0,0
+/global/archives/15664,South Korea,26,21,1.2380952380952381,15.80952380952381,114,0,0
+/global/archives/17426,Singapore,26,17,1.5294117647058822,108.3529411764706,119,0,0
+/global/archives/18283,Italy,26,15,1.7333333333333334,40.266666666666666,114,0,0
+/global/archives/18140,South Korea,25,9,2.7777777777777777,22.88888888888889,83,0,0
+/global/archives/category/corporate/sk-on,Japan,25,4,6.25,17,97,0,0
+/global/archives/10774,United States,24,19,1.263157894736842,36.526315789473685,107,0,0
+/global/archives/15374,Singapore,24,18,1.3333333333333333,42.05555555555556,114,0,0
+/global/archives/15664,United States,24,20,1.2,13.15,102,0,0
+/global/archives/17499,India,24,12,2,161.75,90,0,0
+/global/archives/category/press-room/financial-results,China,24,6,4,29.666666666666668,90,0,0
+/global/,Thailand,23,7,3.2857142857142856,46.142857142857146,111,0,0
+/global/archives/12022,United States,23,20,1.15,18.85,101,0,0
+/global/archives/17426,South Korea,23,14,1.6428571428571428,17.071428571428573,87,0,0
+/global/archives/6216,South Korea,23,19,1.2105263157894737,37.36842105263158,106,0,0
+/global/archives/15490,South Korea,22,18,1.2222222222222223,62,94,0,0
+/global/archives/18283,(not set),22,22,1,0,88,0,0
+/global/archives/category/insight/expert-voice,South Korea,22,6,3.6666666666666665,49.333333333333336,85,0,0
+/global/latestnews,India,22,17,1.2941176470588236,17.941176470588236,91,0,0
+/global/archives/17426,Hong Kong,21,12,1.75,69.83333333333333,92,0,0
+/global/archives/category/press-room/financial-results,Singapore,21,8,2.625,20.5,82,0,0
+/global/,Germany,20,12,1.6666666666666667,31.916666666666668,85,0,0
+/global/,Hong Kong,20,11,1.8181818181818181,17.363636363636363,86,0,0
+/global/archives/16376,India,20,7,2.857142857142857,3.5714285714285716,58,0,0
+/global/archives/18208,South Korea,20,15,1.3333333333333333,8.466666666666667,80,0,0
+/global/archives/3393,Poland,20,20,1,34.95,94,0,0
+/global/archives/7445,Poland,20,2,10,12,67,0,0
+/global/archives/category/press-room,Singapore,20,8,2.5,15.625,77,0,0
+/global/archives/tag/sko,South Korea,20,17,1.1764705882352942,16.058823529411764,91,0,0
+/global/archives/10985,Vietnam,19,14,1.3571428571428572,35.357142857142854,93,0,0
+/global/archives/12008,Ukraine,19,2,9.5,19.5,61,0,0
+/global/archives/17499,United States,19,17,1.1176470588235294,44.705882352941174,86,0,0
+/global/archives/17595,South Korea,19,15,1.2666666666666666,22.933333333333334,72,0,0
+/global/archives/18022,South Korea,19,9,2.111111111111111,16.22222222222222,76,0,0
+/global/archives/18065,South Korea,19,15,1.2666666666666666,24.4,73,0,0
+/global/archives/18283,Spain,19,16,1.1875,42.5625,82,0,0
+/global/archives/4921,United States,19,17,1.1176470588235294,38.35294117647059,95,0,0
+/global/archives/7961,United States,19,4,4.75,100,76,0,0
+/global/archives/category/press-room/press-release,United States,19,15,1.2666666666666666,10.133333333333333,75,0,0
+/global/archives/12306,South Korea,18,12,1.5,16.75,73,0,0
+/global/archives/16532,Vietnam,18,11,1.6363636363636365,58,68,0,0
+/global/archives/17499,South Korea,18,12,1.5,31.25,79,0,0
+/global/archives/category/corporates,United States,18,9,2,38.888888888888886,67,0,0
+/global/archives/16480,India,17,5,3.4,72.4,54,0,0
+/global/archives/18107,India,17,15,1.1333333333333333,71,80,0,0
+/global/archives/3820,South Korea,17,8,2.125,41.5,64,0,0
+/global/archives/category/corporates,South Korea,17,13,1.3076923076923077,14.923076923076923,68,0,0
+/global/archives/category/press-room/financial-results,United Kingdom,17,9,1.8888888888888888,11.444444444444445,67,0,0
+/global/,Spain,16,6,2.6666666666666665,46.166666666666664,63,0,0
+/global/archives/13780,Germany,16,5,3.2,145.4,67,0,0
+/global/archives/15490,Canada,16,12,1.3333333333333333,84.33333333333333,77,0,0
+/global/archives/16834,United States,16,13,1.2307692307692308,21.692307692307693,72,0,0
+/global/archives/17169,South Korea,16,12,1.3333333333333333,40.416666666666664,71,0,0
+/global/archives/17216,Japan,16,13,1.2307692307692308,64.76923076923077,65,0,0
+/global/archives/17950,United States,16,14,1.1428571428571428,42.57142857142857,67,0,0
+/global/archives/18065,United Kingdom,16,11,1.4545454545454546,150.54545454545453,59,0,0
+/global/archives/18268,Hungary,16,10,1.6,88.9,66,0,0
+/global/archives/18283,Taiwan,16,9,1.7777777777777777,226,69,0,0
+/global/archives/category/corporate/sk-on,Taiwan,16,1,16,117,64,0,0
+/global/archives/category/corporates/sk-on,Germany,16,5,3.2,29,48,0,0
+/global/archives/category/press-room/press-release,South Korea,16,10,1.6,61,62,0,0
+/pagead/aclk,United States,16,16,1,0,64,0,0
+/global/archives/17737,(not set),15,15,1,0,60,0,0
+/global/archives/18301,South Korea,15,13,1.1538461538461537,9.384615384615385,57,0,0
+/global/,Canada,14,7,2,16,62,0,0
+/global/,Poland,14,8,1.75,19.625,61,0,0
+/global/archives/10654,United States,14,3,4.666666666666667,165.33333333333334,53,0,0
+/global/archives/15490,United States,14,12,1.1666666666666667,113.75,67,0,0
+/global/archives/17426,Germany,14,7,2,76.85714285714286,58,0,0
+/global/archives/17426,Japan,14,8,1.75,61.5,59,0,0
+/global/archives/18283,United Kingdom,14,12,1.1666666666666667,16.416666666666668,60,0,0
+/global/archives/18374,South Korea,14,9,1.5555555555555556,11.222222222222221,55,0,0
+/global/archives/6216,Germany,14,12,1.1666666666666667,50.416666666666664,60,0,0
+/global/archives/category/corporates/sk-enmove,South Korea,14,7,2,31.428571428571427,53,0,0
+/global/archives/category/press-room/financial-results,South Korea,14,8,1.75,11,57,0,0
+/global/archives/13780,United States,13,7,1.8571428571428572,5.571428571428571,51,0,0
+/global/archives/15687,India,13,10,1.3,42.6,61,0,0
+/global/archives/17426,China,13,6,2.1666666666666665,45,47,0,0
+/global/archives/17426,United Kingdom,13,10,1.3,13.6,55,0,0
+/global/archives/17737,South Korea,13,10,1.3,53.9,63,0,0
+/global/archives/17989,South Korea,13,12,1.0833333333333333,33.666666666666664,49,0,0
+/global/archives/18208,United States,13,9,1.4444444444444444,22.555555555555557,55,0,0
+/global/archives/18268,South Korea,13,10,1.3,2.5,46,0,0
+/global/archives/18283,Hong Kong,13,8,1.625,15.625,51,0,0
+/global/archives/5944,India,13,4,3.25,28,43,0,0
+/global/archives/category/corporates/sk-ie-technology,Japan,13,5,2.6,27.8,53,0,0
+/global/latestnews,Singapore,13,9,1.4444444444444444,31.333333333333332,53,0,0
+/global/archives/12072,South Korea,12,8,1.5,19.875,51,0,0
+/global/archives/13780,Japan,12,9,1.3333333333333333,21.333333333333332,53,0,0
+/global/archives/13780,South Korea,12,8,1.5,7.75,44,0,0
+/global/archives/13804,China,12,9,1.3333333333333333,103.77777777777777,50,0,0
+/global/archives/14491,United States,12,11,1.0909090909090908,17.363636363636363,54,0,0
+/global/archives/14800,United States,12,11,1.0909090909090908,116.36363636363636,58,0,0
+/global/archives/15103,United States,12,10,1.2,42,55,0,0
+/global/archives/15664,India,12,7,1.7142857142857142,34.57142857142857,45,0,0
+/global/archives/15865,India,12,2,6,8,36,0,0
+/global/archives/16834,South Korea,12,11,1.0909090909090908,25.90909090909091,51,0,0
+/global/archives/17313,South Korea,12,7,1.7142857142857142,29.428571428571427,45,0,0
+/global/archives/17950,South Korea,12,12,1,41.833333333333336,49,0,0
+/global/archives/18283,Sweden,12,7,1.7142857142857142,30.142857142857142,47,0,0
+/global/archives/3820,Japan,12,4,3,67.25,50,0,0
+/global/archives/category/press-room,India,12,6,2,19.833333333333332,45,0,0
+/global/archives/category/press-room,South Korea,12,11,1.0909090909090908,17.818181818181817,48,0,0
+/global/archives/category/press-room/financial-results,Hungary,12,3,4,34.333333333333336,51,0,0
+/global/archives/tag/battery,South Korea,12,1,12,204,43,0,0
+/global/,France,11,10,1.1,16.7,46,0,0
+/global/archives/10939,Singapore,11,8,1.375,65.375,41,0,0
+/global/archives/12022,India,11,7,1.5714285714285714,34,47,0,0
+/global/archives/12692,South Korea,11,10,1.1,13,54,0,0
+/global/archives/15865,South Korea,11,5,2.2,29.6,38,0,0
+/global/archives/15937,India,11,3,3.6666666666666665,70.33333333333333,35,0,0
+/global/archives/16463,South Korea,11,11,1,6.181818181818182,51,0,0
+/global/archives/17169,United States,11,8,1.375,74.5,51,0,0
+/global/archives/17356,United States,11,8,1.375,58.125,47,0,0
+/global/archives/17426,Taiwan,11,5,2.2,15.8,42,0,0
+/global/archives/17863,South Korea,11,8,1.375,54.25,41,0,0
+/global/archives/18361,Germany,11,8,1.375,26.875,49,0,0
+/global/archives/18361,South Korea,11,10,1.1,23.6,43,0,0
+/global/archives/3820,Germany,11,9,1.2222222222222223,26,50,0,0
+/global/archives/7906,United States,11,5,2.2,65.2,41,0,0
+/global/archives/category/corporates/sk-innovation,Japan,11,8,1.375,15.375,43,0,0
+/global/archives/category/insight/trend_report,India,11,5,2.2,19.4,46,0,0
+/global/archives/category/people,United States,11,11,1,23.454545454545453,47,0,0
+/global/archives/category/press-room,United States,11,10,1.1,20.2,43,0,0
+/global/archives/category/press-room/financial-results,Thailand,11,4,2.75,39,45,0,0
+/global/archives/11807,South Korea,10,11,0.9090909090909091,30.818181818181817,58,0,0
+/global/archives/12022,Singapore,10,7,1.4285714285714286,42.285714285714285,44,0,0
+/global/archives/14491,Singapore,10,8,1.25,39.625,45,0,0
+/global/archives/17426,Poland,10,5,2,58.6,41,0,0
+/global/archives/17990,South Korea,10,9,1.1111111111111112,3.2222222222222223,40,0,0
+/global/archives/18065,Singapore,10,8,1.25,42.75,48,0,0
+/global/archives/18283,Canada,10,8,1.25,60.75,47,0,0
+/global/archives/6807,India,10,9,1.1111111111111112,19.666666666666668,46,0,0
+/global/archives/category/corporate/sk-enterm,South Korea,10,8,1.25,6,46,0,0
+/global/archives/category/corporates,Singapore,10,5,2,16,39,0,0
+/global/archives/category/corporates/sk-innovation,South Korea,10,8,1.25,14.5,36,0,0
+/global/archives/category/corporates/sk-innovation,United States,10,9,1.1111111111111112,16.11111111111111,38,0,0
+/global/archives/category/press-room,Japan,10,9,1.1111111111111112,33.22222222222222,40,0,0
+/global/archives/category/press-room/financial-results,Taiwan,10,3,3.3333333333333335,33.333333333333336,41,0,0
+/global/archives/tag/skeo,South Korea,10,6,1.6666666666666667,16.5,40,0,0
+/global/archives/10939,Malaysia,9,9,1,16.333333333333332,46,0,0
+/global/archives/11087,United States,9,9,1,24.444444444444443,43,0,0
+/global/archives/11161,India,9,6,1.5,59.5,40,0,0
+/global/archives/11596,South Korea,9,5,1.8,43.2,38,0,0
+/global/archives/13521,United States,9,9,1,34.666666666666664,41,0,0
+/global/archives/13595,United States,9,8,1.125,47.75,42,0,0
+/global/archives/14193,South Korea,9,9,1,36.666666666666664,40,0,0
+/global/archives/14766,India,9,6,1.5,12,32,0,0
+/global/archives/14766,South Korea,9,8,1.125,18.5,38,0,0
+/global/archives/14766,United States,9,6,1.5,46.833333333333336,37,0,0
+/global/archives/15490,India,9,8,1.125,46.75,35,0,0
+/global/archives/16060,Japan,9,8,1.125,10.625,44,0,0
+/global/archives/16060,United States,9,5,1.8,48.4,41,0,0
+/global/archives/17356,South Korea,9,5,1.8,20.6,36,0,0
+/global/archives/17595,France,9,2,4.5,0,29,0,0
+/global/archives/17950,France,9,6,1.5,8,34,0,0
+/global/archives/18065,India,9,8,1.125,11.75,41,0,0
+/global/archives/18065,Saudi Arabia,9,4,2.25,34,32,0,0
+/global/archives/18107,South Korea,9,7,1.2857142857142858,72.28571428571429,30,0,0
+/global/archives/18140,(not set),9,9,1,0,36,0,0
+/global/archives/18332,South Korea,9,6,1.5,19.666666666666668,35,0,0
+/global/archives/2756,South Korea,9,7,1.2857142857142858,17.571428571428573,37,0,0
+/global/archives/3464,United States,9,6,1.5,18.166666666666668,38,0,0
+/global/archives/6216,Italy,9,5,1.8,39.6,42,0,0
+/global/archives/7292,South Korea,9,8,1.125,16.75,43,0,0
+/global/archives/7670,South Korea,9,2,4.5,455,30,0,0
+/global/archives/9910,South Korea,9,3,3,200.33333333333334,37,0,0
+/global/archives/category/corporates/sk-innovation,Singapore,9,8,1.125,9.75,33,0,0
+/global/archives/category/corporates/sk-on,Hong Kong,9,3,3,16,32,0,0
+/global/archives/category/corporates/sk-on,United States,9,8,1.125,34.125,38,0,0
+/global/archives/category/people,South Korea,9,7,1.2857142857142858,5.857142857142857,34,0,0
+/global/archives/category/press-room/financial-results,Philippines,9,4,2.25,42,35,0,0
+/global/,Taiwan,8,6,1.3333333333333333,15.833333333333334,36,0,0
+/global/archives/11087,South Korea,8,8,1,13,39,0,0
+/global/archives/11161,United States,8,7,1.1428571428571428,1.5714285714285714,34,0,0
+/global/archives/12106,Singapore,8,6,1.3333333333333333,28.333333333333332,34,0,0
+/global/archives/12106,South Korea,8,7,1.1428571428571428,54.714285714285715,35,0,0
+/global/archives/12688,South Korea,8,6,1.3333333333333333,30,35,0,0
+/global/archives/1399,Vietnam,8,6,1.3333333333333333,74.66666666666667,37,0,0
+/global/archives/14078,Japan,8,3,2.6666666666666665,140,40,0,0
+/global/archives/14333,India,8,7,1.1428571428571428,26.428571428571427,37,0,0
+/global/archives/14634,United States,8,8,1,45.375,44,0,0
+/global/archives/15865,Japan,8,3,2.6666666666666665,154.33333333333334,37,0,0
+/global/archives/16154,South Korea,8,6,1.3333333333333333,20,36,0,0
+/global/archives/16169,South Korea,8,5,1.6,7.6,34,0,0
+/global/archives/17313,Japan,8,4,2,27,28,0,0
+/global/archives/17426,Russia,8,2,4,127,33,0,0
+/global/archives/17446,India,8,4,2,47.5,28,0,0
+/global/archives/17514,India,8,6,1.3333333333333333,54.333333333333336,40,0,0
+/global/archives/17569,India,8,5,1.6,18.4,30,0,0
+/global/archives/17569,South Korea,8,8,1,27.75,38,0,0
+/global/archives/17950,India,8,5,1.6,123.6,31,0,0
+/global/archives/17989,India,8,5,1.6,14.8,34,0,0
+/global/archives/17990,(not set),8,8,1,0,32,0,0
+/global/archives/18065,Hong Kong,8,6,1.3333333333333333,39.166666666666664,33,0,0
+/global/archives/18065,United States,8,7,1.1428571428571428,29,33,0,0
+/global/archives/18107,Canada,8,7,1.1428571428571428,202.71428571428572,38,0,0
+/global/archives/2329,South Korea,8,5,1.6,143.6,38,0,0
+/global/archives/3123,South Korea,8,4,2,63.25,26,0,0
+/global/archives/6216,France,8,7,1.1428571428571428,48.42857142857143,42,0,0
+/global/archives/7292,United States,8,6,1.3333333333333333,76.5,37,0,0
+/global/archives/9709,Japan,8,5,1.6,33.4,31,0,0
+/global/archives/category/corporates/sk-energy,South Korea,8,7,1.1428571428571428,50.57142857142857,30,0,0
+/global/archives/category/corporates/sk-on,China,8,5,1.6,40.6,32,0,0
+/global/archives/category/press-room/financial-results,Russia,8,1,8,41,28,0,0
+/global/archives/category/press-room/issue-fact,Singapore,8,5,1.6,9.2,30,0,0
+/global/archives/tag/sk-global-forum,United States,8,7,1.1428571428571428,5.571428571428571,40,0,0
+/global/,Ukraine,7,4,1.75,15.5,26,0,0
+/global/archives/12072,United States,7,6,1.1666666666666667,7.833333333333333,32,0,0
+/global/archives/12106,Germany,7,2,3.5,47.5,24,0,0
+/global/archives/12147,United States,7,5,1.4,28.4,29,0,0
+/global/archives/12306,United States,7,5,1.4,55.8,35,0,0
+/global/archives/13595,South Korea,7,5,1.4,13.6,21,0,0
+/global/archives/13780,Singapore,7,5,1.4,9.4,30,0,0
+/global/archives/14491,India,7,3,2.3333333333333335,175,29,0,0
+/global/archives/14491,United Kingdom,7,6,1.1666666666666667,19.666666666666668,28,0,0
+/global/archives/14755,United States,7,7,1,17.571428571428573,31,0,0
+/global/archives/15007,Hungary,7,5,1.4,58.4,25,0,0
+/global/archives/16405,Hungary,7,6,1.1666666666666667,73.16666666666667,35,0,0
+/global/archives/16532,Singapore,7,7,1,36.57142857142857,32,0,0
+/global/archives/16939,South Korea,7,6,1.1666666666666667,5.666666666666667,26,0,0
+/global/archives/16939,United States,7,6,1.1666666666666667,30.833333333333332,33,0,0
+/global/archives/17047,United States,7,6,1.1666666666666667,36.5,31,0,0
+/global/archives/17216,China,7,7,1,13.285714285714286,28,0,0
+/global/archives/17216,France,7,5,1.4,37,34,0,0
+/global/archives/17216,Hong Kong,7,4,1.75,26.75,29,0,0
+/global/archives/17216,India,7,7,1,64.42857142857143,34,0,0
+/global/archives/17476,South Korea,7,7,1,39.714285714285715,35,0,0
+/global/archives/17817,(not set),7,7,1,0,28,0,0
+/global/archives/17817,United States,7,6,1.1666666666666667,43.5,26,0,0
+/global/archives/17978,South Korea,7,6,1.1666666666666667,0.8333333333333334,30,0,0
+/global/archives/17990,United States,7,7,1,29,30,0,0
+/global/archives/18065,Hungary,7,4,1.75,100.25,29,0,0
+/global/archives/18283,Poland,7,6,1.1666666666666667,86,36,0,0
+/global/archives/2293,Poland,7,7,1,91.71428571428571,39,0,0
+/global/archives/3304,United States,7,2,3.5,133,31,0,0
+/global/archives/6824,China,7,6,1.1666666666666667,14.5,31,0,0
+/global/archives/7961,Indonesia,7,5,1.4,21.2,30,0,0
+/global/archives/9910,Singapore,7,5,1.4,48.2,33,0,0
+/global/archives/category/corporates,India,7,5,1.4,34.8,24,0,0
+/global/archives/category/corporates/sk-enmove,Singapore,7,3,2.3333333333333335,33.666666666666664,31,0,0
+/global/archives/category/corporates/sk-enterm,Hong Kong,7,1,7,25,28,0,0
+/global/archives/category/corporates/sk-innovation,Germany,7,6,1.1666666666666667,4,29,0,0
+/global/archives/category/corporates/sk-rading-international,Singapore,7,4,1.75,18.25,25,0,0
+/global/archives/category/insight,Belgium,7,4,1.75,0.75,30,0,0
+/global/archives/category/insight,United States,7,10,0.7,7.2,32,0,0
+/global/archives/category/insight/trend_report,China,7,3,2.3333333333333335,46,25,0,0
+/global/archives/category/people/inno-people,United States,7,5,1.4,29,29,0,0
+/global/archives/tag/green-bonds,United States,7,3,2.3333333333333335,97.33333333333333,29,0,0
+/global/,Russia,6,4,1.5,19.75,24,0,0
+/global/archives/10767,South Korea,6,4,1.5,14.25,27,0,0
+/global/archives/10897,South Korea,6,3,2,23.666666666666668,21,0,0
+/global/archives/11161,Singapore,6,2,3,66.5,24,0,0
+/global/archives/12022,South Korea,6,6,1,12.166666666666666,28,0,0
+/global/archives/12147,South Korea,6,5,1.2,15,24,0,0
+/global/archives/12692/웨이스트리소스4,South Korea,6,2,3,27.5,25,0,0
+/global/archives/12968,Vietnam,6,3,2,7.666666666666667,23,0,0
+/global/archives/13329,South Korea,6,5,1.2,37,29,0,0
+/global/archives/13521,Germany,6,3,2,124.33333333333333,28,0,0
+/global/archives/13595,Japan,6,4,1.5,241.5,25,0,0
+/global/archives/14030,South Korea,6,4,1.5,59.75,24,0,0
+/global/archives/14493,Sweden,6,1,6,257,22,0,0
+/global/archives/15204,South Korea,6,5,1.2,22,29,0,0
+/global/archives/15374,Australia,6,6,1,26.5,33,0,0
+/global/archives/15430,China,6,6,1,2.8333333333333335,20,0,0
+/global/archives/15664,Japan,6,4,1.5,15.25,29,0,0
+/global/archives/15664,United Kingdom,6,5,1.2,41.4,29,0,0
+/global/archives/15687,South Korea,6,5,1.2,10.8,24,0,0
+/global/archives/15840,Malaysia,6,5,1.2,109.6,30,0,0
+/global/archives/16448,United Arab Emirates,6,4,1.5,14,24,0,0
+/global/archives/16463,Canada,6,5,1.2,33.4,25,0,0
+/global/archives/16463,India,6,3,2,10,18,0,0
+/global/archives/16480,South Korea,6,5,1.2,29.2,20,0,0
+/global/archives/16532,Malaysia,6,5,1.2,22.8,21,0,0
+/global/archives/16532,United States,6,6,1,16,25,0,0
+/global/archives/16834,Singapore,6,5,1.2,117.2,27,0,0
+/global/archives/16925,South Korea,6,6,1,7.333333333333333,26,0,0
+/global/archives/16970,United States,6,5,1.2,6,21,0,0
+/global/archives/17047,South Korea,6,5,1.2,60.8,30,0,0
+/global/archives/17169,Singapore,6,5,1.2,20,25,0,0
+/global/archives/17569,Japan,6,2,3,61,24,0,0
+/global/archives/17595,Germany,6,5,1.2,74.4,22,0,0
+/global/archives/17595,United States,6,5,1.2,33.6,26,0,0
+/global/archives/17817,South Korea,6,7,0.8571428571428571,26.142857142857142,23,0,0
+/global/archives/18107,United Kingdom,6,6,1,49.833333333333336,29,0,0
+/global/archives/18167,United States,6,6,1,121.83333333333333,30,0,0
+/global/archives/18283,Austria,6,6,1,45.833333333333336,27,0,0
+/global/archives/18283,Netherlands,6,5,1.2,55.4,29,0,0
+/global/archives/18283,Switzerland,6,5,1.2,24,24,0,0
+/global/archives/18374,United States,6,5,1.2,56,25,0,0
+/global/archives/3820,Poland,6,3,2,14.666666666666666,23,0,0
+/global/archives/4309,China,6,3,2,121,20,0,0
+/global/archives/4612,India,6,6,1,64.83333333333333,31,0,0
+/global/archives/7245,South Korea,6,5,1.2,15.4,24,0,0
+/global/archives/7633,Thailand,6,4,1.5,321,26,0,0
+/global/archives/7961,South Korea,6,5,1.2,4.6,26,0,0
+/global/archives/9668,South Korea,6,4,1.5,60.75,30,0,0
+/global/archives/category/corporate/sk-enmove,Japan,6,3,2,39.333333333333336,23,0,0
+/global/archives/category/corporate/sk-enterm,Hong Kong,6,2,3,7,25,0,0
+/global/archives/category/corporate/sk-on,United States,6,3,2,28,26,0,0
+/global/archives/category/corporates,Japan,6,6,1,16.833333333333332,25,0,0
+/global/archives/category/corporates/sk-enmove,India,6,2,3,124,20,0,0
+/global/archives/category/corporates/sk-enmove,Russia,6,3,2,31.666666666666668,24,0,0
+/global/archives/category/corporates/sk-geo-centric,China,6,3,2,48,18,0,0
+/global/archives/category/corporates/sk-ie-technology,South Korea,6,1,6,137,24,0,0
+/global/archives/category/corporates/sk-ie-technology,United States,6,3,2,4.666666666666667,26,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,India,6,2,3,30.5,23,0,0
+/global/archives/category/corporates/sk-innovation,Hong Kong,6,5,1.2,12,23,0,0
+/global/archives/category/corporates/sk-on,Hungary,6,3,2,10.333333333333334,24,0,0
+/global/archives/category/press-room/financial-results,Germany,6,2,3,21.5,25,0,0
+/global/archives/category/press-room/financial-results,United Arab Emirates,6,2,3,22.5,24,0,0
+/global/archives/tag/blueovalsk,United States,6,4,1.5,15.25,27,0,0
+/global/archives/tag/hungary,South Korea,6,1,6,75,24,0,0
+/global/archives/tag/pouch-type-battery,South Korea,6,4,1.5,10,27,0,0
+/global/archives/tag/separator,Japan,6,5,1.2,13.4,28,0,0
+/global/archives/tag/weixing-chemical,South Korea,6,3,2,7,25,0,0
+/global/who-we-are,India,6,3,2,71.33333333333333,29,0,0
+/global/404,South Korea,5,1,5,14,21,0,0
+/global/archives/10133,Hungary,5,4,1.25,10.75,21,0,0
+/global/archives/1058,Taiwan,5,2,2.5,73,21,0,0
+/global/archives/1058,United States,5,4,1.25,11,22,0,0
+/global/archives/10872,India,5,2,2.5,4,18,0,0
+/global/archives/10872,South Korea,5,4,1.25,34.75,22,0,0
+/global/archives/11807,India,5,3,1.6666666666666667,18.666666666666668,20,0,0
+/global/archives/11807,United Kingdom,5,4,1.25,12.25,21,0,0
+/global/archives/11853,United States,5,5,1,17.6,22,0,0
+/global/archives/11980,India,5,2,2.5,59,20,0,0
+/global/archives/12106,Japan,5,4,1.25,81.75,22,0,0
+/global/archives/12190,South Korea,5,4,1.25,31.25,17,0,0
+/global/archives/12190,United States,5,5,1,22,23,0,0
+/global/archives/12220,India,5,2,2.5,49,21,0,0
+/global/archives/12220,Japan,5,5,1,27,22,0,0
+/global/archives/12471,United Kingdom,5,2,2.5,4.5,19,0,0
+/global/archives/12667,India,5,2,2.5,68.5,16,0,0
+/global/archives/13036,South Korea,5,5,1,63.8,23,0,0
+/global/archives/13521,South Korea,5,5,1,5,23,0,0
+/global/archives/13521,Spain,5,3,1.6666666666666667,16.333333333333332,23,0,0
+/global/archives/1399,South Korea,5,3,1.6666666666666667,0,17,0,0
+/global/archives/14065,Sweden,5,1,5,150,19,0,0
+/global/archives/14226,Germany,5,5,1,0.8,23,0,0
+/global/archives/14226,India,5,5,1,20.8,22,0,0
+/global/archives/14243,South Korea,5,4,1.25,25.75,20,0,0
+/global/archives/1425,Italy,5,4,1.25,12,22,0,0
+/global/archives/14668,South Korea,5,3,1.6666666666666667,65.66666666666667,20,0,0
+/global/archives/14766,Singapore,5,3,1.6666666666666667,10.333333333333334,20,0,0
+/global/archives/14770,Japan,5,4,1.25,41.75,25,0,0
+/global/archives/1493,United States,5,5,1,67.8,25,0,0
+/global/archives/15353,United States,5,5,1,20.6,21,0,0
+/global/archives/15374,India,5,5,1,59.8,22,0,0
+/global/archives/15374,Japan,5,5,1,67.2,22,0,0
+/global/archives/15374,United Kingdom,5,3,1.6666666666666667,20.333333333333332,20,0,0
+/global/archives/15462,Germany,5,5,1,14,23,0,0
+/global/archives/15462,United States,5,5,1,90.6,26,0,0
+/global/archives/15574,Japan,5,4,1.25,16.5,26,0,0
+/global/archives/15574,South Korea,5,5,1,12.8,25,0,0
+/global/archives/15664,Germany,5,5,1,24,24,0,0
+/global/archives/15937,Malaysia,5,0,0,0,15,0,0
+/global/archives/15937,Vietnam,5,1,5,0,14,0,0
+/global/archives/15985,India,5,2,2.5,0,17,0,0
+/global/archives/16060,China,5,3,1.6666666666666667,34.666666666666664,18,0,0
+/global/archives/16118,South Korea,5,2,2.5,53.5,17,0,0
+/global/archives/16131,India,5,1,5,0,16,0,0
+/global/archives/16154,India,5,1,5,0,15,0,0
+/global/archives/16448,Hong Kong,5,3,1.6666666666666667,66,24,0,0
+/global/archives/16448,South Korea,5,3,1.6666666666666667,16.333333333333332,18,0,0
+/global/archives/16493,United States,5,5,1,18.4,22,0,0
+/global/archives/16532,China,5,2,2.5,27,18,0,0
+/global/archives/16532,India,5,3,1.6666666666666667,21,17,0,0
+/global/archives/16532,South Korea,5,4,1.25,44.75,20,0,0
+/global/archives/16613,Kuwait,5,2,2.5,4.5,20,0,0
+/global/archives/16834,United Kingdom,5,5,1,16.2,26,0,0
+/global/archives/17047,Japan,5,3,1.6666666666666667,20,24,0,0
+/global/archives/17313,United States,5,3,1.6666666666666667,124.66666666666667,24,0,0
+/global/archives/17356,India,5,2,2.5,38.5,18,0,0
+/global/archives/17356,Japan,5,4,1.25,22.75,21,0,0
+/global/archives/17426,Thailand,5,4,1.25,58.5,21,0,0
+/global/archives/17476,United States,5,5,1,36.8,25,0,0
+/global/archives/17623,Croatia,5,1,5,1,17,0,0
+/global/archives/17623,Germany,5,1,5,837,16,0,0
+/global/archives/17817,Germany,5,5,1,49.4,22,0,0
+/global/archives/17817,Japan,5,4,1.25,26.5,26,0,0
+/global/archives/17844,United Kingdom,5,2,2.5,32.5,22,0,0
+/global/archives/17965,India,5,5,1,15.6,20,0,0
+/global/archives/18065,China,5,4,1.25,14,20,0,0
+/global/archives/18065,Czechia,5,2,2.5,25.5,15,0,0
+/global/archives/18065,Poland,5,1,5,186,21,0,0
+/global/archives/18065,Taiwan,5,4,1.25,23.5,23,0,0
+/global/archives/18140,Poland,5,4,1.25,87.25,20,0,0
+/global/archives/18208,India,5,3,1.6666666666666667,30,22,0,0
+/global/archives/18283,Finland,5,5,1,8.6,21,0,0
+/global/archives/18283,Singapore,5,3,1.6666666666666667,0,15,0,0
+/global/archives/18301,United Kingdom,5,7,0.7142857142857143,11.142857142857142,21,0,0
+/global/archives/18361,Austria,5,5,1,0,20,0,0
+/global/archives/18361,France,5,6,0.8333333333333334,12.5,22,0,0
+/global/archives/18361,Singapore,5,4,1.25,25.5,20,0,0
+/global/archives/18374,India,5,3,1.6666666666666667,1.3333333333333333,17,0,0
+/global/archives/2701,United States,5,5,1,5,22,0,0
+/global/archives/3820,Hungary,5,4,1.25,31.75,21,0,0
+/global/archives/3820,United Kingdom,5,5,1,53.8,21,0,0
+/global/archives/4776,China,5,5,1,18.2,17,0,0
+/global/archives/4844,South Korea,5,3,1.6666666666666667,13,22,0,0
+/global/archives/489,Myanmar (Burma),5,4,1.25,31.5,21,0,0
+/global/archives/4900,United States,5,6,0.8333333333333334,40.666666666666664,25,0,0
+/global/archives/5404,South Korea,5,4,1.25,18,19,0,0
+/global/archives/5892,South Korea,5,5,1,22,23,0,0
+/global/archives/5892,Ukraine,5,2,2.5,140.5,19,0,0
+/global/archives/6150,Japan,5,2,2.5,28.5,19,0,0
+/global/archives/6313,Poland,5,2,2.5,50.5,18,0,0
+/global/archives/6313,South Korea,5,5,1,37,22,0,0
+/global/archives/6343,India,5,4,1.25,96.25,27,0,0
+/global/archives/7292,India,5,5,1,3.4,22,0,0
+/global/archives/7445,Sweden,5,1,5,91,21,0,0
+/global/archives/7919,Singapore,5,2,2.5,10,20,0,0
+/global/archives/8230,South Korea,5,5,1,7,22,0,0
+/global/archives/8914,South Korea,5,4,1.25,6.75,21,0,0
+/global/archives/951,United States,5,3,1.6666666666666667,31.333333333333332,16,0,0
+/global/archives/9548,India,5,5,1,32.2,25,0,0
+/global/archives/category/corporate/sk-enterm,Singapore,5,4,1.25,3,23,0,0
+/global/archives/category/corporate/sk-geo-centric,India,5,5,1,3.8,21,0,0
+/global/archives/category/corporate/sk-ie-technology,Sri Lanka,5,2,2.5,44,21,0,0
+/global/archives/category/corporates/sk-innovation,India,5,4,1.25,7.25,20,0,0
+/global/archives/category/corporates/sk-innovation,United Kingdom,5,3,1.6666666666666667,27.666666666666668,20,0,0
+/global/archives/category/corporates/sk-on,Singapore,5,4,1.25,22.25,17,0,0
+/global/archives/category/insight/trend_report,Hungary,5,2,2.5,58,14,0,0
+/global/archives/category/people/ceo-leaders,United States,5,4,1.25,21.25,19,0,0
+/global/archives/category/people/inno-people,India,5,3,1.6666666666666667,27,20,0,0
+/global/archives/category/people/inno-people,South Korea,5,5,1,8,18,0,0
+/global/archives/category/people/onsite-report,South Korea,5,5,1,7.6,18,0,0
+/global/archives/category/press-room,United Kingdom,5,3,1.6666666666666667,80,20,0,0
+/global/archives/category/press-room/financial-results,Poland,5,1,5,70,20,0,0
+/global/archives/tag/germany,Germany,5,4,1.25,15,26,0,0
+/global/archives/tag/mbwa,South Korea,5,2,2.5,7,20,0,0
+/global/archives/tag/pouch-type-battery,United States,5,4,1.25,6.5,20,0,0
+/global/archives/tag/pyrolysis,Thailand,5,1,5,67,17,0,0
+/global/latestnews,Japan,5,5,1,11.8,17,0,0
+/global/sustainability-report,India,5,5,1,22.8,26,0,0
+/global/,Argentina,4,2,2,13.5,16,0,0
+/global/,Malaysia,4,4,1,16.75,22,0,0
+/global/,Portugal,4,4,1,40.25,17,0,0
+/global/,Romania,4,4,1,16.25,21,0,0
+/global/,Sweden,4,2,2,46.5,16,0,0
+/global/archives/10322,Vietnam,4,3,1.3333333333333333,49,17,0,0
+/global/archives/10535,South Korea,4,4,1,23.25,22,0,0
+/global/archives/1058,Germany,4,2,2,35,21,0,0
+/global/archives/1058,Japan,4,4,1,0,16,0,0
+/global/archives/10774,India,4,4,1,34.5,19,0,0
+/global/archives/10835,India,4,3,1.3333333333333333,12.333333333333334,17,0,0
+/global/archives/10835,United States,4,4,1,16.5,17,0,0
+/global/archives/10939,Japan,4,1,4,58,18,0,0
+/global/archives/10939,South Korea,4,4,1,34,16,0,0
+/global/archives/10977,Hong Kong,4,2,2,32,15,0,0
+/global/archives/11004,Hong Kong,4,1,4,60,16,0,0
+/global/archives/11087,Singapore,4,4,1,3,19,0,0
+/global/archives/11147,Singapore,4,3,1.3333333333333333,19,14,0,0
+/global/archives/11161,South Korea,4,3,1.3333333333333333,238.66666666666666,17,0,0
+/global/archives/11415,United States,4,4,1,12.75,18,0,0
+/global/archives/11537,South Korea,4,4,1,6.25,21,0,0
+/global/archives/11853,South Korea,4,3,1.3333333333333333,17.333333333333332,18,0,0
+/global/archives/12022,Japan,4,3,1.3333333333333333,8,14,0,0
+/global/archives/12220,South Korea,4,3,1.3333333333333333,68.66666666666667,19,0,0
+/global/archives/12220,United States,4,4,1,64.75,22,0,0
+/global/archives/13103,United States,4,4,1,11.5,19,0,0
+/global/archives/13329,Japan,4,2,2,16,16,0,0
+/global/archives/13595,Germany,4,3,1.3333333333333333,12.666666666666666,19,0,0
+/global/archives/14065,Norway,4,3,1.3333333333333333,117,18,0,0
+/global/archives/14264,Canada,4,1,4,307,14,0,0
+/global/archives/14491,Indonesia,4,2,2,6.5,15,0,0
+/global/archives/14491,Japan,4,4,1,4,21,0,0
+/global/archives/14634,Canada,4,4,1,30,20,0,0
+/global/archives/14634,France,4,3,1.3333333333333333,61,19,0,0
+/global/archives/14788,South Korea,4,3,1.3333333333333333,25.333333333333332,16,0,0
+/global/archives/15007,South Korea,4,3,1.3333333333333333,32,20,0,0
+/global/archives/15103,South Korea,4,4,1,21.5,17,0,0
+/global/archives/15374,Thailand,4,4,1,14.5,18,0,0
+/global/archives/15462,Singapore,4,4,1,24,19,0,0
+/global/archives/15490,Japan,4,4,1,30.5,21,0,0
+/global/archives/15490,Sweden,4,4,1,13.25,21,0,0
+/global/archives/15687,Thailand,4,1,4,86,18,0,0
+/global/archives/15687,United Kingdom,4,4,1,13.5,16,0,0
+/global/archives/15689,South Korea,4,3,1.3333333333333333,8,16,0,0
+/global/archives/16005,France,4,4,1,7,21,0,0
+/global/archives/16060,Singapore,4,3,1.3333333333333333,66.66666666666667,20,0,0
+/global/archives/16169,Singapore,4,2,2,56.5,14,0,0
+/global/archives/16286,United States,4,3,1.3333333333333333,12.333333333333334,15,0,0
+/global/archives/16376,South Korea,4,4,1,8.25,17,0,0
+/global/archives/16448,Singapore,4,3,1.3333333333333333,10.666666666666666,18,0,0
+/global/archives/16613,France,4,4,1,0,16,0,0
+/global/archives/16624,South Korea,4,3,1.3333333333333333,128.66666666666666,19,0,0
+/global/archives/16719,India,4,3,1.3333333333333333,0,13,0,0
+/global/archives/16834,India,4,4,1,10.75,18,0,0
+/global/archives/16881,South Korea,4,3,1.3333333333333333,6,17,0,0
+/global/archives/16904,United States,4,3,1.3333333333333333,437.6666666666667,18,0,0
+/global/archives/16925,Singapore,4,3,1.3333333333333333,10,12,0,0
+/global/archives/16970,India,4,3,1.3333333333333333,15.333333333333334,18,0,0
+/global/archives/17010,South Korea,4,4,1,1.25,17,0,0
+/global/archives/17216,Germany,4,4,1,23.25,17,0,0
+/global/archives/17386,United States,4,3,1.3333333333333333,317,15,0,0
+/global/archives/17446,United States,4,4,1,20.5,19,0,0
+/global/archives/17514,Canada,4,3,1.3333333333333333,9.333333333333334,16,0,0
+/global/archives/17569,Singapore,4,4,1,19.5,20,0,0
+/global/archives/17623,India,4,4,1,74.5,18,0,0
+/global/archives/17737,India,4,2,2,42.5,12,0,0
+/global/archives/17817,Canada,4,3,1.3333333333333333,33,15,0,0
+/global/archives/17844,South Korea,4,3,1.3333333333333333,15,20,0,0
+/global/archives/17965,United States,4,4,1,13.5,17,0,0
+/global/archives/17989,Germany,4,3,1.3333333333333333,67.33333333333333,14,0,0
+/global/archives/17989,United States,4,3,1.3333333333333333,90.33333333333333,16,0,0
+/global/archives/17990,India,4,4,1,18.5,21,0,0
+/global/archives/18065,Austria,4,1,4,55,17,0,0
+/global/archives/18065,Germany,4,4,1,9.25,18,0,0
+/global/archives/18065,Thailand,4,2,2,289.5,15,0,0
+/global/archives/18076,South Korea,4,3,1.3333333333333333,3,15,0,0
+/global/archives/18107,Mexico,4,2,2,423.5,19,0,0
+/global/archives/18107,Singapore,4,4,1,248.25,15,0,0
+/global/archives/18140,United States,4,3,1.3333333333333333,531,13,0,0
+/global/archives/18167,Poland,4,3,1.3333333333333333,173.66666666666666,20,0,0
+/global/archives/18283,Belgium,4,4,1,34,22,0,0
+/global/archives/18283,Vietnam,4,3,1.3333333333333333,101,20,0,0
+/global/archives/18301,Spain,4,3,1.3333333333333333,77,13,0,0
+/global/archives/18361,United Kingdom,4,4,1,21,17,0,0
+/global/archives/18374,Italy,4,3,1.3333333333333333,6.333333333333333,16,0,0
+/global/archives/2761,China,4,4,1,0,12,0,0
+/global/archives/298,India,4,3,1.3333333333333333,10,18,0,0
+/global/archives/3464,China,4,4,1,35.25,20,0,0
+/global/archives/3674,United Kingdom,4,3,1.3333333333333333,5.666666666666667,17,0,0
+/global/archives/3820,China,4,1,4,1,12,0,0
+/global/archives/3820,Czechia,4,2,2,39.5,19,0,0
+/global/archives/3820,United States,4,1,4,127,14,0,0
+/global/archives/4499,Philippines,4,4,1,41,21,0,0
+/global/archives/4612,United Kingdom,4,2,2,40.5,15,0,0
+/global/archives/4751,South Korea,4,4,1,12.25,20,0,0
+/global/archives/489,Singapore,4,4,1,11.25,18,0,0
+/global/archives/564,India,4,2,2,124,15,0,0
+/global/archives/6216,Canada,4,2,2,40,20,0,0
+/global/archives/6216,India,4,4,1,41.5,19,0,0
+/global/archives/6216,United Kingdom,4,3,1.3333333333333333,11.333333333333334,19,0,0
+/global/archives/6343,United States,4,3,1.3333333333333333,94.66666666666667,19,0,0
+/global/archives/6414,India,4,1,4,103,19,0,0
+/global/archives/6807,Canada,4,2,2,18.5,17,0,0
+/global/archives/6807,Singapore,4,3,1.3333333333333333,1.6666666666666667,15,0,0
+/global/archives/7031,United States,4,4,1,0.25,13,0,0
+/global/archives/7195,India,4,2,2,13,20,0,0
+/global/archives/7302,South Korea,4,2,2,9.5,14,0,0
+/global/archives/7302,United States,4,4,1,22,16,0,0
+/global/archives/7445,United States,4,4,1,32.25,20,0,0
+/global/archives/7596,South Korea,4,3,1.3333333333333333,7.333333333333333,11,0,0
+/global/archives/7596,United States,4,3,1.3333333333333333,1,20,0,0
+/global/archives/7710,Egypt,4,2,2,76.5,24,0,0
+/global/archives/7906,India,4,3,1.3333333333333333,79.66666666666667,19,0,0
+/global/archives/822,India,4,2,2,194,17,0,0
+/global/archives/822,South Korea,4,3,1.3333333333333333,21.666666666666668,19,0,0
+/global/archives/8310,China,4,4,1,33,14,0,0
+/global/archives/8829,India,4,3,1.3333333333333333,109,19,0,0
+/global/archives/9509,United States,4,3,1.3333333333333333,82.33333333333333,18,0,0
+/global/archives/9548,South Korea,4,4,1,6.25,19,0,0
+/global/archives/9709,United States,4,4,1,8.25,17,0,0
+/global/archives/category/corporate/sk-ie-technology,India,4,1,4,39,17,0,0
+/global/archives/category/corporate/sk-ie-technology,Japan,4,2,2,12.5,13,0,0
+/global/archives/category/corporate/sk-ie-technology,United States,4,2,2,46,17,0,0
+/global/archives/category/corporate/sk-on,Germany,4,2,2,54,17,0,0
+/global/archives/category/corporate/sk-on,South Korea,4,4,1,11.5,21,0,0
+/global/archives/category/corporates,Czechia,4,1,4,38,16,0,0
+/global/archives/category/corporates,Malaysia,4,1,4,12,16,0,0
+/global/archives/category/corporates/sk-earthon,Singapore,4,2,2,20,13,0,0
+/global/archives/category/corporates/sk-earthon,South Korea,4,3,1.3333333333333333,9.333333333333334,15,0,0
+/global/archives/category/corporates/sk-energy,Hungary,4,1,4,68,13,0,0
+/global/archives/category/corporates/sk-energy,Japan,4,2,2,52.5,17,0,0
+/global/archives/category/corporates/sk-energy,United States,4,4,1,3.5,15,0,0
+/global/archives/category/corporates/sk-energy,Vietnam,4,3,1.3333333333333333,10.333333333333334,14,0,0
+/global/archives/category/corporates/sk-enmove,United States,4,3,1.3333333333333333,35.333333333333336,17,0,0
+/global/archives/category/corporates/sk-geo-centric,India,4,4,1,17.5,16,0,0
+/global/archives/category/corporates/sk-geo-centric,Japan,4,2,2,71,16,0,0
+/global/archives/category/corporates/sk-geo-centric,Malaysia,4,2,2,41.5,11,0,0
+/global/archives/category/corporates/sk-on,India,4,3,1.3333333333333333,48.333333333333336,16,0,0
+/global/archives/category/insight/trend_report,Japan,4,3,1.3333333333333333,10,14,0,0
+/global/archives/category/insight/trend_report,Singapore,4,2,2,18,16,0,0
+/global/archives/category/people,India,4,3,1.3333333333333333,10.666666666666666,14,0,0
+/global/archives/category/people/onsite-report,Netherlands,4,2,2,8.5,16,0,0
+/global/archives/category/people/onsite-report,United States,4,2,2,75.5,16,0,0
+/global/archives/category/people/sustainability,Netherlands,4,1,4,22,16,0,0
+/global/archives/category/people/sustainability,United States,4,2,2,25.5,14,0,0
+/global/archives/category/press-room,Hong Kong,4,3,1.3333333333333333,19,13,0,0
+/global/archives/category/press-room/financial-results,Canada,4,1,4,0,12,0,0
+/global/archives/category/press-room/financial-results,France,4,2,2,9,17,0,0
+/global/archives/category/press-room/financial-results,Mauritius,4,1,4,46,17,0,0
+/global/archives/category/press-room/issue-fact,Hungary,4,3,1.3333333333333333,23.666666666666668,16,0,0
+/global/archives/category/press-room/issue-fact,Japan,4,3,1.3333333333333333,11,15,0,0
+/global/archives/category/press-room/press-release,Germany,4,3,1.3333333333333333,31,16,0,0
+/global/archives/category/press-room/press-release,Hong Kong,4,4,1,8.25,15,0,0
+/global/archives/tag/2023-sk-global-forum,United States,4,3,1.3333333333333333,6,17,0,0
+/global/archives/tag/ecopro,Singapore,4,1,4,16,16,0,0
+/global/archives/tag/ess,Taiwan,4,1,4,30,16,0,0
+/global/archives/tag/europe,Germany,4,1,4,12,14,0,0
+/global/archives/tag/green-bonds,India,4,2,2,11.5,19,0,0
+/global/archives/tag/sk-gc-americas,United States,4,4,1,9.25,20,0,0
+/global/archives/tag/skba,United States,4,3,1.3333333333333333,10,17,0,0
+/global/latestnews,Russia,4,1,4,6,14,0,0
+/global/sustainability-report,Hong Kong,4,2,2,11,19,0,0
+/global/sustainability-report,South Korea,4,2,2,6,18,0,0
+/global/,Czechia,3,3,1,203.33333333333334,14,0,0
+/global/,Italy,3,3,1,8.333333333333334,13,0,0
+/global/,Mexico,3,2,1.5,21.5,16,0,0
+/global/,Netherlands,3,2,1.5,22.5,12,0,0
+/global/,Vietnam,3,3,1,5,14,0,0
+/global/archives/10133。,China,3,1,3,0,10,0,0
+/global/archives/1043,United States,3,1,3,45,12,0,0
+/global/archives/1058,India,3,2,1.5,0,10,0,0
+/global/archives/10913,Poland,3,1,3,27,13,0,0
+/global/archives/11010,South Korea,3,3,1,24.666666666666668,12,0,0
+/global/archives/11087,Japan,3,2,1.5,62.5,14,0,0
+/global/archives/1114,Indonesia,3,0,0,0,9,0,0
+/global/archives/11147,United Kingdom,3,2,1.5,0,13,0,0
+/global/archives/11161,Japan,3,3,1,56.666666666666664,16,0,0
+/global/archives/11214,United States,3,1,3,97,14,0,0
+/global/archives/11415,South Korea,3,2,1.5,8.5,12,0,0
+/global/archives/11527,Pakistan,3,2,1.5,3,12,0,0
+/global/archives/11683,Japan,3,2,1.5,25,12,0,0
+/global/archives/11853,India,3,3,1,30.333333333333332,11,0,0
+/global/archives/12022,Brazil,3,3,1,18,18,0,0
+/global/archives/12072,Malaysia,3,1,3,30,12,0,0
+/global/archives/12106,United States,3,2,1.5,1.5,15,0,0
+/global/archives/12147,Taiwan,3,2,1.5,6.5,10,0,0
+/global/archives/12220,Germany,3,3,1,78.66666666666667,15,0,0
+/global/archives/12220,Singapore,3,1,3,154,13,0,0
+/global/archives/12306,Germany,3,3,1,34.666666666666664,13,0,0
+/global/archives/12306,India,3,2,1.5,16,14,0,0
+/global/archives/12306,Poland,3,2,1.5,18,10,0,0
+/global/archives/12306,Ukraine,3,1,3,174,12,0,0
+/global/archives/12389,South Korea,3,2,1.5,2.5,14,0,0
+/global/archives/12603,Japan,3,2,1.5,6.5,10,0,0
+/global/archives/12667,South Korea,3,3,1,6,13,0,0
+/global/archives/13036,United States,3,3,1,23.666666666666668,14,0,0
+/global/archives/13103,South Korea,3,2,1.5,3,11,0,0
+/global/archives/13103,Thailand,3,1,3,0,10,0,0
+/global/archives/13130,South Korea,3,2,1.5,24,11,0,0
+/global/archives/13211,South Korea,3,2,1.5,129,14,0,0
+/global/archives/13521,Japan,3,3,1,104.33333333333333,12,0,0
+/global/archives/13521,Poland,3,3,1,77.66666666666667,15,0,0
+/global/archives/13595/6-9_900,South Korea,3,1,3,8,12,0,0
+/global/archives/13780,India,3,2,1.5,107,14,0,0
+/global/archives/13780,Indonesia,3,2,1.5,38.5,15,0,0
+/global/archives/13795,India,3,3,1,22.666666666666668,17,0,0
+/global/archives/13795,Ireland,3,2,1.5,0,10,0,0
+/global/archives/13795,Spain,3,3,1,0.6666666666666666,12,0,0
+/global/archives/13804,South Korea,3,3,1,0,9,0,0
+/global/archives/14049,India,3,2,1.5,4,12,0,0
+/global/archives/14065,Hong Kong,3,3,1,92,12,0,0
+/global/archives/14078,South Korea,3,3,1,19.666666666666668,16,0,0
+/global/archives/14179,South Korea,3,3,1,4.333333333333333,9,0,0
+/global/archives/14226,South Korea,3,3,1,85.66666666666667,14,0,0
+/global/archives/14264,United States,3,1,3,0,9,0,0
+/global/archives/14333,France,3,2,1.5,0,12,0,0
+/global/archives/14333,Spain,3,1,3,113,11,0,0
+/global/archives/14493,India,3,2,1.5,14,10,0,0
+/global/archives/14628,Singapore,3,3,1,53,13,0,0
+/global/archives/14634,Australia,3,3,1,0.3333333333333333,13,0,0
+/global/archives/14634,South Korea,3,3,1,14,14,0,0
+/global/archives/14740,Malaysia,3,1,3,281,12,0,0
+/global/archives/14770,Germany,3,2,1.5,32.5,13,0,0
+/global/archives/15007,Japan,3,1,3,463,11,0,0
+/global/archives/15067,South Korea,3,2,1.5,46.5,13,0,0
+/global/archives/15374,Brazil,3,1,3,35,10,0,0
+/global/archives/15374,Hong Kong,3,3,1,12,15,0,0
+/global/archives/15462,France,3,3,1,0,13,0,0
+/global/archives/15462,India,3,2,1.5,53.5,14,0,0
+/global/archives/15462,Japan,3,1,3,0,8,0,0
+/global/archives/15490,China,3,1,3,90,12,0,0
+/global/archives/15574,India,3,2,1.5,66.5,13,0,0
+/global/archives/15574,United States,3,3,1,10,10,0,0
+/global/archives/15592,India,3,2,1.5,23.5,15,0,0
+/global/archives/15592,South Korea,3,2,1.5,5,9,0,0
+/global/archives/15592,United States,3,2,1.5,28.5,11,0,0
+/global/archives/15610,India,3,1,3,0,6,0,0
+/global/archives/15664,Belgium,3,2,1.5,85,13,0,0
+/global/archives/15664,Switzerland,3,3,1,43,12,0,0
+/global/archives/15664,Taiwan,3,2,1.5,23.5,12,0,0
+/global/archives/15687,Singapore,3,3,1,50,15,0,0
+/global/archives/15687,United States,3,3,1,4.666666666666667,9,0,0
+/global/archives/15689,Germany,3,3,1,54.333333333333336,13,0,0
+/global/archives/15689,Japan,3,3,1,186,14,0,0
+/global/archives/15760,Vietnam,3,3,1,2,12,0,0
+/global/archives/15840,Singapore,3,3,1,46.333333333333336,16,0,0
+/global/archives/15865,United States,3,2,1.5,3,9,0,0
+/global/archives/15902,Japan,3,2,1.5,8.5,13,0,0
+/global/archives/15902,South Korea,3,3,1,4.666666666666667,14,0,0
+/global/archives/15937,Taiwan,3,2,1.5,37,12,0,0
+/global/archives/15985,South Korea,3,3,1,16.333333333333332,13,0,0
+/global/archives/16060,India,3,3,1,30,13,0,0
+/global/archives/16060,Taiwan,3,3,1,13.333333333333334,17,0,0
+/global/archives/16169,Japan,3,3,1,1,17,0,0
+/global/archives/16286,India,3,2,1.5,58,13,0,0
+/global/archives/16286,Japan,3,2,1.5,14,12,0,0
+/global/archives/16308,Japan,3,1,3,74,12,0,0
+/global/archives/16376,Germany,3,2,1.5,23.5,14,0,0
+/global/archives/16376,United States,3,3,1,0,14,0,0
+/global/archives/16463,Japan,3,3,1,12.666666666666666,14,0,0
+/global/archives/16480,Spain,3,1,3,2,13,0,0
+/global/archives/16480,United States,3,3,1,13,11,0,0
+/global/archives/16493,India,3,4,0.75,6,15,0,0
+/global/archives/16493,South Korea,3,2,1.5,7.5,12,0,0
+/global/archives/16613,Tanzania,3,2,1.5,0,9,0,0
+/global/archives/16719,South Korea,3,3,1,5.333333333333333,12,0,0
+/global/archives/16787,Türkiye,3,1,3,70,12,0,0
+/global/archives/16834,Indonesia,3,2,1.5,30,12,0,0
+/global/archives/16970,South Korea,3,3,1,2,16,0,0
+/global/archives/17134,United States,3,3,1,10,10,0,0
+/global/archives/17169,India,3,3,1,7,14,0,0
+/global/archives/17169,Japan,3,2,1.5,10.5,11,0,0
+/global/archives/17216,Malaysia,3,2,1.5,57,13,0,0
+/global/archives/17216,Singapore,3,3,1,66.66666666666667,12,0,0
+/global/archives/17216,Taiwan,3,3,1,8.666666666666666,10,0,0
+/global/archives/17216,United Kingdom,3,3,1,13,13,0,0
+/global/archives/17313,Canada,3,2,1.5,59.5,14,0,0
+/global/archives/17356,Italy,3,1,3,204,15,0,0
+/global/archives/17386,India,3,3,1,1.3333333333333333,12,0,0
+/global/archives/17426,Spain,3,1,3,37,13,0,0
+/global/archives/17426,United Arab Emirates,3,3,1,82.66666666666667,12,0,0
+/global/archives/17499,France,3,3,1,30.333333333333332,14,0,0
+/global/archives/17499,United Kingdom,3,3,1,199,14,0,0
+/global/archives/17595,India,3,2,1.5,21,11,0,0
+/global/archives/17697,South Korea,3,2,1.5,6.5,9,0,0
+/global/archives/17893,South Korea,3,3,1,1.3333333333333333,10,0,0
+/global/archives/17950,Germany,3,3,1,24.666666666666668,11,0,0
+/global/archives/17950,Japan,3,2,1.5,8.5,12,0,0
+/global/archives/17978,Thailand,3,1,3,530,13,0,0
+/global/archives/17989,China,3,3,1,20.666666666666668,11,0,0
+/global/archives/17989,Japan,3,3,1,39.666666666666664,10,0,0
+/global/archives/17990,Hong Kong,3,2,1.5,109,14,0,0
+/global/archives/18065,New Zealand,3,1,3,38,9,0,0
+/global/archives/18065,Philippines,3,3,1,27.666666666666668,10,0,0
+/global/archives/18065,Spain,3,2,1.5,57.5,9,0,0
+/global/archives/18107,Hong Kong,3,2,1.5,63,17,0,0
+/global/archives/18107,Japan,3,3,1,0,14,0,0
+/global/archives/18140,Hungary,3,3,1,110.33333333333333,14,0,0
+/global/archives/18140,Nepal,3,2,1.5,0,8,0,0
+/global/archives/18140,Singapore,3,3,1,341,12,0,0
+/global/archives/18208,Spain,3,2,1.5,194.5,11,0,0
+/global/archives/18283,Brazil,3,3,1,47.666666666666664,13,0,0
+/global/archives/18283,Indonesia,3,3,1,11,12,0,0
+/global/archives/18283,Russia,3,3,1,0.3333333333333333,13,0,0
+/global/archives/18301,India,3,3,1,17,15,0,0
+/global/archives/18332,France,3,2,1.5,3,9,0,0
+/global/archives/18332,United Kingdom,3,3,1,14.666666666666666,14,0,0
+/global/archives/18332,United States,3,3,1,269.6666666666667,11,0,0
+/global/archives/18361,China,3,3,1,15.666666666666666,12,0,0
+/global/archives/18361,Finland,3,4,0.75,23.25,15,0,0
+/global/archives/18374,France,3,3,1,0.6666666666666666,10,0,0
+/global/archives/18374,United Kingdom,3,2,1.5,0,9,0,0
+/global/archives/311,India,3,2,1.5,15.5,11,0,0
+/global/archives/3393,Australia,3,1,3,195,12,0,0
+/global/archives/3709,United States,3,3,1,4.666666666666667,9,0,0
+/global/archives/3820,France,3,1,3,188,12,0,0
+/global/archives/3820,Hong Kong,3,3,1,44.333333333333336,11,0,0
+/global/archives/3820,India,3,3,1,12.333333333333334,12,0,0
+/global/archives/3820,Singapore,3,2,1.5,4.5,14,0,0
+/global/archives/3962,Pakistan,3,2,1.5,34,15,0,0
+/global/archives/4110,Australia,3,3,1,0,9,0,0
+/global/archives/4218,India,3,2,1.5,18,9,0,0
+/global/archives/4360,Belgium,3,1,3,2,15,0,0
+/global/archives/4360,United States,3,2,1.5,20,15,0,0
+/global/archives/4482,Ukraine,3,2,1.5,107,13,0,0
+/global/archives/4499,South Korea,3,3,1,23.666666666666668,14,0,0
+/global/archives/4518,Hong Kong,3,2,1.5,70.5,11,0,0
+/global/archives/4518,India,3,2,1.5,3,13,0,0
+/global/archives/4705,United States,3,2,1.5,27.5,14,0,0
+/global/archives/4728,South Korea,3,2,1.5,34,12,0,0
+/global/archives/4751,United States,3,3,1,11.333333333333334,12,0,0
+/global/archives/4793,India,3,2,1.5,40.5,12,0,0
+/global/archives/5040,South Korea,3,3,1,0,13,0,0
+/global/archives/564,Germany,3,3,1,11.666666666666666,12,0,0
+/global/archives/5668,Hong Kong,3,2,1.5,395,13,0,0
+/global/archives/6072,United States,3,2,1.5,41,14,0,0
+/global/archives/6313,Hong Kong,3,2,1.5,45,11,0,0
+/global/archives/6377,Philippines,3,3,1,7,16,0,0
+/global/archives/648,Singapore,3,1,3,0,12,0,0
+/global/archives/6546,Hungary,3,2,1.5,47,15,0,0
+/global/archives/6807,China,3,2,1.5,55,11,0,0
+/global/archives/6824,Taiwan,3,2,1.5,39.5,15,0,0
+/global/archives/7031,Germany,3,1,3,103,9,0,0
+/global/archives/7031,Singapore,3,2,1.5,18,12,0,0
+/global/archives/7245,India,3,2,1.5,175,12,0,0
+/global/archives/7319,South Korea,3,3,1,16,15,0,0
+/global/archives/7319,Taiwan,3,2,1.5,20.5,12,0,0
+/global/archives/7319,United States,3,3,1,6.333333333333333,12,0,0
+/global/archives/733,Hungary,3,3,1,10.666666666666666,15,0,0
+/global/archives/7476,Singapore,3,3,1,25.333333333333332,16,0,0
+/global/archives/7596,Spain,3,3,1,5.666666666666667,16,0,0
+/global/archives/7710,United States,3,2,1.5,16.5,12,0,0
+/global/archives/7740,South Korea,3,3,1,5,14,0,0
+/global/archives/7761,United States,3,2,1.5,19.5,10,0,0
+/global/archives/7906,South Korea,3,3,1,18.333333333333332,12,0,0
+/global/archives/8087,Germany,3,1,3,377,15,0,0
+/global/archives/822,Hong Kong,3,2,1.5,119.5,14,0,0
+/global/archives/822,United States,3,2,1.5,424.5,10,0,0
+/global/archives/8327,South Korea,3,3,1,7.333333333333333,15,0,0
+/global/archives/8829,Italy,3,2,1.5,512.5,14,0,0
+/global/archives/8899,South Korea,3,2,1.5,505,17,0,0
+/global/archives/9191,Canada,3,3,1,37.666666666666664,14,0,0
+/global/archives/926,South Korea,3,1,3,8,10,0,0
+/global/archives/9493,Türkiye,3,2,1.5,80,15,0,0
+/global/archives/9548,Japan,3,2,1.5,28.5,12,0,0
+/global/archives/9548,United States,3,2,1.5,21.5,14,0,0
+/global/archives/9740,Türkiye,3,3,1,52.333333333333336,15,0,0
+/global/archives/9908,Vietnam,3,3,1,55.333333333333336,14,0,0
+/global/archives/MTM3ODAoMj,Netherlands,3,3,1,3.3333333333333335,14,0,0
+/global/archives/category/corporate/sk-energy,South Korea,3,3,1,5,15,0,0
+/global/archives/category/corporate/sk-enmove,South Korea,3,3,1,3.6666666666666665,12,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,China,3,2,1.5,42.5,12,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,United States,3,2,1.5,73.5,11,0,0
+/global/archives/category/corporate/sk-innovation,South Korea,3,3,1,3.3333333333333335,13,0,0
+/global/archives/category/corporate/sk-on,India,3,2,1.5,111.5,14,0,0
+/global/archives/category/corporates,Germany,3,2,1.5,9.5,11,0,0
+/global/archives/category/corporates,Hong Kong,3,3,1,5,12,0,0
+/global/archives/category/corporates/sk-earthon,Vietnam,3,2,1.5,7.5,10,0,0
+/global/archives/category/corporates/sk-energy,Canada,3,3,1,15.333333333333334,10,0,0
+/global/archives/category/corporates/sk-enterm,South Korea,3,2,1.5,7,14,0,0
+/global/archives/category/corporates/sk-innovation,France,3,3,1,6,12,0,0
+/global/archives/category/corporates/sk-innovation,Malaysia,3,2,1.5,11.5,12,0,0
+/global/archives/category/corporates/sk-innovation,Ukraine,3,2,1.5,7,10,0,0
+/global/archives/category/insight,United Kingdom,3,3,1,3,12,0,0
+/global/archives/category/people,China,3,2,1.5,12,9,0,0
+/global/archives/category/people,Japan,3,3,1,12.666666666666666,11,0,0
+/global/archives/category/press-room,Russia,3,1,3,14,9,0,0
+/global/archives/category/press-room/financial-results,Malaysia,3,2,1.5,23.5,13,0,0
+/global/archives/category/press-room/issue-fact,Hong Kong,3,3,1,2.6666666666666665,13,0,0
+/global/archives/category/press-room/issue-fact,United Kingdom,3,2,1.5,8.5,11,0,0
+/global/archives/tag/1-4-butanediol,Japan,3,2,1.5,11.5,16,0,0
+/global/archives/tag/ambassadors-spouses-association-in-seoul,South Korea,3,2,1.5,4.5,13,0,0
+/global/archives/tag/battery,Austria,3,1,3,56,11,0,0
+/global/archives/tag/block-17-03,India,3,1,3,11,9,0,0
+/global/archives/tag/blueovalsk,South Korea,3,1,3,36,11,0,0
+/global/archives/tag/ccus,South Korea,3,1,3,7,11,0,0
+/global/archives/tag/choi-yun-seok,China,3,2,1.5,27,10,0,0
+/global/archives/tag/csr-program,South Korea,3,1,3,10,11,0,0
+/global/archives/tag/eaa,China,3,1,3,52,10,0,0
+/global/archives/tag/ess,India,3,1,3,35,14,0,0
+/global/archives/tag/financial-results,United Kingdom,3,2,1.5,14.5,12,0,0
+/global/archives/tag/great-music-festival,Hungary,3,1,3,33,13,0,0
+/global/archives/tag/hungary,Ukraine,3,1,3,127,7,0,0
+/global/archives/tag/iscc,Japan,3,2,1.5,9,14,0,0
+/global/archives/tag/jee-dong-seob,India,3,2,1.5,16.5,10,0,0
+/global/archives/tag/lithium-ion-battery,India,3,1,3,88,15,0,0
+/global/archives/tag/ncm811,Malaysia,3,2,1.5,8.5,15,0,0
+/global/archives/tag/pbat,Mexico,3,1,3,37,13,0,0
+/global/archives/tag/pet,Japan,3,1,3,38,12,0,0
+/global/archives/tag/sk-energy,United States,3,3,1,0,12,0,0
+/global/archives/tag/sk-global-forum,South Korea,3,2,1.5,8,12,0,0
+/global/archives/tag/sk-hi-tech-battery-materials-poland,South Korea,3,3,1,14,14,0,0
+/global/archives/tag/sk-on,Japan,3,2,1.5,12,13,0,0
+/global/archives/tag/sk-primacor-americas,Singapore,3,1,3,7,11,0,0
+/global/archives/tag/skbm,South Korea,3,3,1,7.333333333333333,15,0,0
+/global/archives/tag/skbmp,Poland,3,3,1,3,14,0,0
+/global/archives/tag/sken,South Korea,3,3,1,9.333333333333334,17,0,0
+/global/archives/tag/skipc,South Korea,3,3,1,6.666666666666667,16,0,0
+/global/archives/tag/sko,United States,3,3,1,14,17,0,0
+/global/archives/tag/skoh,South Korea,3,3,1,1.6666666666666667,13,0,0
+/global/archives/tag/sk综合化学,South Korea,3,2,1.5,25,14,0,0
+/global/archives/tag/solid-power,Japan,3,2,1.5,10,14,0,0
+/global/archives/tag/tesla,Martinique,3,1,3,0,11,0,0
+/global/archives/tag/turkey,Taiwan,3,1,3,24,13,0,0
+/global/archives/tag/vwbe,United States,3,1,3,20,12,0,0
+/global/latestnews,Sweden,3,2,1.5,11,14,0,0
+/global/sustainability-report,Japan,3,2,1.5,19,12,0,0
+/global/who-we-are,Singapore,3,3,1,10.333333333333334,12,0,0
+/global/who-we-are,United Kingdom,3,2,1.5,27.5,14,0,0
+/global/,Australia,2,2,1,3,9,0,0
+/global/,Austria,2,2,1,29.5,9,0,0
+/global/,Belgium,2,2,1,20.5,10,0,0
+/global/,Greece,2,1,2,38,10,0,0
+/global/,Ireland,2,1,2,11,10,0,0
+/global/,Pakistan,2,1,2,13,7,0,0
+/global/archives/10133,Poland,2,2,1,7,9,0,0
+/global/archives/10133,United States,2,2,1,53,10,0,0
+/global/archives/10159,China,2,1,2,9,8,0,0
+/global/archives/10310,India,2,2,1,34,11,0,0
+/global/archives/10404,United States,2,2,1,33,9,0,0
+/global/archives/1043,India,2,2,1,28,11,0,0
+/global/archives/10511,Hong Kong,2,1,2,18,9,0,0
+/global/archives/10535,Singapore,2,1,2,2,6,0,0
+/global/archives/10535,United States,2,2,1,23.5,10,0,0
+/global/archives/1058,United Kingdom,2,2,1,58.5,10,0,0
+/global/archives/10610,South Korea,2,2,1,13.5,8,0,0
+/global/archives/10654,South Korea,2,2,1,5,10,0,0
+/global/archives/10713,South Korea,2,2,1,49.5,10,0,0
+/global/archives/10767,United Kingdom,2,2,1,34,10,0,0
+/global/archives/10767,United States,2,2,1,0.5,9,0,0
+/global/archives/10774,Switzerland,2,2,1,7.5,11,0,0
+/global/archives/10774,Taiwan,2,1,2,1,7,0,0
+/global/archives/10835,Germany,2,2,1,19,8,0,0
+/global/archives/10835,Sweden,2,1,2,26,7,0,0
+/global/archives/10842,Hong Kong,2,2,1,1.5,8,0,0
+/global/archives/10842,Japan,2,1,2,36,7,0,0
+/global/archives/10913,Germany,2,2,1,7.5,6,0,0
+/global/archives/10913,South Korea,2,2,1,3.5,9,0,0
+/global/archives/10913,United Kingdom,2,2,1,0,10,0,0
+/global/archives/10939,Indonesia,2,2,1,70.5,9,0,0
+/global/archives/10985,India,2,1,2,6,8,0,0
+/global/archives/10985,South Korea,2,2,1,7.5,8,0,0
+/global/archives/10985,Thailand,2,1,2,116,8,0,0
+/global/archives/11004,United States,2,2,1,5.5,10,0,0
+/global/archives/11037,China,2,2,1,9.5,10,0,0
+/global/archives/11087,Canada,2,2,1,36,10,0,0
+/global/archives/11087,China,2,2,1,52.5,9,0,0
+/global/archives/11147,India,2,1,2,805,11,0,0
+/global/archives/11400,Netherlands,2,1,2,62,10,0,0
+/global/archives/11512,India,2,1,2,117,10,0,0
+/global/archives/11512,Indonesia,2,2,1,59.5,10,0,0
+/global/archives/11527,South Korea,2,1,2,10,7,0,0
+/global/archives/11683,United States,2,2,1,27,10,0,0
+/global/archives/11683/skk-show_2-2,South Korea,2,1,2,1,7,0,0
+/global/archives/11807,France,2,2,1,0,10,0,0
+/global/archives/11807,United States,2,2,1,0,9,0,0
+/global/archives/11853,Australia,2,2,1,28.5,9,0,0
+/global/archives/11853,Germany,2,2,1,15,8,0,0
+/global/archives/11853,Sweden,2,1,2,376,7,0,0
+/global/archives/11879,India,2,2,1,24,9,0,0
+/global/archives/11879,United States,2,2,1,5.5,10,0,0
+/global/archives/12008,South Korea,2,2,1,32,9,0,0
+/global/archives/12022,Germany,2,2,1,9,11,0,0
+/global/archives/12022,United Kingdom,2,2,1,4,9,0,0
+/global/archives/12036,Germany,2,1,2,86,9,0,0
+/global/archives/12106,China,2,2,1,41,9,0,0
+/global/archives/12106,Hong Kong,2,2,1,70.5,11,0,0
+/global/archives/12147,Singapore,2,2,1,11.5,8,0,0
+/global/archives/12147,Sweden,2,2,1,26.5,11,0,0
+/global/archives/12190,Germany,2,2,1,24,9,0,0
+/global/archives/12190,India,2,2,1,74.5,12,0,0
+/global/archives/12269,Hong Kong,2,2,1,41.5,9,0,0
+/global/archives/12274,South Korea,2,1,2,7,7,0,0
+/global/archives/12306,China,2,1,2,18,11,0,0
+/global/archives/12319,Ukraine,2,1,2,35,8,0,0
+/global/archives/12349,South Korea,2,2,1,3,9,0,0
+/global/archives/1237,India,2,1,2,20,7,0,0
+/global/archives/1237,United States,2,2,1,0,10,0,0
+/global/archives/12373,France,2,1,2,41,9,0,0
+/global/archives/12373,Japan,2,2,1,197.5,11,0,0
+/global/archives/12471,Singapore,2,1,2,12,9,0,0
+/global/archives/1257,South Korea,2,1,2,0,9,0,0
+/global/archives/12603,Hungary,2,1,2,42,7,0,0
+/global/archives/12667,United Kingdom,2,1,2,21,7,0,0
+/global/archives/12688,Germany,2,2,1,129,10,0,0
+/global/archives/12823,Vietnam,2,1,2,11,7,0,0
+/global/archives/12950,Canada,2,1,2,1,9,0,0
+/global/archives/12950,France,2,1,2,1,8,0,0
+/global/archives/12950,South Korea,2,1,2,38,7,0,0
+/global/archives/13130,France,2,2,1,100.5,12,0,0
+/global/archives/13130,Germany,2,1,2,72,8,0,0
+/global/archives/13130,India,2,2,1,7,6,0,0
+/global/archives/13130,Japan,2,2,1,6.5,7,0,0
+/global/archives/13130,Russia,2,1,2,63,8,0,0
+/global/archives/13130,Singapore,2,1,2,35,7,0,0
+/global/archives/13130,Taiwan,2,2,1,20,9,0,0
+/global/archives/13184,South Korea,2,2,1,11.5,8,0,0
+/global/archives/13313,South Korea,2,2,1,17.5,11,0,0
+/global/archives/13327,Singapore,2,2,1,38,12,0,0
+/global/archives/13329,Switzerland,2,1,2,132,8,0,0
+/global/archives/13329,United States,2,2,1,23.5,11,0,0
+/global/archives/13437,Singapore,2,3,0.6666666666666666,30.666666666666668,11,0,0
+/global/archives/13443,South Korea,2,2,1,6,9,0,0
+/global/archives/13521,Ukraine,2,2,1,55,10,0,0
+/global/archives/13540,France,2,1,2,23,9,0,0
+/global/archives/13544,India,2,2,1,7.5,7,0,0
+/global/archives/13595,India,2,2,1,10.5,10,0,0
+/global/archives/13669,United States,2,2,1,60,7,0,0
+/global/archives/13748,Germany,2,2,1,3.5,11,0,0
+/global/archives/13780,Canada,2,1,2,24,9,0,0
+/global/archives/13780,Netherlands,2,2,1,1,6,0,0
+/global/archives/13795,United Kingdom,2,2,1,92,12,0,0
+/global/archives/13804,United States,2,1,2,0,7,0,0
+/global/archives/1399,Singapore,2,2,1,17.5,10,0,0
+/global/archives/1399,United States,2,2,1,23,11,0,0
+/global/archives/14065,Czechia,2,1,2,54,8,0,0
+/global/archives/14065,Sri Lanka,2,2,1,1,10,0,0
+/global/archives/14179,India,2,0,0,0,6,0,0
+/global/archives/14193,India,2,2,1,28.5,10,0,0
+/global/archives/14226,Finland,2,2,1,1.5,8,0,0
+/global/archives/14226,Nigeria,2,1,2,22,8,0,0
+/global/archives/14226,Singapore,2,2,1,9.5,10,0,0
+/global/archives/14243,Netherlands,2,2,1,21.5,10,0,0
+/global/archives/14243,Pakistan,2,1,2,0,8,0,0
+/global/archives/14243,Singapore,2,2,1,28,8,0,0
+/global/archives/14264,India,2,2,1,0,10,0,0
+/global/archives/14264,United Kingdom,2,2,1,61,9,0,0
+/global/archives/14309,Hong Kong,2,1,2,113,8,0,0
+/global/archives/14309,Japan,2,2,1,6.5,9,0,0
+/global/archives/14309,Singapore,2,2,1,4.5,10,0,0
+/global/archives/14333,Sweden,2,1,2,21,8,0,0
+/global/archives/14333,United States,2,2,1,1,8,0,0
+/global/archives/14384,Singapore,2,2,1,2.5,7,0,0
+/global/archives/14384,United Kingdom,2,2,1,2,8,0,0
+/global/archives/14415,United States,2,2,1,3.5,11,0,0
+/global/archives/14491,Hong Kong,2,2,1,0,12,0,0
+/global/archives/14493,Poland,2,2,1,91,8,0,0
+/global/archives/14634,Germany,2,2,1,27,8,0,0
+/global/archives/14634,India,2,2,1,0,8,0,0
+/global/archives/14740,United States,2,2,1,10.5,9,0,0
+/global/archives/14766,United Kingdom,2,2,1,20.5,9,0,0
+/global/archives/14770,New Zealand,2,1,2,5,7,0,0
+/global/archives/14770,Singapore,2,2,1,8.5,9,0,0
+/global/archives/14770,Ukraine,2,1,2,26,9,0,0
+/global/archives/14770,United Kingdom,2,2,1,42.5,10,0,0
+/global/archives/14803,United States,2,1,2,23,8,0,0
+/global/archives/15007,Hong Kong,2,1,2,83,11,0,0
+/global/archives/15007/1969-개업한-국내-최초-현대식-주유소-서교동-청기와주유,South Korea,2,2,1,7.5,10,0,0
+/global/archives/15103,Japan,2,2,1,6.5,7,0,0
+/global/archives/15204,Canada,2,1,2,40,9,0,0
+/global/archives/15204,France,2,2,1,18,8,0,0
+/global/archives/15204,India,2,2,1,5.5,9,0,0
+/global/archives/15259,Japan,2,2,1,3.5,8,0,0
+/global/archives/15259,South Korea,2,2,1,0,7,0,0
+/global/archives/15317,Malaysia,2,1,2,0,6,0,0
+/global/archives/15353,India,2,2,1,6,10,0,0
+/global/archives/15353,Singapore,2,2,1,42,9,0,0
+/global/archives/15353,South Korea,2,1,2,174,8,0,0
+/global/archives/15409,India,2,2,1,2,10,0,0
+/global/archives/15409,South Korea,2,2,1,16,10,0,0
+/global/archives/15409,Spain,2,1,2,31,8,0,0
+/global/archives/15430,India,2,1,2,8,9,0,0
+/global/archives/15490,Australia,2,2,1,10.5,8,0,0
+/global/archives/15490,Hungary,2,2,1,102.5,11,0,0
+/global/archives/15497,South Korea,2,2,1,0,6,0,0
+/global/archives/15592,Ukraine,2,1,2,12,9,0,0
+/global/archives/15623,China,2,2,1,29.5,9,0,0
+/global/archives/15623,Hong Kong,2,2,1,11.5,11,0,0
+/global/archives/15638,Japan,2,2,1,4.5,9,0,0
+/global/archives/15638,Poland,2,2,1,11,8,0,0
+/global/archives/15638,Sri Lanka,2,1,2,9,6,0,0
+/global/archives/15638,Sweden,2,1,2,40,8,0,0
+/global/archives/15654,South Korea,2,2,1,21,11,0,0
+/global/archives/15664,Canada,2,2,1,161,12,0,0
+/global/archives/15664,China,2,1,2,179,11,0,0
+/global/archives/15664,Indonesia,2,1,2,173,9,0,0
+/global/archives/15664,Malaysia,2,2,1,13,7,0,0
+/global/archives/15687,Brazil,2,1,2,32,10,0,0
+/global/archives/15687,Hong Kong,2,2,1,42,9,0,0
+/global/archives/15687,Japan,2,2,1,101,6,0,0
+/global/archives/15687,Laos,2,1,2,33,10,0,0
+/global/archives/15687,Philippines,2,2,1,0,7,0,0
+/global/archives/15687,Russia,2,1,2,183,9,0,0
+/global/archives/15687,Spain,2,2,1,2.5,9,0,0
+/global/archives/15687,Taiwan,2,1,2,46,8,0,0
+/global/archives/15760,Thailand,2,2,1,116.5,8,0,0
+/global/archives/15840,Japan,2,1,2,104,7,0,0
+/global/archives/15865,Poland,2,1,2,21,9,0,0
+/global/archives/15865,Sri Lanka,2,1,2,17,5,0,0
+/global/archives/15937,South Korea,2,1,2,0,6,0,0
+/global/archives/15937,United States,2,2,1,45.5,10,0,0
+/global/archives/15985,United States,2,2,1,3.5,9,0,0
+/global/archives/16005,United Kingdom,2,2,1,34,11,0,0
+/global/archives/16060,Netherlands,2,2,1,10,10,0,0
+/global/archives/16060,Sri Lanka,2,1,2,23,9,0,0
+/global/archives/16073,United States,2,2,1,12,10,0,0
+/global/archives/16118,India,2,2,1,4.5,9,0,0
+/global/archives/16187,South Korea,2,3,0.6666666666666666,12.333333333333334,8,0,0
+/global/archives/16187,United States,2,2,1,0,7,0,0
+/global/archives/16286,South Korea,2,2,1,5,11,0,0
+/global/archives/16286,Taiwan,2,2,1,10.5,7,0,0
+/global/archives/16308,Russia,2,1,2,165,9,0,0
+/global/archives/16334,South Korea,2,2,1,28.5,7,0,0
+/global/archives/16376,Australia,2,2,1,73,11,0,0
+/global/archives/16376,Canada,2,2,1,29,10,0,0
+/global/archives/16376,United Kingdom,2,2,1,24,10,0,0
+/global/archives/16405,South Korea,2,2,1,10.5,6,0,0
+/global/archives/16448,Canada,2,1,2,35,8,0,0
+/global/archives/16463,China,2,1,2,7,7,0,0
+/global/archives/16463,United Kingdom,2,2,1,25,10,0,0
+/global/archives/16480,United Kingdom,2,1,2,5,9,0,0
+/global/archives/16493,Poland,2,1,2,21,9,0,0
+/global/archives/16493,United Kingdom,2,2,1,87.5,9,0,0
+/global/archives/16532,Japan,2,2,1,22.5,7,0,0
+/global/archives/16532,Thailand,2,2,1,30,8,0,0
+/global/archives/16583,South Korea,2,2,1,48.5,6,0,0
+/global/archives/16613,South Korea,2,2,1,0,6,0,0
+/global/archives/16613,Sri Lanka,2,0,0,0,7,0,0
+/global/archives/16719,China,2,1,2,55,4,0,0
+/global/archives/16787,Canada,2,2,1,39,9,0,0
+/global/archives/16810,South Korea,2,2,1,9,8,0,0
+/global/archives/16834,Australia,2,0,0,0,6,0,0
+/global/archives/16834,Hong Kong,2,2,1,5,9,0,0
+/global/archives/16834,Japan,2,2,1,7,10,0,0
+/global/archives/16881,United States,2,2,1,35,8,0,0
+/global/archives/16904,India,2,2,1,402,13,0,0
+/global/archives/16904,Japan,2,1,2,100,8,0,0
+/global/archives/16925,China,2,1,2,36,7,0,0
+/global/archives/16939,China,2,2,1,9,7,0,0
+/global/archives/16939,Germany,2,2,1,60,11,0,0
+/global/archives/16939,India,2,2,1,11,11,0,0
+/global/archives/16952,United States,2,2,1,7,11,0,0
+/global/archives/16970,Hong Kong,2,2,1,29.5,12,0,0
+/global/archives/16970,Indonesia,2,1,2,41,9,0,0
+/global/archives/16970,Japan,2,2,1,22,9,0,0
+/global/archives/17010,China,2,1,2,29,6,0,0
+/global/archives/17022,South Korea,2,2,1,97,8,0,0
+/global/archives/17047,Suriname,2,1,2,0,7,0,0
+/global/archives/17134,India,2,2,1,30.5,10,0,0
+/global/archives/17169,France,2,1,2,50,8,0,0
+/global/archives/17169,Germany,2,2,1,14,7,0,0
+/global/archives/17169,Hong Kong,2,2,1,12,8,0,0
+/global/archives/17169,United Arab Emirates,2,1,2,103,9,0,0
+/global/archives/17216,Canada,2,2,1,67.5,10,0,0
+/global/archives/17216,Italy,2,2,1,44,10,0,0
+/global/archives/17216,Netherlands,2,2,1,8,9,0,0
+/global/archives/17216,Sweden,2,2,1,14.5,9,0,0
+/global/archives/17216,Switzerland,2,2,1,2,8,0,0
+/global/archives/1722,Ghana,2,2,1,20.5,9,0,0
+/global/archives/17313,India,2,2,1,2,8,0,0
+/global/archives/17313,Russia,2,1,2,106,7,0,0
+/global/archives/17386,Singapore,2,2,1,240.5,7,0,0
+/global/archives/17386,South Korea,2,2,1,99.5,10,0,0
+/global/archives/17426,Mexico,2,2,1,0,10,0,0
+/global/archives/17460,Pakistan,2,1,2,10,7,0,0
+/global/archives/17476,Hong Kong,2,1,2,0,7,0,0
+/global/archives/17476,Singapore,2,2,1,540,9,0,0
+/global/archives/17499,Egypt,2,1,2,114,7,0,0
+/global/archives/17499,Germany,2,2,1,27.5,11,0,0
+/global/archives/17499,Indonesia,2,2,1,0,8,0,0
+/global/archives/17499,Philippines,2,2,1,73.5,9,0,0
+/global/archives/17499,Singapore,2,2,1,519,9,0,0
+/global/archives/17514,Singapore,2,2,1,20,11,0,0
+/global/archives/17514,South Korea,2,2,1,16,10,0,0
+/global/archives/17569,United States,2,2,1,5.5,8,0,0
+/global/archives/17595,(not set),2,2,1,0,8,0,0
+/global/archives/17623,Indonesia,2,1,2,122,9,0,0
+/global/archives/1768,Singapore,2,1,2,5,6,0,0
+/global/archives/1768,South Korea,2,2,1,7,9,0,0
+/global/archives/17697,United States,2,2,1,355,8,0,0
+/global/archives/17737,France,2,2,1,22,9,0,0
+/global/archives/17737,Germany,2,2,1,63,6,0,0
+/global/archives/17737,Japan,2,2,1,42,12,0,0
+/global/archives/17737,Malaysia,2,1,2,567,7,0,0
+/global/archives/17737,United Kingdom,2,2,1,139,10,0,0
+/global/archives/17796,Colombia,2,1,2,18,9,0,0
+/global/archives/17796,Germany,2,2,1,51,9,0,0
+/global/archives/17796,Poland,2,2,1,41.5,10,0,0
+/global/archives/17796,Sri Lanka,2,1,2,0,4,0,0
+/global/archives/17796,Sweden,2,1,2,39,6,0,0
+/global/archives/17817,China,2,2,1,144,7,0,0
+/global/archives/17817,Italy,2,2,1,3.5,7,0,0
+/global/archives/17844,India,2,1,2,38,8,0,0
+/global/archives/17844,Indonesia,2,1,2,113,7,0,0
+/global/archives/17844,Japan,2,1,2,11,8,0,0
+/global/archives/17844,United States,2,2,1,18,8,0,0
+/global/archives/17950,China,2,1,2,78,4,0,0
+/global/archives/17965,South Korea,2,2,1,6,7,0,0
+/global/archives/17990,Australia,2,1,2,0,7,0,0
+/global/archives/17990,Japan,2,2,1,11,8,0,0
+/global/archives/17990,Singapore,2,2,1,36.5,8,0,0
+/global/archives/18022,France,2,1,2,142,7,0,0
+/global/archives/18022,Hungary,2,2,1,107,8,0,0
+/global/archives/18022,Poland,2,1,2,0,10,0,0
+/global/archives/18065,Mauritius,2,1,2,86,8,0,0
+/global/archives/18065,South Africa,2,1,2,34,8,0,0
+/global/archives/18107,Australia,2,2,1,185,11,0,0
+/global/archives/18107,France,2,2,1,567.5,10,0,0
+/global/archives/18107,Romania,2,2,1,130,9,0,0
+/global/archives/18107,Thailand,2,2,1,9,10,0,0
+/global/archives/18140,Germany,2,1,2,0,6,0,0
+/global/archives/18140,Japan,2,2,1,75,9,0,0
+/global/archives/18140,Switzerland,2,2,1,132,10,0,0
+/global/archives/18167,Germany,2,2,1,11,8,0,0
+/global/archives/18167,India,2,2,1,14,7,0,0
+/global/archives/18167,Singapore,2,2,1,208.5,8,0,0
+/global/archives/18167,Spain,2,2,1,2.5,9,0,0
+/global/archives/18208,Hungary,2,2,1,121.5,8,0,0
+/global/archives/18268,United States,2,2,1,0,8,0,0
+/global/archives/18283,Cameroon,2,1,2,0,9,0,0
+/global/archives/18283,Denmark,2,2,1,12.5,9,0,0
+/global/archives/18283,Romania,2,2,1,0,8,0,0
+/global/archives/18283,Türkiye,2,2,1,29,10,0,0
+/global/archives/18301,France,2,2,1,6,8,0,0
+/global/archives/18301,Germany,2,2,1,4,9,0,0
+/global/archives/18301,Indonesia,2,2,1,17,9,0,0
+/global/archives/18361,Australia,2,2,1,6.5,9,0,0
+/global/archives/18361,Canada,2,2,1,101.5,9,0,0
+/global/archives/18361,Hong Kong,2,1,2,0,7,0,0
+/global/archives/18361,Netherlands,2,3,0.6666666666666666,8.333333333333334,9,0,0
+/global/archives/18374,Finland,2,2,1,1,8,0,0
+/global/archives/18374,Germany,2,2,1,0,8,0,0
+/global/archives/18374,Hong Kong,2,2,1,7,9,0,0
+/global/archives/18374,Japan,2,2,1,4,7,0,0
+/global/archives/2026,United States,2,2,1,1.5,9,0,0
+/global/archives/2241,Philippines,2,1,2,25,8,0,0
+/global/archives/253,United States,2,2,1,147.5,11,0,0
+/global/archives/2576,Hungary,2,1,2,98,9,0,0
+/global/archives/2756,Hong Kong,2,1,2,0,8,0,0
+/global/archives/2964,Hong Kong,2,1,2,1,10,0,0
+/global/archives/311,United States,2,3,0.6666666666666666,9,10,0,0
+/global/archives/3123,United States,2,2,1,24,9,0,0
+/global/archives/3323,South Korea,2,2,1,102.5,9,0,0
+/global/archives/3375,Japan,2,1,2,39,8,0,0
+/global/archives/3464,South Korea,2,2,1,5.5,9,0,0
+/global/archives/349,Indonesia,2,1,2,133,10,0,0
+/global/archives/3661,Japan,2,2,1,47,10,0,0
+/global/archives/3674,South Korea,2,2,1,102,9,0,0
+/global/archives/3709,Singapore,2,1,2,0,11,0,0
+/global/archives/3709,South Korea,2,2,1,63,10,0,0
+/global/archives/3726,India,2,1,2,0,7,0,0
+/global/archives/3786,Canada,2,1,2,0,5,0,0
+/global/archives/3786,United States,2,2,1,29,9,0,0
+/global/archives/3820,Austria,2,2,1,27,9,0,0
+/global/archives/3820,Egypt,2,1,2,124,8,0,0
+/global/archives/3820,Taiwan,2,1,2,130,9,0,0
+/global/archives/3820。,China,2,1,2,0,8,0,0
+/global/archives/3922,Germany,2,2,1,31,9,0,0
+/global/archives/3962,Indonesia,2,2,1,75,10,0,0
+/global/archives/3962,Singapore,2,2,1,13,10,0,0
+/global/archives/3962,South Korea,2,2,1,85.5,11,0,0
+/global/archives/3962,United States,2,2,1,39.5,11,0,0
+/global/archives/4077,China,2,2,1,0,6,0,0
+/global/archives/4077,Hong Kong,2,1,2,20,6,0,0
+/global/archives/4110,Vietnam,2,2,1,17.5,9,0,0
+/global/archives/4308,China,2,2,1,109.5,7,0,0
+/global/archives/4308,India,2,2,1,48,9,0,0
+/global/archives/4360,India,2,2,1,40,11,0,0
+/global/archives/4450,Singapore,2,2,1,18.5,12,0,0
+/global/archives/4499,Azerbaijan,2,2,1,7,10,0,0
+/global/archives/4499,Italy,2,1,2,36,8,0,0
+/global/archives/4499,Pakistan,2,1,2,1,7,0,0
+/global/archives/4518,South Korea,2,1,2,5,6,0,0
+/global/archives/4585,South Korea,2,2,1,11.5,10,0,0
+/global/archives/4612,Hong Kong,2,1,2,0,9,0,0
+/global/archives/4612,New Zealand,2,1,2,31,8,0,0
+/global/archives/4614,India,2,2,1,11.5,6,0,0
+/global/archives/4705,India,2,1,2,13,7,0,0
+/global/archives/4751,Germany,2,2,1,37,8,0,0
+/global/archives/4751,Hong Kong,2,1,2,150,7,0,0
+/global/archives/4844,Germany,2,2,1,16.5,9,0,0
+/global/archives/4844,Israel,2,1,2,90,7,0,0
+/global/archives/4844,Jordan,2,1,2,2,6,0,0
+/global/archives/489,Thailand,2,1,2,45,8,0,0
+/global/archives/4921,South Korea,2,2,1,2.5,9,0,0
+/global/archives/497,South Korea,2,2,1,3.5,8,0,0
+/global/archives/5129,United States,2,2,1,50,10,0,0
+/global/archives/5182,Spain,2,2,1,47.5,8,0,0
+/global/archives/521,Taiwan,2,1,2,25,7,0,0
+/global/archives/5357,South Korea,2,2,1,23,9,0,0
+/global/archives/5404,Sri Lanka,2,1,2,19,9,0,0
+/global/archives/5404,United States,2,2,1,1.5,9,0,0
+/global/archives/564,United Kingdom,2,1,2,184,9,0,0
+/global/archives/5651,South Korea,2,1,2,82,8,0,0
+/global/archives/5692,Pakistan,2,1,2,31,9,0,0
+/global/archives/5944,Bangladesh,2,2,1,0,10,0,0
+/global/archives/5944,United States,2,2,1,19.5,8,0,0
+/global/archives/5994,South Korea,2,2,1,58.5,11,0,0
+/global/archives/6014,United States,2,1,2,1,7,0,0
+/global/archives/6090,Malaysia,2,2,1,14,13,0,0
+/global/archives/6150,South Korea,2,2,1,120,9,0,0
+/global/archives/6216,Sweden,2,2,1,53,9,0,0
+/global/archives/6253,United States,2,2,1,38,11,0,0
+/global/archives/6462,United States,2,2,1,0,10,0,0
+/global/archives/6504,United States,2,2,1,0,8,0,0
+/global/archives/653,Indonesia,2,1,2,344,9,0,0
+/global/archives/653,Poland,2,1,2,0,7,0,0
+/global/archives/653,South Korea,2,2,1,3.5,7,0,0
+/global/archives/6623,United States,2,1,2,116,9,0,0
+/global/archives/6683,Hungary,2,2,1,15.5,11,0,0
+/global/archives/6683,South Korea,2,1,2,93,7,0,0
+/global/archives/6734,Japan,2,2,1,12,9,0,0
+/global/archives/6807,United States,2,2,1,20.5,10,0,0
+/global/archives/6971,United States,2,2,1,12.5,10,0,0
+/global/archives/7043,United States,2,1,2,129,8,0,0
+/global/archives/7078,South Korea,2,1,2,17,8,0,0
+/global/archives/7112,South Korea,2,1,2,3,6,0,0
+/global/archives/7112,Thailand,2,1,2,7,7,0,0
+/global/archives/7245,France,2,2,1,0,6,0,0
+/global/archives/7292,France,2,2,1,48.5,9,0,0
+/global/archives/7292,Taiwan,2,1,2,125,8,0,0
+/global/archives/7292,Thailand,2,2,1,149.5,11,0,0
+/global/archives/733,United Kingdom,2,2,1,43.5,9,0,0
+/global/archives/736,South Korea,2,2,1,0,12,0,0
+/global/archives/7445,Austria,2,1,2,127,10,0,0
+/global/archives/7445,Germany,2,2,1,1.5,9,0,0
+/global/archives/7445,Hong Kong,2,2,1,7.5,6,0,0
+/global/archives/7445,India,2,2,1,36.5,8,0,0
+/global/archives/7445,South Korea,2,2,1,6,7,0,0
+/global/archives/7445,United Kingdom,2,2,1,80.5,12,0,0
+/global/archives/7596,Netherlands,2,1,2,59,10,0,0
+/global/archives/7596,Portugal,2,1,2,147,8,0,0
+/global/archives/7633,France,2,1,2,0,6,0,0
+/global/archives/7710,Singapore,2,2,1,57.5,10,0,0
+/global/archives/7740,Thailand,2,1,2,94,8,0,0
+/global/archives/7870,South Korea,2,1,2,19,10,0,0
+/global/archives/7919,Saudi Arabia,2,2,1,29.5,11,0,0
+/global/archives/7919,South Korea,2,2,1,62,10,0,0
+/global/archives/8022,South Korea,2,1,2,8,9,0,0
+/global/archives/8046,India,2,1,2,76,8,0,0
+/global/archives/8168,South Korea,2,1,2,16,8,0,0
+/global/archives/822,Austria,2,2,1,18.5,11,0,0
+/global/archives/822,Japan,2,2,1,59,9,0,0
+/global/archives/8327,China,2,2,1,18,9,0,0
+/global/archives/8327,Mexico,2,1,2,15,6,0,0
+/global/archives/8327,Vietnam,2,1,2,0,7,0,0
+/global/archives/8360,South Korea,2,2,1,8,10,0,0
+/global/archives/8360,United States,2,2,1,8.5,12,0,0
+/global/archives/8400,India,2,2,1,23,10,0,0
+/global/archives/8400,United States,2,1,2,4,9,0,0
+/global/archives/8599,Vietnam,2,1,2,23,6,0,0
+/global/archives/8941,China,2,2,1,0,6,0,0
+/global/archives/9079,Germany,2,1,2,23,8,0,0
+/global/archives/9250,Thailand,2,1,2,51,7,0,0
+/global/archives/9493,Japan,2,2,1,0,4,0,0
+/global/archives/9493,Taiwan,2,2,1,1,9,0,0
+/global/archives/9548,Hong Kong,2,2,1,5.5,8,0,0
+/global/archives/9548,South Africa,2,1,2,32,11,0,0
+/global/archives/9548,United Kingdom,2,1,2,82,8,0,0
+/global/archives/9668,United States,2,2,1,0,7,0,0
+/global/archives/9695,South Korea,2,2,1,7.5,10,0,0
+/global/archives/9709,India,2,2,1,11,10,0,0
+/global/archives/9709,South Korea,2,2,1,2,8,0,0
+/global/archives/9740,India,2,2,1,27,10,0,0
+/global/archives/9740,South Korea,2,2,1,13,9,0,0
+/global/archives/9740,United States,2,2,1,6,10,0,0
+/global/archives/9740ã•‡2022-04-08,United States,2,2,1,0,9,0,0
+/global/archives/9740。2022-04-08,United States,2,2,1,0,10,0,0
+/global/archives/9910,India,2,2,1,0,8,0,0
+/global/archives/9910,Iraq,2,1,2,0,8,0,0
+/global/archives/9998,India,2,1,2,0,7,0,0
+/global/archives/category/corporate/sk-energy,India,2,2,1,17.5,11,0,0
+/global/archives/category/corporate/sk-energy,Japan,2,2,1,17,7,0,0
+/global/archives/category/corporate/sk-enmove,India,2,2,1,5.5,8,0,0
+/global/archives/category/corporate/sk-enmove,Pakistan,2,1,2,36,9,0,0
+/global/archives/category/corporate/sk-enmove,United States,2,2,1,37,8,0,0
+/global/archives/category/corporate/sk-enterm,China,2,1,2,10,8,0,0
+/global/archives/category/corporate/sk-ie-technology,Sweden,2,1,2,41,8,0,0
+/global/archives/category/corporate/sk-on,China,2,2,1,17,7,0,0
+/global/archives/category/corporate/sk-on,France,2,2,1,1,7,0,0
+/global/archives/category/corporate/sk-on,Hong Kong,2,2,1,85,10,0,0
+/global/archives/category/corporates,Austria,2,2,1,2,5,0,0
+/global/archives/category/corporates,China,2,2,1,3,6,0,0
+/global/archives/category/corporates,Poland,2,2,1,2.5,8,0,0
+/global/archives/category/corporates,Taiwan,2,1,2,1,7,0,0
+/global/archives/category/corporates,United Kingdom,2,2,1,8,8,0,0
+/global/archives/category/corporates/sk-earthon,Malaysia,2,2,1,17,7,0,0
+/global/archives/category/corporates/sk-earthon,Poland,2,1,2,0,5,0,0
+/global/archives/category/corporates/sk-earthon,Thailand,2,1,2,28,9,0,0
+/global/archives/category/corporates/sk-energy,Hong Kong,2,2,1,30.5,8,0,0
+/global/archives/category/corporates/sk-energy,India,2,2,1,27.5,9,0,0
+/global/archives/category/corporates/sk-energy,Ukraine,2,2,1,8,7,0,0
+/global/archives/category/corporates/sk-energy,United Arab Emirates,2,1,2,28,7,0,0
+/global/archives/category/corporates/sk-enmove,Ecuador,2,1,2,50,8,0,0
+/global/archives/category/corporates/sk-enmove,Philippines,2,2,1,18,8,0,0
+/global/archives/category/corporates/sk-enmove,Thailand,2,2,1,18.5,8,0,0
+/global/archives/category/corporates/sk-enterm,France,2,1,2,8,7,0,0
+/global/archives/category/corporates/sk-enterm,Singapore,2,1,2,20,9,0,0
+/global/archives/category/corporates/sk-geo-centric,Taiwan,2,1,2,32,8,0,0
+/global/archives/category/corporates/sk-geo-centric,Thailand,2,2,1,38.5,8,0,0
+/global/archives/category/corporates/sk-geo-centric,United States,2,2,1,10,9,0,0
+/global/archives/category/corporates/sk-ie-technology,China,2,2,1,0,6,0,0
+/global/archives/category/corporates/sk-ie-technology,Hong Kong,2,2,1,9.5,8,0,0
+/global/archives/category/corporates/sk-ie-technology,Sri Lanka,2,1,2,3,8,0,0
+/global/archives/category/corporates/sk-ie-technology,Sweden,2,1,2,36,8,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Japan,2,1,2,2,5,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,South Korea,2,2,1,3,9,0,0
+/global/archives/category/corporates/sk-innovation,Australia,2,1,2,19,7,0,0
+/global/archives/category/corporates/sk-innovation,China,2,2,1,4,8,0,0
+/global/archives/category/corporates/sk-innovation,Pakistan,2,1,2,34,7,0,0
+/global/archives/category/corporates/sk-innovation,Poland,2,2,1,4,7,0,0
+/global/archives/category/corporates/sk-innovation,Spain,2,2,1,13.5,7,0,0
+/global/archives/category/corporates/sk-innovation,Switzerland,2,1,2,15,8,0,0
+/global/archives/category/corporates/sk-on,Mexico,2,2,1,16.5,8,0,0
+/global/archives/category/corporates/sk-on,Netherlands,2,1,2,42,8,0,0
+/global/archives/category/corporates/sk-on,United Kingdom,2,2,1,12.5,8,0,0
+/global/archives/category/corporates/sk-rading-international,India,2,2,1,27,7,0,0
+/global/archives/category/corporates/sk-rading-international,Yemen,2,2,1,11.5,7,0,0
+/global/archives/category/insight,Germany,2,2,1,7,8,0,0
+/global/archives/category/insight,Japan,2,2,1,7,8,0,0
+/global/archives/category/insight,Saudi Arabia,2,1,2,3,7,0,0
+/global/archives/category/insight,United Arab Emirates,2,2,1,3,5,0,0
+/global/archives/category/insight/trend_report,Hong Kong,2,2,1,32,8,0,0
+/global/archives/category/insight/trend_report,Malaysia,2,1,2,31,8,0,0
+/global/archives/category/insight/trend_report,Netherlands,2,1,2,52,8,0,0
+/global/archives/category/insight/trend_report,United States,2,1,2,20,8,0,0
+/global/archives/category/people,Hungary,2,2,1,4,7,0,0
+/global/archives/category/people,Singapore,2,2,1,1,7,0,0
+/global/archives/category/people,United Kingdom,2,1,2,64,8,0,0
+/global/archives/category/people/ceo-leaders,China,2,2,1,2.5,6,0,0
+/global/archives/category/people/inno-people,France,2,1,2,31,6,0,0
+/global/archives/category/people/inno-people,Japan,2,2,1,7.5,9,0,0
+/global/archives/category/people/inno-people,Singapore,2,2,1,5,6,0,0
+/global/archives/category/people/inno-people,Vietnam,2,1,2,15,8,0,0
+/global/archives/category/people/sustainability,Germany,2,2,1,11.5,8,0,0
+/global/archives/category/people/sustainability,India,2,3,0.6666666666666666,13.666666666666666,9,0,0
+/global/archives/category/people/sustainability,Japan,2,2,1,12,8,0,0
+/global/archives/category/people/sustainability,Malaysia,2,2,1,27,8,0,0
+/global/archives/category/people/sustainability,United Kingdom,2,2,1,10,8,0,0
+/global/archives/category/press-room,Czechia,2,1,2,53,8,0,0
+/global/archives/category/press-room,Germany,2,2,1,9.5,7,0,0
+/global/archives/category/press-room,Hungary,2,2,1,42,9,0,0
+/global/archives/category/press-room,Spain,2,2,1,6.5,9,0,0
+/global/archives/category/press-room/financial-results,Indonesia,2,1,2,124,8,0,0
+/global/archives/category/press-room/financial-results,Netherlands,2,1,2,30,9,0,0
+/global/archives/category/press-room/financial-results,Spain,2,2,1,5.5,7,0,0
+/global/archives/category/press-room/financial-results,Sweden,2,1,2,26,8,0,0
+/global/archives/category/press-room/financial-results,Vietnam,2,1,2,10,9,0,0
+/global/archives/category/press-room/issue-fact,China,2,2,1,4,7,0,0
+/global/archives/category/press-room/issue-fact,Germany,2,2,1,8.5,8,0,0
+/global/archives/category/press-room/issue-fact,United States,2,2,1,13,8,0,0
+/global/archives/category/press-room/press-release,Australia,2,1,2,38,9,0,0
+/global/archives/category/press-room/press-release,Brazil,2,1,2,28,8,0,0
+/global/archives/category/press-room/press-release,Netherlands,2,1,2,9,8,0,0
+/global/archives/category/press-room/press-release,United Arab Emirates,2,2,1,242,10,0,0
+/global/archives/category/social-value/csr-program,South Korea,2,1,2,21,9,0,0
+/global/archives/tag/2022-q4,Germany,2,1,2,5,8,0,0
+/global/archives/tag/2022-sk-global-forum,United States,2,2,1,2.5,8,0,0
+/global/archives/tag/air-liquide-korea,Japan,2,1,2,7,7,0,0
+/global/archives/tag/all-solid-state-battery,Malaysia,2,1,2,153,7,0,0
+/global/archives/tag/annual-general-meeting-of-shareholders,United Kingdom,2,1,2,741,8,0,0
+/global/archives/tag/battery,France,2,1,2,59,8,0,0
+/global/archives/tag/benz,South Africa,2,1,2,23,8,0,0
+/global/archives/tag/board-of-directors,India,2,2,1,12.5,7,0,0
+/global/archives/tag/board-of-directors,Japan,2,2,1,17,12,0,0
+/global/archives/tag/board-of-directors,United States,2,2,1,28.5,9,0,0
+/global/archives/tag/ccus,Japan,2,1,2,13,9,0,0
+/global/archives/tag/cho-kyung-mok,United States,2,1,2,41,8,0,0
+/global/archives/tag/e-mobility,France,2,1,2,16,8,0,0
+/global/archives/tag/earnings,Singapore,2,1,2,6,7,0,0
+/global/archives/tag/ecopro-bm,Singapore,2,1,2,13,10,0,0
+/global/archives/tag/ecopro-bm,United States,2,1,2,8,8,0,0
+/global/archives/tag/ess,Germany,2,2,1,10.5,9,0,0
+/global/archives/tag/europe,Hong Kong,2,2,1,21,12,0,0
+/global/archives/tag/europe,South Korea,2,2,1,9,11,0,0
+/global/archives/tag/ev-batteries,France,2,1,2,41,8,0,0
+/global/archives/tag/f-150-lightning,United States,2,2,1,5,9,0,0
+/global/archives/tag/financial-results,India,2,1,2,21,8,0,0
+/global/archives/tag/flexible-display,Japan,2,1,2,5,9,0,0
+/global/archives/tag/ford,South Korea,2,2,1,23,9,0,0
+/global/archives/tag/fulcrum-bioenergy,South Korea,2,2,1,25.5,10,0,0
+/global/archives/tag/georgia,United States,2,1,2,13,7,0,0
+/global/archives/tag/germany,United States,2,1,2,34,10,0,0
+/global/archives/tag/global-talent,South Korea,2,1,2,0,5,0,0
+/global/archives/tag/green-bonds,Netherlands,2,1,2,17,9,0,0
+/global/archives/tag/green-bonds,Singapore,2,1,2,6,8,0,0
+/global/archives/tag/green-bonds,South Korea,2,1,2,9,8,0,0
+/global/archives/tag/green-bonds,United Kingdom,2,2,1,9,10,0,0
+/global/archives/tag/happy-elephant,Japan,2,2,1,6,7,0,0
+/global/archives/tag/iest,South Korea,2,2,1,3,10,0,0
+/global/archives/tag/internal-combustion-engines,Russia,2,1,2,18,8,0,0
+/global/archives/tag/iscc,Germany,2,2,1,14.5,10,0,0
+/global/archives/tag/jee-dong-seob,South Korea,2,2,1,5.5,8,0,0
+/global/archives/tag/jee-dong-seob,United States,2,1,2,8,9,0,0
+/global/archives/tag/lfp,Japan,2,1,2,23,9,0,0
+/global/archives/tag/lithium-ion-battery,South Korea,2,1,2,1,6,0,0
+/global/archives/tag/loop-industries,Italy,2,1,2,10,8,0,0
+/global/archives/tag/loop-industries,South Korea,2,1,2,36,9,0,0
+/global/archives/tag/mdi,South Korea,2,1,2,11,8,0,0
+/global/archives/tag/ncm811,South Korea,2,2,1,11.5,12,0,0
+/global/archives/tag/nickel,Germany,2,1,2,3,8,0,0
+/global/archives/tag/nmc,Japan,2,2,1,4,9,0,0
+/global/archives/tag/pbat,Sweden,2,1,2,0,9,0,0
+/global/archives/tag/plastic,China,2,1,2,378,8,0,0
+/global/archives/tag/pm-cic,Singapore,2,1,2,22,8,0,0
+/global/archives/tag/poland,Bangladesh,2,2,1,15,9,0,0
+/global/archives/tag/pouch-type-battery,India,2,1,2,9,10,0,0
+/global/archives/tag/psep,South Korea,2,2,1,5,10,0,0
+/global/archives/tag/pyrolysis,Hong Kong,2,1,2,11,6,0,0
+/global/archives/tag/rhee-jang-weon,South Korea,2,1,2,7,9,0,0
+/global/archives/tag/robot,Japan,2,1,2,9,9,0,0
+/global/archives/tag/russia,Japan,2,1,2,21,8,0,0
+/global/archives/tag/russia,United States,2,1,2,19,9,0,0
+/global/archives/tag/san-jose,United States,2,1,2,7,9,0,0
+/global/archives/tag/secondary-batteries,South Korea,2,1,2,5,6,0,0
+/global/archives/tag/shanghai,South Korea,2,2,1,4.5,11,0,0
+/global/archives/tag/singapore,Singapore,2,1,2,21,10,0,0
+/global/archives/tag/sk-battery-america,South Korea,2,1,2,8,9,0,0
+/global/archives/tag/sk-battery-hungary,Indonesia,2,1,2,83,10,0,0
+/global/archives/tag/sk-geo-centric,Thailand,2,1,2,17,7,0,0
+/global/archives/tag/sk-global-chemical,Japan,2,2,1,14.5,9,0,0
+/global/archives/tag/sk-global-chemical,South Korea,2,1,2,13,9,0,0
+/global/archives/tag/sk-hynix,Taiwan,2,2,1,6,10,0,0
+/global/archives/tag/sk-on,Germany,2,2,1,6.5,9,0,0
+/global/archives/tag/sk-primacor-americas,South Korea,2,1,2,2,9,0,0
+/global/archives/tag/sk-primacor-europe,Spain,2,1,2,24,7,0,0
+/global/archives/tag/sk-tank-terminal,Singapore,2,1,2,6,8,0,0
+/global/archives/tag/skba,Japan,2,2,1,70.5,9,0,0
+/global/archives/tag/skba,South Korea,2,2,1,5,10,0,0
+/global/archives/tag/skbh,South Korea,2,2,1,4,10,0,0
+/global/archives/tag/ske,India,2,2,1,0,8,0,0
+/global/archives/tag/skei-singapore,Singapore,2,2,1,9,13,0,0
+/global/archives/tag/skipc,Japan,2,2,1,33.5,11,0,0
+/global/archives/tag/sko,China,2,2,1,0,6,0,0
+/global/archives/tag/skpe,South Korea,2,1,2,18,9,0,0
+/global/archives/tag/sk综合化学,Hong Kong,2,2,1,13,10,0,0
+/global/archives/tag/small-modular-reactor,South Korea,2,2,1,11,9,0,0
+/global/archives/tag/solid-electrolyte,South Korea,2,1,2,7,6,0,0
+/global/archives/tag/solid-power,United States,2,2,1,17,10,0,0
+/global/archives/tag/turkey,United States,2,1,2,0,5,0,0
+/global/archives/tag/ulsan-arc,Hong Kong,2,1,2,8,7,0,0
+/global/archives/tag/ulsan-clx,South Korea,2,2,1,7,10,0,0
+/global/archives/tag/ulsan-clx,Thailand,2,1,2,17,8,0,0
+/global/archives/tag/ulsan-complex,Canada,2,1,2,9,7,0,0
+/global/archives/tag/vinfast,Vietnam,2,2,1,0,8,0,0
+/global/archives/tag/yubase,Germany,2,1,2,15,7,0,0
+/global/archives/tag/zic,Japan,2,1,2,34,8,0,0
+/global/family-site-links,India,2,2,1,33.5,11,0,0
+/global/family-site-links,United Kingdom,2,1,2,16,8,0,0
+/global/latestnews,France,2,2,1,602.5,7,0,0
+/global/latestnews,Hong Kong,2,2,1,113,9,0,0
+/global/latestnews,Hungary,2,2,1,12,8,0,0
+/global/latestnews,Netherlands,2,1,2,48,7,0,0
+/global/latestnews,Philippines,2,1,2,13,8,0,0
+/global/latestnews,Poland,2,2,1,13,9,0,0
+/global/sustainability-report,Brazil,2,1,2,9,9,0,0
+/global/sustainability-report,Philippines,2,1,2,2,10,0,0
+/global/sustainability-report,Singapore,2,1,2,19,11,0,0
+/global/sustainability-report,Ukraine,2,2,1,21,8,0,0
+/global/terms-and-conditions,South Korea,2,2,1,0.5,6,0,0
+/global/who-we-are,France,2,1,2,12,7,0,0
+/global/,Brazil,1,1,1,3,3,0,0
+/global/,Indonesia,1,1,1,0,3,0,0
+/global/,Iran,1,1,1,2,5,0,0
+/global/,Lithuania,1,1,1,9,5,0,0
+/global/,Moldova,1,1,1,25,5,0,0
+/global/,Norway,1,1,1,1,5,0,0
+/global/,Philippines,1,1,1,511,5,0,0
+/global/,Türkiye,1,1,1,19,5,0,0
+/global/,United Arab Emirates,1,1,1,7,5,0,0
+/global/,Uzbekistan,1,1,1,0,3,0,0
+/global/archives,China,1,1,1,0,6,0,0
+/global/archives,India,1,1,1,92,4,0,0
+/global/archives/,Belgium,1,1,1,0,2,0,0
+/global/archives/10073,Japan,1,1,1,0,6,0,0
+/global/archives/10073,South Korea,1,1,1,39,4,0,0
+/global/archives/10133,Canada,1,1,1,17,5,0,0
+/global/archives/10133,China,1,1,1,19,7,0,0
+/global/archives/10133,Croatia,1,1,1,18,5,0,0
+/global/archives/10133,Germany,1,1,1,16,6,0,0
+/global/archives/10133,Ukraine,1,1,1,0,3,0,0
+/global/archives/10159,Bangladesh,1,1,1,6,5,0,0
+/global/archives/10159,India,1,1,1,0,3,0,0
+/global/archives/10159,South Korea,1,1,1,66,5,0,0
+/global/archives/10159,United States,1,1,1,1,5,0,0
+/global/archives/10264,United States,1,1,1,0,6,0,0
+/global/archives/10310,Ecuador,1,1,1,47,4,0,0
+/global/archives/10310,Hong Kong,1,1,1,0,4,0,0
+/global/archives/1043,South Korea,1,1,1,12,5,0,0
+/global/archives/10445,South Korea,1,1,1,112,5,0,0
+/global/archives/10460,Australia,1,1,1,0,6,0,0
+/global/archives/10460,Germany,1,1,1,32,4,0,0
+/global/archives/10460,Hong Kong,1,1,1,0,4,0,0
+/global/archives/10460,Japan,1,1,1,0,5,0,0
+/global/archives/10478,China,1,1,1,24,4,0,0
+/global/archives/10478,India,1,1,1,94,5,0,0
+/global/archives/10511,Japan,1,1,1,90,4,0,0
+/global/archives/10511,South Korea,1,1,1,14,5,0,0
+/global/archives/10522,South Korea,1,1,1,9,4,0,0
+/global/archives/10535,China,1,1,1,64,5,0,0
+/global/archives/10535,Germany,1,1,1,0,4,0,0
+/global/archives/10535,India,1,1,1,0,6,0,0
+/global/archives/10535,United Kingdom,1,2,0.5,42,6,0,0
+/global/archives/10574,China,1,1,1,0,3,0,0
+/global/archives/10574,Thailand,1,1,1,25,5,0,0
+/global/archives/1058,Belgium,1,1,1,0,4,0,0
+/global/archives/1058,China,1,1,1,26,5,0,0
+/global/archives/1058,Italy,1,1,1,41,5,0,0
+/global/archives/1058,Lithuania,1,1,1,44,6,0,0
+/global/archives/10610,Kenya,1,1,1,14,6,0,0
+/global/archives/10610,United States,1,1,1,71,5,0,0
+/global/archives/10697,India,1,1,1,0,4,0,0
+/global/archives/10697,United States,1,1,1,73,3,0,0
+/global/archives/10713,China,1,1,1,0,4,0,0
+/global/archives/10746,United States,1,1,1,195,5,0,0
+/global/archives/10767,Curaçao,1,1,1,14,5,0,0
+/global/archives/10767,Finland,1,1,1,17,5,0,0
+/global/archives/10767,India,1,1,1,0,6,0,0
+/global/archives/10767,Norway,1,1,1,9,5,0,0
+/global/archives/10774,Costa Rica,1,1,1,24,6,0,0
+/global/archives/10774,Hong Kong,1,1,1,34,3,0,0
+/global/archives/10774,Japan,1,1,1,25,5,0,0
+/global/archives/10774,Netherlands,1,1,1,0,2,0,0
+/global/archives/10774,Poland,1,1,1,230,4,0,0
+/global/archives/10774,Sri Lanka,1,1,1,5,5,0,0
+/global/archives/10774,Sweden,1,1,1,9,5,0,0
+/global/archives/10835,South Korea,1,1,1,17,5,0,0
+/global/archives/10835,United Kingdom,1,1,1,0,6,0,0
+/global/archives/10842,Spain,1,1,1,47,5,0,0
+/global/archives/10872,Belgium,1,1,1,20,4,0,0
+/global/archives/10872,France,1,1,1,0,6,0,0
+/global/archives/10872,Hong Kong,1,1,1,44,5,0,0
+/global/archives/10897,India,1,1,1,0,3,0,0
+/global/archives/10897,Japan,1,1,1,0,4,0,0
+/global/archives/10897,Singapore,1,1,1,0,3,0,0
+/global/archives/10897,Ukraine,1,1,1,1,4,0,0
+/global/archives/10913,India,1,1,1,0,2,0,0
+/global/archives/10913,Japan,1,1,1,68,4,0,0
+/global/archives/10939,Australia,1,1,1,0,4,0,0
+/global/archives/10939,Hong Kong,1,1,1,243,4,0,0
+/global/archives/10939,India,1,1,1,11,5,0,0
+/global/archives/10985,Singapore,1,1,1,16,5,0,0
+/global/archives/10985,Sweden,1,1,1,0,4,0,0
+/global/archives/11004,China,1,1,1,17,5,0,0
+/global/archives/11004,Germany,1,1,1,133,5,0,0
+/global/archives/11004,Singapore,1,1,1,553,6,0,0
+/global/archives/11004,Switzerland,1,1,1,65,5,0,0
+/global/archives/11010,China,1,1,1,17,2,0,0
+/global/archives/11010,Hong Kong,1,1,1,0,3,0,0
+/global/archives/11010,Malawi,1,1,1,12,4,0,0
+/global/archives/11037,Canada,1,1,1,20,4,0,0
+/global/archives/11037,India,1,1,1,127,5,0,0
+/global/archives/11037,Iran,1,0,0,0,5,0,0
+/global/archives/11037,Japan,1,1,1,36,4,0,0
+/global/archives/11037,Uzbekistan,1,1,1,26,4,0,0
+/global/archives/11058,Germany,1,1,1,0,3,0,0
+/global/archives/11058,United States,1,1,1,17,4,0,0
+/global/archives/11082,South Korea,1,1,1,5,7,0,0
+/global/archives/11087,Australia,1,1,1,10,5,0,0
+/global/archives/11087,Germany,1,1,1,0,6,0,0
+/global/archives/11087,Greece,1,1,1,83,5,0,0
+/global/archives/11087,Hungary,1,1,1,38,4,0,0
+/global/archives/11087,Switzerland,1,1,1,8,5,0,0
+/global/archives/11087,United Arab Emirates,1,1,1,29,5,0,0
+/global/archives/11087,Uzbekistan,1,1,1,24,5,0,0
+/global/archives/11125,India,1,1,1,34,6,0,0
+/global/archives/11125,South Korea,1,1,1,13,4,0,0
+/global/archives/1114,China,1,1,1,17,5,0,0
+/global/archives/1114,India,1,1,1,0,4,0,0
+/global/archives/1114,Singapore,1,1,1,59,7,0,0
+/global/archives/1114,South Korea,1,1,1,302,5,0,0
+/global/archives/11147,Japan,1,1,1,2,5,0,0
+/global/archives/11147,United States,1,1,1,81,5,0,0
+/global/archives/11161,Malaysia,1,1,1,16,4,0,0
+/global/archives/11161,Romania,1,1,1,0,4,0,0
+/global/archives/11161,Saudi Arabia,1,1,1,0,4,0,0
+/global/archives/11161,Thailand,1,1,1,139,5,0,0
+/global/archives/11214,India,1,1,1,2,5,0,0
+/global/archives/11214,Taiwan,1,1,1,2,4,0,0
+/global/archives/1131,Hungary,1,1,1,32,5,0,0
+/global/archives/11400,Germany,1,1,1,33,5,0,0
+/global/archives/11400,Japan,1,1,1,27,5,0,0
+/global/archives/11400,South Korea,1,1,1,0,4,0,0
+/global/archives/11400,United States,1,1,1,42,7,0,0
+/global/archives/11415,Australia,1,1,1,11,5,0,0
+/global/archives/11415,China,1,1,1,12,5,0,0
+/global/archives/11415,Netherlands,1,1,1,0,4,0,0
+/global/archives/11415,Sweden,1,1,1,0,3,0,0
+/global/archives/11415,United Kingdom,1,1,1,0,3,0,0
+/global/archives/11475,Hong Kong,1,1,1,23,5,0,0
+/global/archives/11475,India,1,1,1,0,6,0,0
+/global/archives/11475,United States,1,1,1,18,5,0,0
+/global/archives/11512,Libya,1,1,1,47,4,0,0
+/global/archives/11512,Singapore,1,1,1,8,3,0,0
+/global/archives/11512,South Korea,1,1,1,14,6,0,0
+/global/archives/11512,Sri Lanka,1,1,1,24,4,0,0
+/global/archives/11527,Australia,1,1,1,0,6,0,0
+/global/archives/11527,Sweden,1,1,1,40,4,0,0
+/global/archives/11537,Canada,1,1,1,6,5,0,0
+/global/archives/11537,China,1,1,1,0,1,0,0
+/global/archives/11537,India,1,1,1,1,6,0,0
+/global/archives/11537,Switzerland,1,1,1,42,5,0,0
+/global/archives/11573,Vietnam,1,1,1,69,5,0,0
+/global/archives/11596,Indonesia,1,1,1,56,5,0,0
+/global/archives/11596,Malaysia,1,1,1,621,8,0,0
+/global/archives/11596,Ukraine,1,1,1,30,6,0,0
+/global/archives/11683,Germany,1,1,1,40,5,0,0
+/global/archives/1175,France,1,1,1,0,2,0,0
+/global/archives/1175,India,1,1,1,0,5,0,0
+/global/archives/11807,Peru,1,1,1,0,4,0,0
+/global/archives/11807,Russia,1,1,1,0,4,0,0
+/global/archives/11807,Singapore,1,1,1,0,4,0,0
+/global/archives/11807,Thailand,1,1,1,0,5,0,0
+/global/archives/11807,Türkiye,1,1,1,0,4,0,0
+/global/archives/11807,Vietnam,1,1,1,214,6,0,0
+/global/archives/11830,Japan,1,1,1,23,4,0,0
+/global/archives/11830,United Kingdom,1,1,1,1,4,0,0
+/global/archives/11853,Austria,1,1,1,39,5,0,0
+/global/archives/11853,Chile,1,1,1,6,5,0,0
+/global/archives/11853,France,1,1,1,86,5,0,0
+/global/archives/11853,Japan,1,1,1,45,5,0,0
+/global/archives/11853,Netherlands,1,1,1,0,6,0,0
+/global/archives/11853,Pakistan,1,1,1,24,3,0,0
+/global/archives/11916,South Korea,1,1,1,0,5,0,0
+/global/archives/11937,United Arab Emirates,1,1,1,38,5,0,0
+/global/archives/11955,Japan,1,1,1,0,3,0,0
+/global/archives/11992,Czechia,1,1,1,137,5,0,0
+/global/archives/11992,South Korea,1,1,1,44,5,0,0
+/global/archives/12008,Canada,1,1,1,12,5,0,0
+/global/archives/12008,France,1,1,1,20,5,0,0
+/global/archives/12008,Romania,1,1,1,6,5,0,0
+/global/archives/12008,Slovenia,1,1,1,0,4,0,0
+/global/archives/12022,Bangladesh,1,1,1,60,6,0,0
+/global/archives/12022,Canada,1,1,1,36,5,0,0
+/global/archives/12022,Ecuador,1,1,1,88,6,0,0
+/global/archives/12022,France,1,1,1,55,5,0,0
+/global/archives/12022,Hong Kong,1,1,1,2,4,0,0
+/global/archives/12022,Indonesia,1,1,1,28,5,0,0
+/global/archives/12022,Malaysia,1,1,1,0,3,0,0
+/global/archives/12022,Mexico,1,1,1,5,5,0,0
+/global/archives/12022,Nepal,1,1,1,0,4,0,0
+/global/archives/12022,Pakistan,1,1,1,0,4,0,0
+/global/archives/12022,Poland,1,1,1,0,6,0,0
+/global/archives/12022,Romania,1,1,1,0,5,0,0
+/global/archives/12022,Russia,1,1,1,7,5,0,0
+/global/archives/12022,Saudi Arabia,1,1,1,17,6,0,0
+/global/archives/12022,South Africa,1,1,1,0,3,0,0
+/global/archives/12022,Switzerland,1,1,1,0,4,0,0
+/global/archives/12022,Uzbekistan,1,1,1,53,6,0,0
+/global/archives/12022,Vietnam,1,1,1,46,7,0,0
+/global/archives/12036,Malaysia,1,1,1,0,4,0,0
+/global/archives/12072,Singapore,1,1,1,6,5,0,0
+/global/archives/12091,Canada,1,1,1,25,5,0,0
+/global/archives/12091,South Korea,1,1,1,23,5,0,0
+/global/archives/12091,Thailand,1,1,1,0,4,0,0
+/global/archives/12106,India,1,1,1,8,5,0,0
+/global/archives/12106,United Arab Emirates,1,1,1,0,6,0,0
+/global/archives/12147,Hong Kong,1,1,1,7,5,0,0
+/global/archives/12190,Austria,1,1,1,12,6,0,0
+/global/archives/12190,Norway,1,1,1,5,5,0,0
+/global/archives/12220,Australia,1,1,1,89,5,0,0
+/global/archives/12220,France,1,1,1,54,7,0,0
+/global/archives/12220,Malaysia,1,1,1,35,5,0,0
+/global/archives/12220,Netherlands,1,1,1,0,4,0,0
+/global/archives/12220,Sweden,1,1,1,0,3,0,0
+/global/archives/12269,Canada,1,1,1,24,5,0,0
+/global/archives/12269,India,1,1,1,68,3,0,0
+/global/archives/12269,Singapore,1,1,1,0,2,0,0
+/global/archives/12269,South Korea,1,1,1,0,3,0,0
+/global/archives/12269,United Kingdom,1,1,1,64,3,0,0
+/global/archives/12306,Malaysia,1,1,1,49,4,0,0
+/global/archives/12306,Spain,1,1,1,92,3,0,0
+/global/archives/12306,Sweden,1,1,1,0,2,0,0
+/global/archives/12306,Türkiye,1,1,1,0,5,0,0
+/global/archives/12306,United Kingdom,1,1,1,96,5,0,0
+/global/archives/12319,Japan,1,1,1,247,4,0,0
+/global/archives/12349,Ukraine,1,1,1,4,4,0,0
+/global/archives/1237,South Africa,1,1,1,36,6,0,0
+/global/archives/12373,Ukraine,1,1,1,15,4,0,0
+/global/archives/12389,United States,1,1,1,7,5,0,0
+/global/archives/12413,Japan,1,1,1,6,4,0,0
+/global/archives/12427,China,1,1,1,37,5,0,0
+/global/archives/12471,China,1,1,1,2,3,0,0
+/global/archives/12471,Japan,1,1,1,16,5,0,0
+/global/archives/12471,South Korea,1,1,1,0,6,0,0
+/global/archives/12471,United States,1,1,1,7,5,0,0
+/global/archives/12473,South Korea,1,1,1,2,4,0,0
+/global/archives/12487,South Korea,1,1,1,27,5,0,0
+/global/archives/1257,Germany,1,1,1,3,4,0,0
+/global/archives/1257,Japan,1,1,1,14,3,0,0
+/global/archives/1257,Türkiye,1,1,1,26,6,0,0
+/global/archives/1257,Ukraine,1,1,1,17,5,0,0
+/global/archives/1257,United States,1,1,1,11,5,0,0
+/global/archives/12603,Singapore,1,1,1,0,6,0,0
+/global/archives/12603,Ukraine,1,1,1,8,4,0,0
+/global/archives/12667,Canada,1,1,1,74,6,0,0
+/global/archives/12667,Malaysia,1,1,1,29,3,0,0
+/global/archives/12667,Poland,1,1,1,662,3,0,0
+/global/archives/12667,Serbia,1,1,1,12,5,0,0
+/global/archives/12667,Spain,1,1,1,0,4,0,0
+/global/archives/12667,Sweden,1,1,1,34,5,0,0
+/global/archives/12667,Ukraine,1,1,1,254,4,0,0
+/global/archives/12667,United States,1,1,1,58,5,0,0
+/global/archives/12688,Hong Kong,1,1,1,11,4,0,0
+/global/archives/12692,Germany,1,1,1,0,4,0,0
+/global/archives/12692,Japan,1,1,1,35,4,0,0
+/global/archives/12692,Malaysia,1,1,1,0,4,0,0
+/global/archives/12823,Hungary,1,1,1,39,4,0,0
+/global/archives/12834,Hungary,1,1,1,20,3,0,0
+/global/archives/12878,Singapore,1,1,1,15,5,0,0
+/global/archives/12878,South Korea,1,1,1,0,5,0,0
+/global/archives/12891,Philippines,1,1,1,0,4,0,0
+/global/archives/12891,South Korea,1,2,0.5,62.5,6,0,0
+/global/archives/12928,Hungary,1,1,1,26,4,0,0
+/global/archives/12928,South Korea,1,1,1,0,4,0,0
+/global/archives/12928,Vietnam,1,1,1,17,4,0,0
+/global/archives/12950,Australia,1,1,1,0,4,0,0
+/global/archives/12950,Japan,1,1,1,0,4,0,0
+/global/archives/12950,Switzerland,1,1,1,6,4,0,0
+/global/archives/12950,United States,1,1,1,0,4,0,0
+/global/archives/12968,South Korea,1,1,1,6,4,0,0
+/global/archives/13018,United States,1,1,1,3,4,0,0
+/global/archives/13036,Canada,1,1,1,0,4,0,0
+/global/archives/13036,Ireland,1,1,1,12,3,0,0
+/global/archives/13060,South Korea,1,1,1,20,5,0,0
+/global/archives/13060,Taiwan,1,1,1,23,5,0,0
+/global/archives/13103,Malaysia,1,1,1,100,4,0,0
+/global/archives/13130,China,1,1,1,0,1,0,0
+/global/archives/13130,Israel,1,1,1,17,4,0,0
+/global/archives/13130,United Kingdom,1,1,1,11,3,0,0
+/global/archives/13153,United States,1,1,1,6,5,0,0
+/global/archives/13153,Vietnam,1,1,1,1,5,0,0
+/global/archives/13184,Norway,1,1,1,40,5,0,0
+/global/archives/1321,Slovakia,1,1,1,1,4,0,0
+/global/archives/1321,South Korea,1,1,1,0,4,0,0
+/global/archives/1321,United Kingdom,1,1,1,1,5,0,0
+/global/archives/13211,Singapore,1,1,1,0,5,0,0
+/global/archives/13211,United States,1,1,1,30,5,0,0
+/global/archives/13230,India,1,1,1,8,3,0,0
+/global/archives/13230,South Korea,1,1,1,0,4,0,0
+/global/archives/13230,United States,1,1,1,3,4,0,0
+/global/archives/13327,Ukraine,1,1,1,0,4,0,0
+/global/archives/13329,China,1,1,1,69,5,0,0
+/global/archives/13329,Netherlands,1,1,1,20,5,0,0
+/global/archives/13329,Pakistan,1,1,1,120,5,0,0
+/global/archives/13374,Singapore,1,1,1,81,4,0,0
+/global/archives/13374,South Korea,1,1,1,1,5,0,0
+/global/archives/13374,Thailand,1,1,1,26,4,0,0
+/global/archives/13374,United States,1,1,1,0,4,0,0
+/global/archives/13413,Japan,1,1,1,6,3,0,0
+/global/archives/13437,Malaysia,1,1,1,0,2,0,0
+/global/archives/13513,Hong Kong,1,1,1,20,4,0,0
+/global/archives/13513,Pakistan,1,1,1,5,4,0,0
+/global/archives/13513,Sweden,1,1,1,11,4,0,0
+/global/archives/13521,Australia,1,1,1,15,5,0,0
+/global/archives/13521,Austria,1,1,1,101,5,0,0
+/global/archives/13521,Canada,1,1,1,9,6,0,0
+/global/archives/13521,China,1,1,1,7,5,0,0
+/global/archives/13521,Hong Kong,1,1,1,14,6,0,0
+/global/archives/13521,Indonesia,1,1,1,16,4,0,0
+/global/archives/13521,Pakistan,1,1,1,20,6,0,0
+/global/archives/13521,Philippines,1,1,1,1,4,0,0
+/global/archives/13521,Sweden,1,1,1,2,5,0,0
+/global/archives/13521,Taiwan,1,1,1,41,5,0,0
+/global/archives/13521,United Kingdom,1,1,1,19,6,0,0
+/global/archives/13544,Japan,1,1,1,8,5,0,0
+/global/archives/13544,Thailand,1,1,1,39,6,0,0
+/global/archives/13595,Canada,1,1,1,0,4,0,0
+/global/archives/13595,China,1,1,1,48,5,0,0
+/global/archives/13595,Russia,1,1,1,24,5,0,0
+/global/archives/13595,Singapore,1,1,1,18,6,0,0
+/global/archives/13595,Thailand,1,1,1,0,4,0,0
+/global/archives/13595,United Kingdom,1,1,1,0,4,0,0
+/global/archives/13667,South Korea,1,1,1,8,4,0,0
+/global/archives/13669,Sweden,1,1,1,1,4,0,0
+/global/archives/13748,India,1,1,1,5,5,0,0
+/global/archives/13748,United Kingdom,1,1,1,0,4,0,0
+/global/archives/13748,United States,1,1,1,23,5,0,0
+/global/archives/13780,Australia,1,1,1,22,6,0,0
+/global/archives/13780,Bangladesh,1,1,1,0,4,0,0
+/global/archives/13780,China,1,1,1,11,4,0,0
+/global/archives/13780,France,1,1,1,24,5,0,0
+/global/archives/13780,Pakistan,1,1,1,86,5,0,0
+/global/archives/13780,Sweden,1,1,1,58,5,0,0
+/global/archives/13780,United Kingdom,1,1,1,9,5,0,0
+/global/archives/13795,China,1,1,1,0,1,0,0
+/global/archives/13804,Hong Kong,1,1,1,0,2,0,0
+/global/archives/13804,Thailand,1,1,1,15,5,0,0
+/global/archives/13850,Ireland,1,1,1,20,3,0,0
+/global/archives/13850,United States,1,1,1,0,4,0,0
+/global/archives/13879,Sri Lanka,1,1,1,5,4,0,0
+/global/archives/13881,Sweden,1,1,1,2,4,0,0
+/global/archives/13932,Belgium,1,1,1,0,4,0,0
+/global/archives/13932,Canada,1,1,1,0,4,0,0
+/global/archives/13932,Japan,1,1,1,26,6,0,0
+/global/archives/13932,South Africa,1,1,1,0,4,0,0
+/global/archives/13932,Thailand,1,1,1,0,2,0,0
+/global/archives/13932,United Kingdom,1,1,1,0,3,0,0
+/global/archives/13981,South Korea,1,1,1,65,5,0,0
+/global/archives/13981,United Kingdom,1,1,1,0,5,0,0
+/global/archives/1399,India,1,1,1,35,4,0,0
+/global/archives/1399,Philippines,1,1,1,15,5,0,0
+/global/archives/14004,Japan,1,1,1,7,4,0,0
+/global/archives/14030,Austria,1,1,1,12,4,0,0
+/global/archives/14030,France,1,1,1,358,3,0,0
+/global/archives/14030,India,1,1,1,0,2,0,0
+/global/archives/14030,Switzerland,1,1,1,25,3,0,0
+/global/archives/14065,Poland,1,1,1,438,6,0,0
+/global/archives/14065,Spain,1,1,1,8,3,0,0
+/global/archives/14065,Taiwan,1,1,1,27,5,0,0
+/global/archives/14065,United Kingdom,1,1,1,16,5,0,0
+/global/archives/14065,United States,1,1,1,0,3,0,0
+/global/archives/14078,China,1,1,1,77,4,0,0
+/global/archives/14078,Singapore,1,1,1,64,3,0,0
+/global/archives/14083,Malaysia,1,1,1,220,5,0,0
+/global/archives/14179,Austria,1,1,1,7,4,0,0
+/global/archives/14179,Canada,1,1,1,0,4,0,0
+/global/archives/14193,Germany,1,1,1,18,5,0,0
+/global/archives/14193,United States,1,1,1,14,5,0,0
+/global/archives/14193,Vietnam,1,1,1,1,4,0,0
+/global/archives/14219,China,1,0,0,0,3,0,0
+/global/archives/14219,Singapore,1,1,1,42,5,0,0
+/global/archives/14219,Sweden,1,1,1,2,4,0,0
+/global/archives/14226,Australia,1,1,1,42,5,0,0
+/global/archives/14226,China,1,1,1,0,6,0,0
+/global/archives/14226,Hungary,1,1,1,0,3,0,0
+/global/archives/14226,Israel,1,1,1,0,4,0,0
+/global/archives/14226,Italy,1,1,1,0,3,0,0
+/global/archives/14226,Japan,1,1,1,4,5,0,0
+/global/archives/14226,Serbia,1,1,1,6,5,0,0
+/global/archives/14226,Sri Lanka,1,1,1,1,4,0,0
+/global/archives/14226,Sweden,1,1,1,6,4,0,0
+/global/archives/14243,Switzerland,1,1,1,5,4,0,0
+/global/archives/14243,Türkiye,1,1,1,2,5,0,0
+/global/archives/14243,United Kingdom,1,1,1,1,5,0,0
+/global/archives/1425,Finland,1,1,1,35,5,0,0
+/global/archives/1425,South Korea,1,1,1,6,5,0,0
+/global/archives/1425,Sweden,1,1,1,1,4,0,0
+/global/archives/1425,Taiwan,1,1,1,6,3,0,0
+/global/archives/14264,China,1,1,1,49,4,0,0
+/global/archives/14264,Indonesia,1,1,1,0,4,0,0
+/global/archives/14264,Italy,1,1,1,3,2,0,0
+/global/archives/14264,Singapore,1,1,1,42,5,0,0
+/global/archives/14264,South Korea,1,1,1,5,5,0,0
+/global/archives/14264,Türkiye,1,1,1,0,3,0,0
+/global/archives/14302,South Korea,1,1,1,12,3,0,0
+/global/archives/14302,United States,1,1,1,60,4,0,0
+/global/archives/14309,India,1,1,1,26,5,0,0
+/global/archives/14309,Taiwan,1,1,1,36,4,0,0
+/global/archives/14309,United Kingdom,1,1,1,17,4,0,0
+/global/archives/14333,China,1,1,1,37,6,0,0
+/global/archives/14333,Japan,1,1,1,3,5,0,0
+/global/archives/14333,Singapore,1,1,1,76,4,0,0
+/global/archives/14333,Sri Lanka,1,1,1,3,4,0,0
+/global/archives/14333,United Kingdom,1,1,1,4,4,0,0
+/global/archives/14354,Singapore,1,1,1,8,7,0,0
+/global/archives/14354,United States,1,1,1,42,5,0,0
+/global/archives/14384,Poland,1,1,1,0,3,0,0
+/global/archives/14384,South Korea,1,1,1,135,3,0,0
+/global/archives/14384,Sweden,1,1,1,6,6,0,0
+/global/archives/14384,Thailand,1,1,1,38,4,0,0
+/global/archives/14415,India,1,1,1,3,5,0,0
+/global/archives/14415,Indonesia,1,1,1,0,2,0,0
+/global/archives/14415,Singapore,1,1,1,14,5,0,0
+/global/archives/14415,Taiwan,1,1,1,0,5,0,0
+/global/archives/14491,Australia,1,1,1,0,6,0,0
+/global/archives/14491,France,1,1,1,0,6,0,0
+/global/archives/14491,South Korea,1,1,1,31,5,0,0
+/global/archives/14491,Uzbekistan,1,1,1,0,5,0,0
+/global/archives/14493,Hong Kong,1,1,1,0,6,0,0
+/global/archives/14493,Sri Lanka,1,1,1,6,4,0,0
+/global/archives/14541,Japan,1,1,1,31,5,0,0
+/global/archives/14541,Russia,1,1,1,30,6,0,0
+/global/archives/14541,Vietnam,1,1,1,238,5,0,0
+/global/archives/14565,France,1,1,1,0,4,0,0
+/global/archives/14565,Japan,1,1,1,3,3,0,0
+/global/archives/14565,Singapore,1,1,1,3,5,0,0
+/global/archives/14565,South Korea,1,1,1,27,4,0,0
+/global/archives/14588,South Korea,1,1,1,4,4,0,0
+/global/archives/14588,Thailand,1,1,1,0,4,0,0
+/global/archives/14615,Hong Kong,1,1,1,0,4,0,0
+/global/archives/14615,South Korea,1,1,1,15,5,0,0
+/global/archives/14628,Hong Kong,1,1,1,0,4,0,0
+/global/archives/14634,Japan,1,1,1,23,5,0,0
+/global/archives/14634,Malaysia,1,1,1,254,6,0,0
+/global/archives/14634,Norway,1,1,1,135,5,0,0
+/global/archives/14634,Portugal,1,1,1,180,5,0,0
+/global/archives/14634,Sweden,1,1,1,8,5,0,0
+/global/archives/14634,Taiwan,1,1,1,8,5,0,0
+/global/archives/14634,Thailand,1,1,1,2,5,0,0
+/global/archives/14634,Türkiye,1,1,1,0,3,0,0
+/global/archives/14634,United Arab Emirates,1,1,1,0,4,0,0
+/global/archives/14634,Vietnam,1,1,1,24,6,0,0
+/global/archives/14668,Austria,1,1,1,70,4,0,0
+/global/archives/14688,Austria,1,1,1,0,6,0,0
+/global/archives/14688,Belgium,1,1,1,69,5,0,0
+/global/archives/14688,Hong Kong,1,1,1,4,4,0,0
+/global/archives/14688,Singapore,1,1,1,0,6,0,0
+/global/archives/14688,Switzerland,1,1,1,56,4,0,0
+/global/archives/14688,United States,1,1,1,61,5,0,0
+/global/archives/14690,China,1,1,1,34,5,0,0
+/global/archives/14740,India,1,1,1,3,5,0,0
+/global/archives/14740,Japan,1,1,1,1,5,0,0
+/global/archives/14740,Switzerland,1,1,1,0,6,0,0
+/global/archives/14740,Vietnam,1,1,1,1,5,0,0
+/global/archives/14766,France,1,1,1,0,4,0,0
+/global/archives/14766,Germany,1,1,1,1,4,0,0
+/global/archives/14766,Ireland,1,1,1,3,2,0,0
+/global/archives/14766,Japan,1,1,1,0,6,0,0
+/global/archives/14770,Austria,1,1,1,0,3,0,0
+/global/archives/14770,India,1,1,1,0,4,0,0
+/global/archives/14770,Poland,1,1,1,70,6,0,0
+/global/archives/14770,South Africa,1,1,1,0,6,0,0
+/global/archives/14770,South Korea,1,1,1,36,4,0,0
+/global/archives/14770,Spain,1,1,1,7,4,0,0
+/global/archives/14770,Sri Lanka,1,1,1,6,4,0,0
+/global/archives/14770,Sweden,1,1,1,50,4,0,0
+/global/archives/14800,South Korea,1,1,1,112,5,0,0
+/global/archives/14803,South Korea,1,1,1,13,5,0,0
+/global/archives/14869,Germany,1,1,1,57,6,0,0
+/global/archives/1493,South Korea,1,1,1,36,3,0,0
+/global/archives/14962,Germany,1,1,1,0,4,0,0
+/global/archives/14962,Iran,1,1,1,19,6,0,0
+/global/archives/14962,Singapore,1,1,1,2,3,0,0
+/global/archives/14962,South Korea,1,1,1,2,5,0,0
+/global/archives/15007,Philippines,1,1,1,0,4,0,0
+/global/archives/15007,Thailand,1,1,1,81,5,0,0
+/global/archives/15007,Türkiye,1,1,1,115,6,0,0
+/global/archives/15007,Ukraine,1,1,1,23,4,0,0
+/global/archives/15007,United States,1,1,1,49,5,0,0
+/global/archives/15067,Australia,1,1,1,0,3,0,0
+/global/archives/15067,France,1,1,1,4,5,0,0
+/global/archives/15067,Ireland,1,1,1,0,2,0,0
+/global/archives/15067,Sweden,1,1,1,43,6,0,0
+/global/archives/15067,Vietnam,1,1,1,21,6,0,0
+/global/archives/15103,Ireland,1,1,1,67,5,0,0
+/global/archives/15153,South Korea,1,1,1,13,4,0,0
+/global/archives/15204,Belarus,1,1,1,15,5,0,0
+/global/archives/15204,China,1,1,1,65,7,0,0
+/global/archives/15204,Indonesia,1,1,1,9,6,0,0
+/global/archives/15204,Japan,1,1,1,0,3,0,0
+/global/archives/15259,Spain,1,1,1,0,4,0,0
+/global/archives/15259,Ukraine,1,1,1,3,4,0,0
+/global/archives/15259,United States,1,1,1,10,4,0,0
+/global/archives/15317,South Korea,1,1,1,6,5,0,0
+/global/archives/15353,Malaysia,1,1,1,26,3,0,0
+/global/archives/15374,Cyprus,1,1,1,31,5,0,0
+/global/archives/15374,France,1,1,1,4,4,0,0
+/global/archives/15374,Indonesia,1,1,1,61,4,0,0
+/global/archives/15374,Italy,1,1,1,47,5,0,0
+/global/archives/15374,Netherlands,1,1,1,48,5,0,0
+/global/archives/15374,Portugal,1,1,1,8,7,0,0
+/global/archives/15374,Sri Lanka,1,1,1,15,4,0,0
+/global/archives/15374,Taiwan,1,1,1,0,6,0,0
+/global/archives/15374,United States,1,1,1,11,5,0,0
+/global/archives/15374,Vietnam,1,1,1,34,4,0,0
+/global/archives/15409,Singapore,1,1,1,1,6,0,0
+/global/archives/15409,Thailand,1,1,1,7,5,0,0
+/global/archives/15409,United States,1,1,1,25,6,0,0
+/global/archives/15462,Austria,1,1,1,0,4,0,0
+/global/archives/15462,Finland,1,1,1,0,4,0,0
+/global/archives/15462,Greece,1,1,1,47,5,0,0
+/global/archives/15462,Netherlands,1,1,1,0,4,0,0
+/global/archives/15462,New Zealand,1,1,1,19,4,0,0
+/global/archives/15462,South Korea,1,1,1,12,5,0,0
+/global/archives/15462,Thailand,1,1,1,25,5,0,0
+/global/archives/15462,United Kingdom,1,1,1,59,4,0,0
+/global/archives/15490,Belgium,1,1,1,16,5,0,0
+/global/archives/15490,Finland,1,1,1,140,5,0,0
+/global/archives/15490,Germany,1,1,1,0,4,0,0
+/global/archives/15490,Hong Kong,1,1,1,26,5,0,0
+/global/archives/15490,Ireland,1,1,1,49,5,0,0
+/global/archives/15490,Laos,1,1,1,0,4,0,0
+/global/archives/15490,Philippines,1,1,1,0,3,0,0
+/global/archives/15490,Singapore,1,1,1,71,5,0,0
+/global/archives/15490,Spain,1,1,1,41,5,0,0
+/global/archives/15490,United Kingdom,1,1,1,76,5,0,0
+/global/archives/15497,Germany,1,1,1,0,5,0,0
+/global/archives/15497,India,1,1,1,8,3,0,0
+/global/archives/15497,Netherlands,1,1,1,0,4,0,0
+/global/archives/15497,United States,1,1,1,49,5,0,0
+/global/archives/15497,Vietnam,1,1,1,12,3,0,0
+/global/archives/15574,Hong Kong,1,0,0,0,3,0,0
+/global/archives/15592,Germany,1,1,1,8,4,0,0
+/global/archives/15592,Japan,1,1,1,18,5,0,0
+/global/archives/15592,Pakistan,1,1,1,7,3,0,0
+/global/archives/15638,United States,1,1,1,0,5,0,0
+/global/archives/15654,Netherlands,1,1,1,14,5,0,0
+/global/archives/15654,Sweden,1,1,1,19,6,0,0
+/global/archives/15664,France,1,1,1,0,6,0,0
+/global/archives/15664,Hong Kong,1,1,1,0,4,0,0
+/global/archives/15664,Italy,1,1,1,38,4,0,0
+/global/archives/15664,Netherlands,1,1,1,81,6,0,0
+/global/archives/15664,South Africa,1,1,1,59,6,0,0
+/global/archives/15687,Bolivia,1,1,1,58,6,0,0
+/global/archives/15687,Germany,1,1,1,50,6,0,0
+/global/archives/15687,United Arab Emirates,1,1,1,0,2,0,0
+/global/archives/15689,India,1,1,1,18,6,0,0
+/global/archives/15760,Malaysia,1,1,1,20,3,0,0
+/global/archives/15760,South Korea,1,1,1,6,5,0,0
+/global/archives/15865,France,1,1,1,0,3,0,0
+/global/archives/15865,Hong Kong,1,1,1,0,2,0,0
+/global/archives/15865,Sweden,1,1,1,7,3,0,0
+/global/archives/15902,Thailand,1,1,1,2,5,0,0
+/global/archives/15937,Bangladesh,1,0,0,0,3,0,0
+/global/archives/15937,Germany,1,1,1,0,4,0,0
+/global/archives/15937,Ghana,1,1,1,91,6,0,0
+/global/archives/15937,Indonesia,1,1,1,3,3,0,0
+/global/archives/15937,Japan,1,1,1,31,4,0,0
+/global/archives/15937,Nigeria,1,1,1,0,4,0,0
+/global/archives/15937,Philippines,1,1,1,456,5,0,0
+/global/archives/15937,Singapore,1,1,1,161,5,0,0
+/global/archives/15937,Thailand,1,1,1,0,4,0,0
+/global/archives/15964,Malaysia,1,1,1,4,5,0,0
+/global/archives/15985,China,1,1,1,16,5,0,0
+/global/archives/15985,Uzbekistan,1,1,1,2,5,0,0
+/global/archives/16025,South Korea,1,1,1,5,5,0,0
+/global/archives/16025,Taiwan,1,1,1,5,5,0,0
+/global/archives/16041,South Korea,1,1,1,0,5,0,0
+/global/archives/16060,Australia,1,1,1,11,5,0,0
+/global/archives/16060,Canada,1,1,1,37,6,0,0
+/global/archives/16060,Indonesia,1,1,1,1,4,0,0
+/global/archives/16060,Libya,1,1,1,17,5,0,0
+/global/archives/16060,Malaysia,1,1,1,0,4,0,0
+/global/archives/16060,Nigeria,1,1,1,0,4,0,0
+/global/archives/16060,Philippines,1,1,1,69,6,0,0
+/global/archives/16060,South Korea,1,1,1,132,5,0,0
+/global/archives/16060,Thailand,1,1,1,0,4,0,0
+/global/archives/16073,Hungary,1,1,1,6,2,0,0
+/global/archives/16073,Japan,1,1,1,45,4,0,0
+/global/archives/16073,South Korea,1,1,1,5,3,0,0
+/global/archives/16118,Malaysia,1,1,1,6,4,0,0
+/global/archives/16118,Singapore,1,1,1,29,4,0,0
+/global/archives/16131,China,1,1,1,86,3,0,0
+/global/archives/16131,Hong Kong,1,1,1,161,5,0,0
+/global/archives/16131,Japan,1,1,1,10,4,0,0
+/global/archives/16131,Malaysia,1,1,1,0,4,0,0
+/global/archives/16131,Singapore,1,1,1,49,5,0,0
+/global/archives/16131,South Korea,1,1,1,9,7,0,0
+/global/archives/16131,Vietnam,1,1,1,75,5,0,0
+/global/archives/16154,Indonesia,1,1,1,134,5,0,0
+/global/archives/16154,Italy,1,1,1,80,6,0,0
+/global/archives/16154,United States,1,1,1,0,3,0,0
+/global/archives/16154,Vietnam,1,1,1,62,6,0,0
+/global/archives/16169,Australia,1,1,1,0,6,0,0
+/global/archives/16169,Malaysia,1,1,1,77,5,0,0
+/global/archives/16169,Poland,1,1,1,16,5,0,0
+/global/archives/16187,Hungary,1,1,1,26,4,0,0
+/global/archives/16286,China,1,1,1,108,7,0,0
+/global/archives/16286,Hong Kong,1,1,1,1,4,0,0
+/global/archives/16286,Italy,1,1,1,0,4,0,0
+/global/archives/16286,Thailand,1,1,1,15,4,0,0
+/global/archives/16308,Germany,1,1,1,0,3,0,0
+/global/archives/16308,Singapore,1,1,1,0,4,0,0
+/global/archives/16308,South Korea,1,1,1,6,4,0,0
+/global/archives/16334,Russia,1,1,1,0,4,0,0
+/global/archives/16334,Singapore,1,1,1,0,2,0,0
+/global/archives/16334,United States,1,1,1,54,6,0,0
+/global/archives/16376,Austria,1,1,1,52,5,0,0
+/global/archives/16376,China,1,1,1,68,6,0,0
+/global/archives/16376,Indonesia,1,1,1,13,5,0,0
+/global/archives/16376,Norway,1,1,1,8,5,0,0
+/global/archives/16376,Singapore,1,1,1,39,5,0,0
+/global/archives/16376,Spain,1,1,1,0,4,0,0
+/global/archives/16376,Thailand,1,1,1,14,3,0,0
+/global/archives/16405,Japan,1,1,1,103,4,0,0
+/global/archives/16405,United Kingdom,1,1,1,3,4,0,0
+/global/archives/16448,India,1,1,1,30,3,0,0
+/global/archives/16448,Indonesia,1,1,1,10,3,0,0
+/global/archives/16448,Japan,1,1,1,8,5,0,0
+/global/archives/16448,Latvia,1,1,1,2,4,0,0
+/global/archives/16448,Moldova,1,1,1,39,4,0,0
+/global/archives/16448,Ukraine,1,1,1,5,4,0,0
+/global/archives/16448,United Kingdom,1,1,1,0,3,0,0
+/global/archives/16448,United States,1,1,1,15,4,0,0
+/global/archives/16463,France,1,1,1,8,4,0,0
+/global/archives/16463,Germany,1,1,1,73,5,0,0
+/global/archives/16463,Indonesia,1,1,1,20,5,0,0
+/global/archives/16480,China,1,1,1,3,3,0,0
+/global/archives/16480,Japan,1,1,1,17,4,0,0
+/global/archives/16480,Nigeria,1,1,1,6,5,0,0
+/global/archives/16493,Australia,1,1,1,0,2,0,0
+/global/archives/16493,Belgium,1,1,1,209,6,0,0
+/global/archives/16493,Germany,1,1,1,0,5,0,0
+/global/archives/16493,Hong Kong,1,1,1,0,4,0,0
+/global/archives/16493,Singapore,1,1,1,79,5,0,0
+/global/archives/16493,Vietnam,1,1,1,99,5,0,0
+/global/archives/16532,France,1,1,1,2,4,0,0
+/global/archives/16532,Germany,1,1,1,6,5,0,0
+/global/archives/16532,Suriname,1,1,1,63,5,0,0
+/global/archives/16583,Japan,1,1,1,22,4,0,0
+/global/archives/16583,Sweden,1,1,1,221,6,0,0
+/global/archives/16613,Bahrain,1,1,1,2,4,0,0
+/global/archives/16613,Belarus,1,0,0,0,3,0,0
+/global/archives/16613,Dominican Republic,1,0,0,0,3,0,0
+/global/archives/16613,Honduras,1,1,1,0,4,0,0
+/global/archives/16613,Indonesia,1,1,1,3,4,0,0
+/global/archives/16613,Italy,1,1,1,0,4,0,0
+/global/archives/16613,Laos,1,1,1,0,4,0,0
+/global/archives/16613,Lithuania,1,1,1,0,4,0,0
+/global/archives/16613,Portugal,1,1,1,0,4,0,0
+/global/archives/16613,Yemen,1,1,1,0,4,0,0
+/global/archives/16719,France,1,1,1,6,6,0,0
+/global/archives/16719,Taiwan,1,1,1,234,4,0,0
+/global/archives/16719,United States,1,1,1,2,3,0,0
+/global/archives/16738,Hungary,1,1,1,27,4,0,0
+/global/archives/16738,South Korea,1,2,0.5,6,4,0,0
+/global/archives/16787,France,1,1,1,0,4,0,0
+/global/archives/16787,Japan,1,1,1,22,6,0,0
+/global/archives/16787,Lithuania,1,1,1,0,3,0,0
+/global/archives/16787,Netherlands,1,1,1,39,5,0,0
+/global/archives/16787,Qatar,1,1,1,0,4,0,0
+/global/archives/16787,South Korea,1,1,1,0,4,0,0
+/global/archives/16787,United States,1,1,1,0,4,0,0
+/global/archives/16810,France,1,1,1,51,4,0,0
+/global/archives/16834,Denmark,1,1,1,34,5,0,0
+/global/archives/16834,Germany,1,1,1,0,4,0,0
+/global/archives/16834,Mexico,1,1,1,7,6,0,0
+/global/archives/16834,Poland,1,1,1,87,5,0,0
+/global/archives/16834,Saudi Arabia,1,1,1,0,6,0,0
+/global/archives/16834,Slovakia,1,1,1,0,4,0,0
+/global/archives/16834,United Arab Emirates,1,1,1,169,6,0,0
+/global/archives/16881,India,1,1,1,0,4,0,0
+/global/archives/16881,Italy,1,1,1,42,5,0,0
+/global/archives/16904,France,1,1,1,44,6,0,0
+/global/archives/16904,Singapore,1,1,1,64,5,0,0
+/global/archives/16904,Thailand,1,1,1,46,4,0,0
+/global/archives/16904,United Kingdom,1,1,1,31,5,0,0
+/global/archives/16925,Malaysia,1,1,1,0,3,0,0
+/global/archives/16939,Hong Kong,1,1,1,23,4,0,0
+/global/archives/16939,Japan,1,1,1,5,4,0,0
+/global/archives/16952,France,1,1,1,12,5,0,0
+/global/archives/16952,Pakistan,1,1,1,4,4,0,0
+/global/archives/16952,Poland,1,1,1,7,5,0,0
+/global/archives/16952,South Korea,1,1,1,5,5,0,0
+/global/archives/16970,China,1,1,1,303,6,0,0
+/global/archives/16970,Singapore,1,1,1,0,3,0,0
+/global/archives/16970,United Arab Emirates,1,1,1,2,5,0,0
+/global/archives/16980,China,1,1,1,0,3,0,0
+/global/archives/16980,Japan,1,1,1,12,4,0,0
+/global/archives/17010,Japan,1,1,1,6,5,0,0
+/global/archives/17010,Taiwan,1,1,1,44,5,0,0
+/global/archives/17022,Germany,1,1,1,0,3,0,0
+/global/archives/17022,Japan,1,1,1,0,5,0,0
+/global/archives/17022,Netherlands,1,1,1,0,3,0,0
+/global/archives/17022,United States,1,1,1,23,5,0,0
+/global/archives/1703,Singapore,1,1,1,6,4,0,0
+/global/archives/1703,United Kingdom,1,1,1,12,4,0,0
+/global/archives/17047,United Kingdom,1,1,1,18,5,0,0
+/global/archives/17047/4-sk이노베이션_ces2024_sk원더랜드_sk-wonderland_판타스틱아일랜드_1,South Korea,1,1,1,4,5,0,0
+/global/archives/17134,Canada,1,1,1,0,3,0,0
+/global/archives/17134,Germany,1,1,1,0,4,0,0
+/global/archives/17134,South Korea,1,1,1,183,4,0,0
+/global/archives/17134,United Kingdom,1,1,1,144,4,0,0
+/global/archives/17144,Brunei,1,1,1,3,5,0,0
+/global/archives/17144,South Korea,1,1,1,4,5,0,0
+/global/archives/17169,Vietnam,1,1,1,65,6,0,0
+/global/archives/17216,Austria,1,1,1,85,5,0,0
+/global/archives/17216,Belgium,1,1,1,76,4,0,0
+/global/archives/17216,Cambodia,1,1,1,24,5,0,0
+/global/archives/17216,Colombia,1,1,1,5,5,0,0
+/global/archives/17216,Egypt,1,1,1,43,7,0,0
+/global/archives/17216,Jordan,1,1,1,375,5,0,0
+/global/archives/17216,New Zealand,1,1,1,120,5,0,0
+/global/archives/17216,Norway,1,1,1,0,4,0,0
+/global/archives/17216,Russia,1,1,1,7,4,0,0
+/global/archives/17216,Thailand,1,1,1,4,5,0,0
+/global/archives/17292,Poland,1,1,1,6,4,0,0
+/global/archives/17313,Germany,1,1,1,14,5,0,0
+/global/archives/17313,Iraq,1,1,1,0,3,0,0
+/global/archives/17313,Singapore,1,1,1,16,3,0,0
+/global/archives/17313,Switzerland,1,1,1,98,4,0,0
+/global/archives/17313,Thailand,1,1,1,10,4,0,0
+/global/archives/17356,Croatia,1,1,1,0,4,0,0
+/global/archives/17356,Ecuador,1,1,1,63,4,0,0
+/global/archives/17356,Germany,1,1,1,26,5,0,0
+/global/archives/17356,Iraq,1,1,1,0,5,0,0
+/global/archives/17356,Morocco,1,1,1,43,5,0,0
+/global/archives/17356,Philippines,1,1,1,12,5,0,0
+/global/archives/17356,Switzerland,1,1,1,1,4,0,0
+/global/archives/17356,Thailand,1,1,1,7,4,0,0
+/global/archives/17356,Ukraine,1,1,1,17,3,0,0
+/global/archives/17356,United Kingdom,1,1,1,7,5,0,0
+/global/archives/17386,France,1,1,1,0,6,0,0
+/global/archives/17386,Germany,1,1,1,44,5,0,0
+/global/archives/17386,Indonesia,1,1,1,21,5,0,0
+/global/archives/17386,Italy,1,1,1,34,3,0,0
+/global/archives/17426,Bahrain,1,1,1,20,3,0,0
+/global/archives/17426,Belarus,1,1,1,114,5,0,0
+/global/archives/17426,Canada,1,1,1,107,5,0,0
+/global/archives/17426,Cayman Islands,1,1,1,8,5,0,0
+/global/archives/17426,Cyprus,1,1,1,26,5,0,0
+/global/archives/17426,Czechia,1,1,1,30,6,0,0
+/global/archives/17426,Laos,1,1,1,8,5,0,0
+/global/archives/17426,Mauritius,1,1,1,75,3,0,0
+/global/archives/17426,Philippines,1,1,1,33,4,0,0
+/global/archives/17426,Sri Lanka,1,1,1,9,4,0,0
+/global/archives/17426,Sweden,1,1,1,6,4,0,0
+/global/archives/17426,Ukraine,1,1,1,15,4,0,0
+/global/archives/17426,Uzbekistan,1,1,1,214,4,0,0
+/global/archives/17426,Vietnam,1,1,1,12,4,0,0
+/global/archives/1744,Japan,1,1,1,22,5,0,0
+/global/archives/17446,China,1,1,1,8,3,0,0
+/global/archives/17446,Germany,1,1,1,202,3,0,0
+/global/archives/17446,Japan,1,1,1,16,5,0,0
+/global/archives/17446,Singapore,1,1,1,308,3,0,0
+/global/archives/17446,South Korea,1,1,1,14,4,0,0
+/global/archives/17446,United Kingdom,1,1,1,25,5,0,0
+/global/archives/17460,Estonia,1,1,1,0,4,0,0
+/global/archives/17460,India,1,1,1,0,4,0,0
+/global/archives/17460,Indonesia,1,1,1,2,4,0,0
+/global/archives/17460,Singapore,1,1,1,359,4,0,0
+/global/archives/17460,South Korea,1,1,1,3,3,0,0
+/global/archives/17460,United States,1,1,1,20,5,0,0
+/global/archives/17476,Hungary,1,1,1,0,3,0,0
+/global/archives/17499,Algeria,1,1,1,0,6,0,0
+/global/archives/17499,Australia,1,1,1,7,5,0,0
+/global/archives/17499,Cyprus,1,1,1,0,4,0,0
+/global/archives/17499,Georgia,1,1,1,0,4,0,0
+/global/archives/17499,Hong Kong,1,1,1,2,6,0,0
+/global/archives/17499,Israel,1,1,1,85,5,0,0
+/global/archives/17499,Malaysia,1,1,1,60,5,0,0
+/global/archives/17499,Mexico,1,1,1,36,5,0,0
+/global/archives/17499,Oman,1,1,1,50,5,0,0
+/global/archives/17499,Sweden,1,1,1,1204,5,0,0
+/global/archives/17499,Switzerland,1,1,1,41,6,0,0
+/global/archives/17499,Türkiye,1,1,1,23,5,0,0
+/global/archives/17499 /,South Korea,1,1,1,2,6,0,0
+/global/archives/17514,Germany,1,1,1,4,5,0,0
+/global/archives/17514,Hungary,1,1,1,17,2,0,0
+/global/archives/17514,Indonesia,1,1,1,0,4,0,0
+/global/archives/17514,Malaysia,1,1,1,36,5,0,0
+/global/archives/17514,Moldova,1,1,1,0,5,0,0
+/global/archives/17514,Thailand,1,1,1,7,5,0,0
+/global/archives/17514,United States,1,1,1,0,3,0,0
+/global/archives/17569,Brazil,1,1,1,2,4,0,0
+/global/archives/17569,Hong Kong,1,1,1,0,4,0,0
+/global/archives/17595,Canada,1,1,1,34,5,0,0
+/global/archives/17595,China,1,1,1,92,3,0,0
+/global/archives/17595,Croatia,1,1,1,2,5,0,0
+/global/archives/17595,Hong Kong,1,1,1,161,5,0,0
+/global/archives/17595,Hungary,1,1,1,11,7,0,0
+/global/archives/17595,Indonesia,1,1,1,12,5,0,0
+/global/archives/17595,Japan,1,1,1,20,4,0,0
+/global/archives/17595,Spain,1,1,1,2,3,0,0
+/global/archives/17595,Taiwan,1,1,1,209,3,0,0
+/global/archives/17595,Thailand,1,1,1,93,4,0,0
+/global/archives/17595,United Kingdom,1,1,1,3,3,0,0
+/global/archives/17623,Hong Kong,1,1,1,0,3,0,0
+/global/archives/17623,Malaysia,1,1,1,0,6,0,0
+/global/archives/17623,Switzerland,1,1,1,23,5,0,0
+/global/archives/17623,United States,1,1,1,1,4,0,0
+/global/archives/17623,Vietnam,1,1,1,26,6,0,0
+/global/archives/1768,Greece,1,1,1,15,5,0,0
+/global/archives/1768,United Kingdom,1,1,1,16,7,0,0
+/global/archives/1768,United States,1,1,1,27,6,0,0
+/global/archives/17697,India,1,1,1,3,3,0,0
+/global/archives/17737,Hong Kong,1,1,1,0,3,0,0
+/global/archives/17737,United States,1,1,1,150,5,0,0
+/global/archives/17796,Japan,1,1,1,5,4,0,0
+/global/archives/17796,South Korea,1,1,1,5,5,0,0
+/global/archives/17796,United States,1,1,1,224,4,0,0
+/global/archives/17817,Poland,1,1,1,33,6,0,0
+/global/archives/17817,Spain,1,1,1,69,3,0,0
+/global/archives/17817,Sweden,1,1,1,3,4,0,0
+/global/archives/17817,United Kingdom,1,1,1,0,5,0,0
+/global/archives/17844,Germany,1,1,1,10,3,0,0
+/global/archives/17844,Lithuania,1,1,1,0,3,0,0
+/global/archives/17844,Pakistan,1,1,1,0,3,0,0
+/global/archives/17844,Romania,1,1,1,0,3,0,0
+/global/archives/17844,Singapore,1,1,1,4,3,0,0
+/global/archives/17844,Switzerland,1,1,1,15,4,0,0
+/global/archives/17863,Austria,1,1,1,233,4,0,0
+/global/archives/17863,Japan,1,1,1,125,4,0,0
+/global/archives/17863,Morocco,1,1,1,9,7,0,0
+/global/archives/17893,China,1,1,1,0,4,0,0
+/global/archives/17893,Hungary,1,1,1,36,3,0,0
+/global/archives/17893,India,1,1,1,121,6,0,0
+/global/archives/17893,Japan,1,1,1,12,5,0,0
+/global/archives/17893,Singapore,1,1,1,199,6,0,0
+/global/archives/17893,Slovakia,1,1,1,60,5,0,0
+/global/archives/17893,Vietnam,1,1,1,0,2,0,0
+/global/archives/17950,Canada,1,1,1,16,4,0,0
+/global/archives/17950,Finland,1,1,1,19,4,0,0
+/global/archives/17950,Malaysia,1,1,1,18,5,0,0
+/global/archives/17950,Netherlands,1,1,1,26,5,0,0
+/global/archives/17950,Türkiye,1,1,1,0,4,0,0
+/global/archives/17965,Hong Kong,1,1,1,408,4,0,0
+/global/archives/17965,Japan,1,1,1,20,4,0,0
+/global/archives/17965,Thailand,1,1,1,32,4,0,0
+/global/archives/17978,Canada,1,1,1,67,4,0,0
+/global/archives/17978,China,1,1,1,99,4,0,0
+/global/archives/17978,Hong Kong,1,1,1,133,4,0,0
+/global/archives/17978,India,1,1,1,10,4,0,0
+/global/archives/17978,Italy,1,0,0,0,3,0,0
+/global/archives/17978,Japan,1,1,1,0,4,0,0
+/global/archives/17978,United States,1,1,1,5,4,0,0
+/global/archives/17989,Australia,1,1,1,35,4,0,0
+/global/archives/17989,Hungary,1,1,1,21,2,0,0
+/global/archives/17989,Netherlands,1,1,1,71,4,0,0
+/global/archives/17989,Romania,1,1,1,1,3,0,0
+/global/archives/17989,Singapore,1,1,1,0,4,0,0
+/global/archives/17989,Taiwan,1,1,1,8,6,0,0
+/global/archives/17989,United Arab Emirates,1,1,1,16,4,0,0
+/global/archives/17990,Canada,1,1,1,63,4,0,0
+/global/archives/17990,China,1,1,1,550,6,0,0
+/global/archives/17990,France,1,0,0,0,2,0,0
+/global/archives/17990,Indonesia,1,1,1,10,7,0,0
+/global/archives/17990,Malaysia,1,1,1,109,5,0,0
+/global/archives/17990,United Kingdom,1,1,1,0,5,0,0
+/global/archives/18022,Belgium,1,1,1,20,5,0,0
+/global/archives/18022,Hong Kong,1,1,1,0,3,0,0
+/global/archives/18022,Romania,1,1,1,2,5,0,0
+/global/archives/18022,Sweden,1,1,1,37,6,0,0
+/global/archives/18022,United Kingdom,1,1,1,25,5,0,0
+/global/archives/18022,United States,1,1,1,121,5,0,0
+/global/archives/18065,Australia,1,1,1,4,5,0,0
+/global/archives/18065,Moldova,1,1,1,0,3,0,0
+/global/archives/18065,Netherlands,1,1,1,33,4,0,0
+/global/archives/18065,Russia,1,1,1,36,3,0,0
+/global/archives/18065,Sweden,1,1,1,4,4,0,0
+/global/archives/18065,Ukraine,1,1,1,6,4,0,0
+/global/archives/18076,France,1,1,1,17,4,0,0
+/global/archives/18076,Philippines,1,1,1,76,5,0,0
+/global/archives/18076,United States,1,1,1,262,4,0,0
+/global/archives/18107,Belgium,1,1,1,23,5,0,0
+/global/archives/18107,China,1,1,1,7,2,0,0
+/global/archives/18107,Germany,1,1,1,22,4,0,0
+/global/archives/18107,Greece,1,1,1,17,5,0,0
+/global/archives/18107,Hungary,1,1,1,177,4,0,0
+/global/archives/18107,Italy,1,1,1,129,5,0,0
+/global/archives/18107,Maldives,1,1,1,8,7,0,0
+/global/archives/18107,Netherlands,1,1,1,92,4,0,0
+/global/archives/18107,Pakistan,1,1,1,115,5,0,0
+/global/archives/18107,Philippines,1,1,1,44,5,0,0
+/global/archives/18107,Poland,1,1,1,171,4,0,0
+/global/archives/18107,Qatar,1,1,1,4,4,0,0
+/global/archives/18107,Saudi Arabia,1,1,1,0,4,0,0
+/global/archives/18107,Spain,1,1,1,164,6,0,0
+/global/archives/18107,Switzerland,1,1,1,0,6,0,0
+/global/archives/18107,Türkiye,1,1,1,155,6,0,0
+/global/archives/18107,United Arab Emirates,1,1,1,0,4,0,0
+/global/archives/18107,Vietnam,1,1,1,45,6,0,0
+/global/archives/18140,Belgium,1,1,1,1,3,0,0
+/global/archives/18140,France,1,1,1,536,5,0,0
+/global/archives/18140,Hong Kong,1,1,1,0,3,0,0
+/global/archives/18140,Indonesia,1,1,1,0,5,0,0
+/global/archives/18140,Malaysia,1,1,1,0,4,0,0
+/global/archives/18140,Thailand,1,1,1,32,4,0,0
+/global/archives/18167,France,1,1,1,656,4,0,0
+/global/archives/18167,Romania,1,1,1,1,3,0,0
+/global/archives/18208,China,1,1,1,28,2,0,0
+/global/archives/18208,France,1,1,1,146,4,0,0
+/global/archives/18208,Malaysia,1,1,1,49,6,0,0
+/global/archives/18208,Netherlands,1,1,1,113,6,0,0
+/global/archives/18208,Peru,1,1,1,11,5,0,0
+/global/archives/18208,Poland,1,1,1,180,5,0,0
+/global/archives/18208,Singapore,1,1,1,11,5,0,0
+/global/archives/18208,Thailand,1,1,1,181,5,0,0
+/global/archives/18208,Vietnam,1,1,1,0,4,0,0
+/global/archives/18268,Finland,1,1,1,0,4,0,0
+/global/archives/18268,France,1,1,1,0,4,0,0
+/global/archives/18268,India,1,1,1,2,4,0,0
+/global/archives/18268,Japan,1,1,1,99,4,0,0
+/global/archives/18268,Spain,1,1,1,0,3,0,0
+/global/archives/18283,Australia,1,1,1,0,4,0,0
+/global/archives/18283,Bahrain,1,1,1,0,4,0,0
+/global/archives/18283,Czechia,1,1,1,0,4,0,0
+/global/archives/18283,Georgia,1,0,0,0,3,0,0
+/global/archives/18283,Guatemala,1,1,1,6,5,0,0
+/global/archives/18283,Hungary,1,1,1,34,6,0,0
+/global/archives/18283,Ireland,1,1,1,16,5,0,0
+/global/archives/18283,Malaysia,1,2,0.5,1.5,4,0,0
+/global/archives/18283,Mexico,1,1,1,0,5,0,0
+/global/archives/18283,North Macedonia,1,1,1,0,4,0,0
+/global/archives/18283,Oman,1,1,1,0,4,0,0
+/global/archives/18283,Pakistan,1,1,1,12,5,0,0
+/global/archives/18283,Philippines,1,1,1,6,3,0,0
+/global/archives/18283,Slovakia,1,1,1,96,5,0,0
+/global/archives/18283,Yemen,1,1,1,0,3,0,0
+/global/archives/18301,Australia,1,1,1,0,3,0,0
+/global/archives/18301,Belgium,1,1,1,0,4,0,0
+/global/archives/18301,Brazil,1,1,1,101,6,0,0
+/global/archives/18301,Canada,1,1,1,0,6,0,0
+/global/archives/18301,China,1,1,1,27,2,0,0
+/global/archives/18301,Hong Kong,1,1,1,0,4,0,0
+/global/archives/18301,Hungary,1,1,1,118,4,0,0
+/global/archives/18301,Singapore,1,1,1,35,5,0,0
+/global/archives/18301,Türkiye,1,1,1,0,4,0,0
+/global/archives/18301,Uzbekistan,1,1,1,72,6,0,0
+/global/archives/18332,China,1,1,1,30,2,0,0
+/global/archives/18332,Indonesia,1,1,1,115,5,0,0
+/global/archives/18332,Serbia,1,1,1,0,4,0,0
+/global/archives/18361,Hungary,1,1,1,183,4,0,0
+/global/archives/18361,Ireland,1,1,1,18,5,0,0
+/global/archives/18361,Italy,1,1,1,9,4,0,0
+/global/archives/18361,Japan,1,1,1,162,4,0,0
+/global/archives/18361,Malaysia,1,2,0.5,2.5,4,0,0
+/global/archives/18361,Peru,1,1,1,18,6,0,0
+/global/archives/18361,Philippines,1,1,1,0,4,0,0
+/global/archives/18361,Romania,1,1,1,1,3,0,0
+/global/archives/18361,Russia,1,1,1,0,4,0,0
+/global/archives/18361,Switzerland,1,1,1,31,5,0,0
+/global/archives/18361,United Arab Emirates,1,1,1,1,5,0,0
+/global/archives/18374,Australia,1,1,1,0,4,0,0
+/global/archives/18374,China,1,1,1,29,2,0,0
+/global/archives/18374,Hungary,1,1,1,0,5,0,0
+/global/archives/18374,Netherlands,1,1,1,2,4,0,0
+/global/archives/18374,United Arab Emirates,1,0,0,0,3,0,0
+/global/archives/1903,Japan,1,1,1,59,3,0,0
+/global/archives/1903,United Kingdom,1,1,1,22,5,0,0
+/global/archives/1960,Belgium,1,1,1,0,4,0,0
+/global/archives/1960,Singapore,1,1,1,3,5,0,0
+/global/archives/2026,South Korea,1,1,1,14,6,0,0
+/global/archives/2050,South Korea,1,1,1,22,5,0,0
+/global/archives/2241,Singapore,1,1,1,20,6,0,0
+/global/archives/2241,South Korea,1,1,1,3,4,0,0
+/global/archives/2241,Thailand,1,1,1,24,6,0,0
+/global/archives/2280,Germany,1,1,1,36,4,0,0
+/global/archives/2280,Poland,1,1,1,79,6,0,0
+/global/archives/2329,Japan,1,1,1,45,4,0,0
+/global/archives/2448,Indonesia,1,1,1,0,6,0,0
+/global/archives/2490,India,1,1,1,0,4,0,0
+/global/archives/2490,South Korea,1,1,1,2,5,0,0
+/global/archives/253,India,1,1,1,54,5,0,0
+/global/archives/253,Indonesia,1,1,1,18,5,0,0
+/global/archives/253,South Korea,1,1,1,5,5,0,0
+/global/archives/2535,Poland,1,1,1,33,5,0,0
+/global/archives/255,India,1,1,1,65,5,0,0
+/global/archives/255,United States,1,1,1,42,5,0,0
+/global/archives/2568,United States,1,1,1,11,4,0,0
+/global/archives/2576,Saudi Arabia,1,1,1,15,3,0,0
+/global/archives/2675,South Korea,1,1,1,88,4,0,0
+/global/archives/2701,South Korea,1,1,1,92,4,0,0
+/global/archives/2756,United States,1,1,1,46,6,0,0
+/global/archives/2837,Singapore,1,1,1,43,6,0,0
+/global/archives/2860,Hong Kong,1,1,1,15,5,0,0
+/global/archives/295,United States,1,1,1,42,5,0,0
+/global/archives/2964,China,1,1,1,35,6,0,0
+/global/archives/298,Thailand,1,1,1,9,5,0,0
+/global/archives/3005,Canada,1,1,1,0,4,0,0
+/global/archives/3005,Hong Kong,1,1,1,0,4,0,0
+/global/archives/3005,South Korea,1,1,1,0,6,0,0
+/global/archives/303,South Korea,1,1,1,3,4,0,0
+/global/archives/303,United Kingdom,1,1,1,17,5,0,0
+/global/archives/3085,Peru,1,1,1,11,5,0,0
+/global/archives/311,Brazil,1,1,1,162,6,0,0
+/global/archives/3123,Chile,1,1,1,0,6,0,0
+/global/archives/3123,Portugal,1,1,1,1,5,0,0
+/global/archives/3177,Myanmar (Burma),1,1,1,13,4,0,0
+/global/archives/3197,Hong Kong,1,1,1,12,5,0,0
+/global/archives/3197,Russia,1,1,1,66,6,0,0
+/global/archives/3197,United States,1,1,1,36,4,0,0
+/global/archives/3220,South Korea,1,1,1,0,5,0,0
+/global/archives/3269,Ireland,1,1,1,2,5,0,0
+/global/archives/3393,Germany,1,1,1,351,5,0,0
+/global/archives/3464,India,1,1,1,22,3,0,0
+/global/archives/3464,Japan,1,1,1,1,5,0,0
+/global/archives/3464,United Kingdom,1,0,0,0,3,0,0
+/global/archives/3473,Canada,1,1,1,122,6,0,0
+/global/archives/349,Malaysia,1,1,1,130,6,0,0
+/global/archives/3518,China,1,1,1,0,1,0,0
+/global/archives/3661,France,1,1,1,20,6,0,0
+/global/archives/3674,India,1,1,1,5,4,0,0
+/global/archives/3674,Japan,1,1,1,164,5,0,0
+/global/archives/3674,Netherlands,1,1,1,11,5,0,0
+/global/archives/3674,Singapore,1,1,1,20,4,0,0
+/global/archives/3674,United States,1,1,1,39,4,0,0
+/global/archives/3709,China,1,1,1,0,3,0,0
+/global/archives/3709,Hong Kong,1,1,1,15,5,0,0
+/global/archives/3709,India,1,1,1,64,7,0,0
+/global/archives/3709,Taiwan,1,1,1,19,4,0,0
+/global/archives/371,South Korea,1,1,1,0,4,0,0
+/global/archives/3772,Austria,1,1,1,21,5,0,0
+/global/archives/3786,India,1,1,1,53,7,0,0
+/global/archives/3786,Singapore,1,1,1,25,4,0,0
+/global/archives/3820,Netherlands,1,1,1,4,5,0,0
+/global/archives/3820,Philippines,1,1,1,11,5,0,0
+/global/archives/3820,Slovakia,1,1,1,0,4,0,0
+/global/archives/3820,Sweden,1,1,1,82,6,0,0
+/global/archives/3820: 3 mal SK Innovation to Significantly Expands Battery Production Capacity in China... Approved the Division of Battery Business - ETNews,Germany,1,1,1,0,3,0,0
+/global/archives/3830,Malaysia,1,1,1,117,5,0,0
+/global/archives/3873,Malaysia,1,1,1,0,4,0,0
+/global/archives/3945,United States,1,1,1,76,5,0,0
+/global/archives/3962,Colombia,1,1,1,13,6,0,0
+/global/archives/3962,Germany,1,1,1,72,5,0,0
+/global/archives/3962,Hong Kong,1,1,1,24,5,0,0
+/global/archives/3962,India,1,1,1,152,5,0,0
+/global/archives/3962,Japan,1,1,1,13,4,0,0
+/global/archives/3962,Philippines,1,1,1,73,5,0,0
+/global/archives/3962,Spain,1,1,1,8,5,0,0
+/global/archives/3962,Taiwan,1,1,1,25,5,0,0
+/global/archives/3962,Thailand,1,1,1,19,6,0,0
+/global/archives/4002,United States,1,1,1,23,6,0,0
+/global/archives/401,China,1,1,1,30,6,0,0
+/global/archives/4086,India,1,1,1,18,5,0,0
+/global/archives/4110,Singapore,1,1,1,21,5,0,0
+/global/archives/4121,France,1,1,1,16,4,0,0
+/global/archives/4146,United States,1,1,1,4,5,0,0
+/global/archives/417,United States,1,1,1,71,4,0,0
+/global/archives/4193,Belgium,1,1,1,15,5,0,0
+/global/archives/4193,South Korea,1,1,1,20,5,0,0
+/global/archives/4218,Hong Kong,1,1,1,35,3,0,0
+/global/archives/4218,Taiwan,1,1,1,8,3,0,0
+/global/archives/4255,South Korea,1,1,1,11,5,0,0
+/global/archives/4308,Hong Kong,1,1,1,3,3,0,0
+/global/archives/4308,Pakistan,1,1,1,15,6,0,0
+/global/archives/4308,United Kingdom,1,1,1,6,5,0,0
+/global/archives/4308,United States,1,1,1,89,6,0,0
+/global/archives/4309,Japan,1,1,1,160,6,0,0
+/global/archives/4360,Australia,1,1,1,41,6,0,0
+/global/archives/4360,Jordan,1,1,1,315,5,0,0
+/global/archives/4360,Vietnam,1,1,1,0,6,0,0
+/global/archives/4450,South Korea,1,1,1,17,5,0,0
+/global/archives/4482,Austria,1,1,1,0,5,0,0
+/global/archives/4482,New Zealand,1,1,1,4,3,0,0
+/global/archives/4482,Singapore,1,1,1,40,5,0,0
+/global/archives/4482,South Korea,1,0,0,0,3,0,0
+/global/archives/4482,Thailand,1,1,1,13,5,0,0
+/global/archives/4499,Brunei,1,1,1,8,5,0,0
+/global/archives/4499,Ghana,1,1,1,24,6,0,0
+/global/archives/4499,India,1,1,1,0,4,0,0
+/global/archives/4499,Iraq,1,1,1,11,5,0,0
+/global/archives/4499,Malaysia,1,1,1,50,6,0,0
+/global/archives/4499,Myanmar (Burma),1,1,1,54,5,0,0
+/global/archives/4499,Russia,1,1,1,20,5,0,0
+/global/archives/4499,Singapore,1,1,1,14,6,0,0
+/global/archives/4499,Thailand,1,1,1,0,6,0,0
+/global/archives/4499,Tunisia,1,1,1,29,5,0,0
+/global/archives/4499,Uzbekistan,1,1,1,51,6,0,0
+/global/archives/4499,Yemen,1,1,1,64,6,0,0
+/global/archives/4518,Canada,1,1,1,55,5,0,0
+/global/archives/4518,Germany,1,1,1,0,5,0,0
+/global/archives/4518,Japan,1,1,1,193,5,0,0
+/global/archives/4518,Malaysia,1,1,1,0,6,0,0
+/global/archives/4518,North Macedonia,1,1,1,92,4,0,0
+/global/archives/4518,Spain,1,1,1,16,4,0,0
+/global/archives/4518,United States,1,1,1,0,6,0,0
+/global/archives/4569,India,1,1,1,0,4,0,0
+/global/archives/4585,Germany,1,1,1,0,5,0,0
+/global/archives/4585,Singapore,1,1,1,0,6,0,0
+/global/archives/4585,United States,1,1,1,9,5,0,0
+/global/archives/4612,Singapore,1,1,1,5,5,0,0
+/global/archives/4612,Switzerland,1,1,1,35,5,0,0
+/global/archives/4612,United Arab Emirates,1,1,1,26,7,0,0
+/global/archives/4751,Japan,1,1,1,42,6,0,0
+/global/archives/4751,United Kingdom,1,1,1,341,5,0,0
+/global/archives/4776,Taiwan,1,1,1,36,6,0,0
+/global/archives/4793,Russia,1,1,1,0,6,0,0
+/global/archives/4793,South Korea,1,1,1,0,4,0,0
+/global/archives/4793,Thailand,1,1,1,0,4,0,0
+/global/archives/4812,South Korea,1,1,1,58,6,0,0
+/global/archives/4844,Hong Kong,1,1,1,4,5,0,0
+/global/archives/4844,Japan,1,1,1,23,3,0,0
+/global/archives/4844,United Kingdom,1,1,1,105,5,0,0
+/global/archives/489,France,1,1,1,0,4,0,0
+/global/archives/489,India,1,1,1,9,5,0,0
+/global/archives/489,Indonesia,1,1,1,10,3,0,0
+/global/archives/489,Portugal,1,1,1,2,5,0,0
+/global/archives/489,South Korea,1,1,1,41,5,0,0
+/global/archives/489,United Kingdom,1,1,1,0,4,0,0
+/global/archives/489,United States,1,1,1,0,4,0,0
+/global/archives/4921,India,1,1,1,58,3,0,0
+/global/archives/4921,Saudi Arabia,1,1,1,106,9,0,0
+/global/archives/497,Hong Kong,1,1,1,0,6,0,0
+/global/archives/5016,South Korea,1,1,1,1,5,0,0
+/global/archives/5016,Taiwan,1,1,1,26,6,0,0
+/global/archives/5040,Germany,1,1,1,0,3,0,0
+/global/archives/5040,Poland,1,1,1,13,5,0,0
+/global/archives/5040,United States,1,1,1,0,4,0,0
+/global/archives/507,United States,1,1,1,38,5,0,0
+/global/archives/5119,Taiwan,1,1,1,1,4,0,0
+/global/archives/5129,Germany,1,1,1,24,5,0,0
+/global/archives/5129,Singapore,1,0,0,0,3,0,0
+/global/archives/5146,Poland,1,1,1,5,6,0,0
+/global/archives/5205,United States,1,1,1,17,6,0,0
+/global/archives/521,South Korea,1,1,1,21,3,0,0
+/global/archives/5234,South Korea,1,1,1,7,5,0,0
+/global/archives/5247,Germany,1,1,1,0,3,0,0
+/global/archives/528,United States,1,1,1,13,5,0,0
+/global/archives/5288,Hong Kong,1,1,1,10,5,0,0
+/global/archives/5310,United States,1,1,1,0,4,0,0
+/global/archives/5339,France,1,1,1,19,5,0,0
+/global/archives/5339,Indonesia,1,1,1,38,5,0,0
+/global/archives/5339,Singapore,1,1,1,96,5,0,0
+/global/archives/5357,United Arab Emirates,1,1,1,0,4,0,0
+/global/archives/5404,France,1,1,1,0,4,0,0
+/global/archives/5404,Germany,1,1,1,33,6,0,0
+/global/archives/5404,Laos,1,1,1,44,4,0,0
+/global/archives/5404,Netherlands,1,1,1,10,5,0,0
+/global/archives/5404,Singapore,1,1,1,0,4,0,0
+/global/archives/542,Romania,1,1,1,0,4,0,0
+/global/archives/542,South Korea,1,1,1,34,5,0,0
+/global/archives/5609,India,1,1,1,14,5,0,0
+/global/archives/5651,France,1,1,1,1,4,0,0
+/global/archives/5651,Japan,1,1,1,1,5,0,0
+/global/archives/5651,United Kingdom,1,1,1,0,5,0,0
+/global/archives/5750,Israel,1,1,1,2,5,0,0
+/global/archives/5772,United Kingdom,1,1,1,30,6,0,0
+/global/archives/5892,Austria,1,1,1,4,4,0,0
+/global/archives/5892,Germany,1,1,1,0,2,0,0
+/global/archives/5892,India,1,1,1,9,4,0,0
+/global/archives/5892,Indonesia,1,1,1,46,6,0,0
+/global/archives/5892,Japan,1,1,1,69,5,0,0
+/global/archives/5892,Lithuania,1,1,1,0,4,0,0
+/global/archives/5892,Pakistan,1,1,1,58,5,0,0
+/global/archives/5893,India,1,1,1,23,3,0,0
+/global/archives/5893,South Korea,1,1,1,49,4,0,0
+/global/archives/5893,United Kingdom,1,1,1,55,4,0,0
+/global/archives/5893,United States,1,1,1,10,3,0,0
+/global/archives/5944,Lesotho,1,1,1,48,5,0,0
+/global/archives/5944,New Zealand,1,1,1,207,6,0,0
+/global/archives/5944,Peru,1,1,1,0,6,0,0
+/global/archives/5944,United Kingdom,1,1,1,43,5,0,0
+/global/archives/5981,South Korea,1,1,1,3,4,0,0
+/global/archives/5981,United States,1,1,1,148,4,0,0
+/global/archives/6014,India,1,1,1,219,4,0,0
+/global/archives/6014,Italy,1,1,1,8,4,0,0
+/global/archives/6014,South Korea,1,1,1,13,6,0,0
+/global/archives/6072,China,1,1,1,18,3,0,0
+/global/archives/6072,South Korea,1,1,1,14,4,0,0
+/global/archives/6072,Vietnam,1,1,1,5,6,0,0
+/global/archives/6150,China,1,1,1,1,6,0,0
+/global/archives/6150,Germany,1,1,1,133,5,0,0
+/global/archives/6150,India,1,1,1,10,5,0,0
+/global/archives/6150,United States,1,1,1,2,5,0,0
+/global/archives/6216,Austria,1,1,1,0,4,0,0
+/global/archives/6216,Netherlands,1,1,1,0,4,0,0
+/global/archives/6216,Norway,1,1,1,13,4,0,0
+/global/archives/6216,Oman,1,1,1,0,6,0,0
+/global/archives/6216,Singapore,1,1,1,27,6,0,0
+/global/archives/6216,Taiwan,1,1,1,11,5,0,0
+/global/archives/6216,Thailand,1,1,1,0,4,0,0
+/global/archives/6216,Vietnam,1,1,1,8,5,0,0
+/global/archives/6253,South Korea,1,1,1,20,6,0,0
+/global/archives/6276,Thailand,1,1,1,59,4,0,0
+/global/archives/631,South Korea,1,1,1,3,5,0,0
+/global/archives/6313,Czechia,1,0,0,0,3,0,0
+/global/archives/6313,Germany,1,1,1,11,5,0,0
+/global/archives/6313,India,1,1,1,0,4,0,0
+/global/archives/6313,Ukraine,1,1,1,6,6,0,0
+/global/archives/6313,United States,1,1,1,26,5,0,0
+/global/archives/6323,United States,1,1,1,1,5,0,0
+/global/archives/6343,Indonesia,1,1,1,72,5,0,0
+/global/archives/6343,Malaysia,1,1,1,121,7,0,0
+/global/archives/6343,Saudi Arabia,1,1,1,80,7,0,0
+/global/archives/6343,South Korea,1,1,1,11,5,0,0
+/global/archives/6343,Thailand,1,1,1,10,5,0,0
+/global/archives/6377,Indonesia,1,1,1,59,5,0,0
+/global/archives/6377,Pakistan,1,1,1,2,4,0,0
+/global/archives/6377,United States,1,1,1,0,4,0,0
+/global/archives/6377,Vietnam,1,1,1,50,5,0,0
+/global/archives/638,United States,1,1,1,13,6,0,0
+/global/archives/6394,South Korea,1,1,1,11,3,0,0
+/global/archives/6436,Poland,1,1,1,9,5,0,0
+/global/archives/6462,France,1,1,1,26,5,0,0
+/global/archives/6462,South Korea,1,1,1,12,5,0,0
+/global/archives/6462,Sweden,1,1,1,313,7,0,0
+/global/archives/6462,Taiwan,1,1,1,1,4,0,0
+/global/archives/6462,United Kingdom,1,1,1,3,5,0,0
+/global/archives/648,India,1,1,1,0,4,0,0
+/global/archives/648,United States,1,1,1,10,5,0,0
+/global/archives/648,Yemen,1,1,1,20,6,0,0
+/global/archives/6517,Japan,1,1,1,32,5,0,0
+/global/archives/6517,Poland,1,1,1,70,6,0,0
+/global/archives/653,Hungary,1,1,1,38,6,0,0
+/global/archives/653,New Zealand,1,1,1,0,2,0,0
+/global/archives/6546,Hong Kong,1,1,1,28,5,0,0
+/global/archives/6559,Singapore,1,1,1,12,5,0,0
+/global/archives/6606,United States,1,1,1,54,5,0,0
+/global/archives/6623,Hungary,1,1,1,6,3,0,0
+/global/archives/6658,Japan,1,1,1,9,5,0,0
+/global/archives/6658,South Korea,1,1,1,12,5,0,0
+/global/archives/6710,Hong Kong,1,1,1,28,4,0,0
+/global/archives/6760,France,1,1,1,22,5,0,0
+/global/archives/6760,Singapore,1,1,1,6,5,0,0
+/global/archives/6807,Hong Kong,1,1,1,50,4,0,0
+/global/archives/6807,Japan,1,1,1,112,5,0,0
+/global/archives/6807,Malaysia,1,1,1,0,6,0,0
+/global/archives/6807,Thailand,1,1,1,0,4,0,0
+/global/archives/6807,Vietnam,1,1,1,78,4,0,0
+/global/archives/6824,Japan,1,1,1,0,3,0,0
+/global/archives/6824,South Korea,1,1,1,0,3,0,0
+/global/archives/6834,South Korea,1,1,1,25,5,0,0
+/global/archives/6870,India,1,1,1,0,2,0,0
+/global/archives/6971,India,1,1,1,19,4,0,0
+/global/archives/7031,Australia,1,1,1,0,4,0,0
+/global/archives/7043,Vietnam,1,1,1,0,3,0,0
+/global/archives/7078,United Kingdom,1,1,1,7,5,0,0
+/global/archives/7099,South Korea,1,1,1,123,4,0,0
+/global/archives/7112,India,1,1,1,0,6,0,0
+/global/archives/7125,South Korea,1,1,1,0,5,0,0
+/global/archives/7168,South Korea,1,1,1,91,3,0,0
+/global/archives/7177,France,1,1,1,0,2,0,0
+/global/archives/7177,Paraguay,1,1,1,8,5,0,0
+/global/archives/7177,United States,1,1,1,0,3,0,0
+/global/archives/7215,India,1,1,1,0,2,0,0
+/global/archives/7215,United Kingdom,1,1,1,11,5,0,0
+/global/archives/7245,China,1,1,1,20,4,0,0
+/global/archives/7245,Germany,1,1,1,24,4,0,0
+/global/archives/7245,Singapore,1,1,1,0,6,0,0
+/global/archives/7292,Canada,1,1,1,0,3,0,0
+/global/archives/7292,Japan,1,1,1,18,6,0,0
+/global/archives/7292,Netherlands,1,1,1,40,6,0,0
+/global/archives/7292,United Kingdom,1,1,1,141,5,0,0
+/global/archives/7302,Japan,1,1,1,230,6,0,0
+/global/archives/7319,India,1,1,1,8,3,0,0
+/global/archives/7319,Singapore,1,1,1,97,3,0,0
+/global/archives/733,Morocco,1,1,1,19,5,0,0
+/global/archives/733,Spain,1,1,1,33,6,0,0
+/global/archives/736,Germany,1,1,1,0,5,0,0
+/global/archives/736,United Kingdom,1,1,1,3,3,0,0
+/global/archives/736,United States,1,1,1,0,4,0,0
+/global/archives/7445,Egypt,1,1,1,3,4,0,0
+/global/archives/7445,Hungary,1,1,1,0,4,0,0
+/global/archives/7445,Indonesia,1,1,1,9,4,0,0
+/global/archives/7445,Pakistan,1,1,1,594,4,0,0
+/global/archives/7445,Singapore,1,1,1,4,5,0,0
+/global/archives/7445,Spain,1,1,1,19,4,0,0
+/global/archives/7445,Türkiye,1,1,1,0,4,0,0
+/global/archives/7522,Japan,1,1,1,45,3,0,0
+/global/archives/7522,South Korea,1,1,1,15,6,0,0
+/global/archives/7544,Germany,1,1,1,0,5,0,0
+/global/archives/7574,India,1,0,0,0,5,0,0
+/global/archives/7574,South Korea,1,1,1,1,4,0,0
+/global/archives/7574,Thailand,1,1,1,41,5,0,0
+/global/archives/7596,Germany,1,1,1,19,5,0,0
+/global/archives/7633,United Kingdom,1,1,1,0,6,0,0
+/global/archives/7670,Japan,1,1,1,0,2,0,0
+/global/archives/7710,India,1,1,1,17,4,0,0
+/global/archives/7710,Vietnam,1,1,1,0,4,0,0
+/global/archives/7740,Singapore,1,1,1,14,5,0,0
+/global/archives/7740,United States,1,1,1,0,4,0,0
+/global/archives/7740,Vietnam,1,1,1,44,5,0,0
+/global/archives/7761,Germany,1,1,1,22,5,0,0
+/global/archives/7761,Japan,1,1,1,7,5,0,0
+/global/archives/7761,South Korea,1,1,1,0,4,0,0
+/global/archives/7784,South Korea,1,1,1,0,6,0,0
+/global/archives/7794,United States,1,1,1,0,4,0,0
+/global/archives/7848,Thailand,1,1,1,34,6,0,0
+/global/archives/7906,Singapore,1,1,1,2,4,0,0
+/global/archives/7919,Hong Kong,1,1,1,0,4,0,0
+/global/archives/7919,United States,1,1,1,0,3,0,0
+/global/archives/7961,United Arab Emirates,1,1,1,23,5,0,0
+/global/archives/7979,United Kingdom,1,1,1,0,4,0,0
+/global/archives/7991,Japan,1,1,1,6,5,0,0
+/global/archives/7991,Singapore,1,1,1,1,4,0,0
+/global/archives/7991,South Korea,1,1,1,16,5,0,0
+/global/archives/7991,United States,1,1,1,17,6,0,0
+/global/archives/8046,France,1,1,1,18,5,0,0
+/global/archives/8046,Netherlands,1,1,1,0,4,0,0
+/global/archives/8046,United States,1,1,1,0,6,0,0
+/global/archives/8046,Uzbekistan,1,1,1,40,4,0,0
+/global/archives/8067,France,1,1,1,2,4,0,0
+/global/archives/8067,Hong Kong,1,1,1,0,2,0,0
+/global/archives/8067,Thailand,1,1,1,21,3,0,0
+/global/archives/8067,United Kingdom,1,1,1,36,4,0,0
+/global/archives/8087,Japan,1,1,1,40,6,0,0
+/global/archives/8087,South Korea,1,1,1,1,3,0,0
+/global/archives/8105,United States,1,1,1,0,3,0,0
+/global/archives/8152,Malaysia,1,1,1,27,6,0,0
+/global/archives/8152,Portugal,1,1,1,48,5,0,0
+/global/archives/8197,Singapore,1,1,1,5,4,0,0
+/global/archives/822,Canada,1,1,1,0,6,0,0
+/global/archives/822,France,1,1,1,0,6,0,0
+/global/archives/822,Germany,1,1,1,3,5,0,0
+/global/archives/822,New Zealand,1,1,1,98,4,0,0
+/global/archives/822,Slovakia,1,1,1,0,4,0,0
+/global/archives/822,Sweden,1,1,1,0,5,0,0
+/global/archives/822,Thailand,1,1,1,5,4,0,0
+/global/archives/822,Türkiye,1,1,1,10,5,0,0
+/global/archives/8230,Japan,1,1,1,20,3,0,0
+/global/archives/8255,India,1,1,1,42,5,0,0
+/global/archives/8255,Philippines,1,1,1,0,4,0,0
+/global/archives/8298,India,1,1,1,5,5,0,0
+/global/archives/831,Malaysia,1,1,1,0,4,0,0
+/global/archives/8310,Hong Kong,1,1,1,0,3,0,0
+/global/archives/8350,China,1,1,1,35,4,0,0
+/global/archives/8350,Germany,1,1,1,0,3,0,0
+/global/archives/8350,South Korea,1,1,1,0,4,0,0
+/global/archives/8350,Sweden,1,1,1,0,5,0,0
+/global/archives/8360,Japan,1,1,1,93,6,0,0
+/global/archives/8360,Thailand,1,1,1,75,6,0,0
+/global/archives/8383,Germany,1,1,1,12,4,0,0
+/global/archives/8383,Netherlands,1,1,1,161,6,0,0
+/global/archives/8383,Philippines,1,1,1,72,7,0,0
+/global/archives/8383,Russia,1,1,1,22,6,0,0
+/global/archives/8400,Japan,1,1,1,0,6,0,0
+/global/archives/8400,Saudi Arabia,1,1,1,0,6,0,0
+/global/archives/8400,South Korea,1,1,1,12,6,0,0
+/global/archives/8428,India,1,1,1,48,5,0,0
+/global/archives/8428,South Korea,1,1,1,34,5,0,0
+/global/archives/8488,Japan,1,1,1,0,4,0,0
+/global/archives/8553,India,1,1,1,3,4,0,0
+/global/archives/8599,South Korea,1,1,1,68,5,0,0
+/global/archives/8604,South Korea,1,1,1,79,7,0,0
+/global/archives/8643,Japan,1,1,1,5,5,0,0
+/global/archives/8763,Hong Kong,1,1,1,63,5,0,0
+/global/archives/878,France,1,1,1,44,4,0,0
+/global/archives/878,Germany,1,1,1,12,4,0,0
+/global/archives/878,South Korea,1,1,1,42,5,0,0
+/global/archives/8829,Indonesia,1,1,1,0,4,0,0
+/global/archives/8846,South Korea,1,1,1,8,4,0,0
+/global/archives/8846,United States,1,0,0,0,3,0,0
+/global/archives/8899,India,1,1,1,21,5,0,0
+/global/archives/8914,Pakistan,1,1,1,77,5,0,0
+/global/archives/8914,Poland,1,1,1,0,5,0,0
+/global/archives/8941,Hong Kong,1,1,1,8,5,0,0
+/global/archives/8972,Poland,1,1,1,0,6,0,0
+/global/archives/8972,South Korea,1,1,1,0,6,0,0
+/global/archives/9096,India,1,1,1,0,3,0,0
+/global/archives/9096,Indonesia,1,1,1,16,3,0,0
+/global/archives/9096,Japan,1,1,1,119,4,0,0
+/global/archives/9096,Singapore,1,1,1,6,4,0,0
+/global/archives/9096,Taiwan,1,1,1,3,4,0,0
+/global/archives/9168,India,1,1,1,9,4,0,0
+/global/archives/9168,United States,1,1,1,0,2,0,0
+/global/archives/9191,South Korea,1,1,1,4,5,0,0
+/global/archives/926,Malaysia,1,1,1,4,5,0,0
+/global/archives/926,United States,1,1,1,12,5,0,0
+/global/archives/9264,South Korea,1,1,1,19,4,0,0
+/global/archives/9286,Germany,1,1,1,0,5,0,0
+/global/archives/9286,Hong Kong,1,1,1,0,4,0,0
+/global/archives/9286,India,1,1,1,0,3,0,0
+/global/archives/9286,United States,1,1,1,3,4,0,0
+/global/archives/9299,Ukraine,1,1,1,123,5,0,0
+/global/archives/9310,Bulgaria,1,1,1,52,4,0,0
+/global/archives/9310,Taiwan,1,1,1,7,5,0,0
+/global/archives/9394,Singapore,1,1,1,42,4,0,0
+/global/archives/9394,Taiwan,1,1,1,19,4,0,0
+/global/archives/9480,India,1,1,1,0,4,0,0
+/global/archives/9480,South Korea,1,1,1,35,3,0,0
+/global/archives/9480,United States,1,1,1,2,3,0,0
+/global/archives/9493,Germany,1,1,1,52,4,0,0
+/global/archives/9493,India,1,1,1,0,4,0,0
+/global/archives/9493,Poland,1,1,1,39,3,0,0
+/global/archives/9493,Russia,1,1,1,0,4,0,0
+/global/archives/9493,South Korea,1,1,1,0,2,0,0
+/global/archives/9493,Spain,1,1,1,19,5,0,0
+/global/archives/9493,United Kingdom,1,1,1,13,5,0,0
+/global/archives/9493,United States,1,1,1,23,3,0,0
+/global/archives/9509,China,1,1,1,0,3,0,0
+/global/archives/9509,India,1,1,1,33,5,0,0
+/global/archives/9509,South Korea,1,1,1,43,5,0,0
+/global/archives/9509,Thailand,1,1,1,6,4,0,0
+/global/archives/9519,Japan,1,1,1,0,4,0,0
+/global/archives/9548,Germany,1,1,1,48,5,0,0
+/global/archives/9548,Poland,1,1,1,0,3,0,0
+/global/archives/9548,Spain,1,1,1,7,5,0,0
+/global/archives/9548,Sweden,1,1,1,1,5,0,0
+/global/archives/9548,Ukraine,1,1,1,0,4,0,0
+/global/archives/9616,India,1,1,1,137,5,0,0
+/global/archives/9616,Singapore,1,1,1,0,6,0,0
+/global/archives/9616,United Kingdom,1,1,1,0,4,0,0
+/global/archives/9648,United States,1,1,1,21,6,0,0
+/global/archives/9668,India,1,1,1,0,4,0,0
+/global/archives/9668,Japan,1,1,1,0,5,0,0
+/global/archives/9682,United Kingdom,1,1,1,6,4,0,0
+/global/archives/9695,Japan,1,1,1,0,5,0,0
+/global/archives/9709,Germany,1,1,1,0,4,0,0
+/global/archives/9709,Taiwan,1,1,1,12,5,0,0
+/global/archives/9740,Azerbaijan,1,1,1,215,6,0,0
+/global/archives/9740,Belgium,1,1,1,133,6,0,0
+/global/archives/9740,Greece,1,1,1,0,5,0,0
+/global/archives/9740,Japan,1,1,1,0,3,0,0
+/global/archives/9740,Malaysia,1,1,1,0,4,0,0
+/global/archives/9740,Namibia,1,1,1,0,4,0,0
+/global/archives/9740,Saudi Arabia,1,1,1,81,5,0,0
+/global/archives/9740,Singapore,1,1,1,24,5,0,0
+/global/archives/9740,Taiwan,1,1,1,7,5,0,0
+/global/archives/9740,United Arab Emirates,1,1,1,0,5,0,0
+/global/archives/9740,Uzbekistan,1,2,0.5,4.5,6,0,0
+/global/archives/9756,United States,1,1,1,25,5,0,0
+/global/archives/9786,India,1,1,1,0,1,0,0
+/global/archives/9837,India,1,1,1,14,4,0,0
+/global/archives/9837,Indonesia,1,1,1,0,4,0,0
+/global/archives/9893,Singapore,1,1,1,2,4,0,0
+/global/archives/9893,South Korea,1,1,1,51,6,0,0
+/global/archives/9893,Türkiye,1,1,1,1,4,0,0
+/global/archives/9910,Indonesia,1,1,1,42,7,0,0
+/global/archives/9910,Japan,1,1,1,4,5,0,0
+/global/archives/9910,United Arab Emirates,1,1,1,0,6,0,0
+/global/archives/9910,United Kingdom,1,1,1,0,4,0,0
+/global/archives/9910,United States,1,1,1,52,5,0,0
+/global/archives/9978,India,1,1,1,21,5,0,0
+/global/archives/9998,China,1,1,1,7,2,0,0
+/global/archives/9998,Finland,1,1,1,34,6,0,0
+/global/archives/9998,South Korea,1,1,1,4,5,0,0
+/global/archives/9998,Türkiye,1,1,1,0,3,0,0
+/global/archives/MTM3ODAoMj,Finland,1,1,1,0,5,0,0
+/global/archives/category/ces/ces-2022-ces-2022,South Korea,1,1,1,11,5,0,0
+/global/archives/category/ces/ces-2023,Japan,1,1,1,2,3,0,0
+/global/archives/category/corporate/sk-energy,China,1,1,1,5,4,0,0
+/global/archives/category/corporate/sk-energy,South Africa,1,1,1,39,6,0,0
+/global/archives/category/corporate/sk-energy,Spain,1,1,1,37,6,0,0
+/global/archives/category/corporate/sk-energy,Switzerland,1,1,1,7,4,0,0
+/global/archives/category/corporate/sk-energy,Taiwan,1,1,1,0,3,0,0
+/global/archives/category/corporate/sk-energy,United States,1,1,1,9,5,0,0
+/global/archives/category/corporate/sk-energy,Uzbekistan,1,1,1,39,4,0,0
+/global/archives/category/corporate/sk-enmove,China,1,1,1,16,5,0,0
+/global/archives/category/corporate/sk-enmove,Philippines,1,1,1,3,3,0,0
+/global/archives/category/corporate/sk-enmove,Russia,1,1,1,69,5,0,0
+/global/archives/category/corporate/sk-enmove,Serbia,1,1,1,6,5,0,0
+/global/archives/category/corporate/sk-enmove,Singapore,1,1,1,8,5,0,0
+/global/archives/category/corporate/sk-enterm,Moldova,1,1,1,10,4,0,0
+/global/archives/category/corporate/sk-enterm,United Kingdom,1,1,1,9,5,0,0
+/global/archives/category/corporate/sk-ie-technology,Poland,1,1,1,5,6,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Canada,1,1,1,0,4,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,India,1,1,1,15,5,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Japan,1,1,1,25,5,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,Poland,1,1,1,18,4,0,0
+/global/archives/category/corporate/sk-incheon-petrochem,South Korea,1,1,1,19,6,0,0
+/global/archives/category/corporate/sk-on,Canada,1,1,1,61,5,0,0
+/global/archives/category/corporate/sk-on,Latvia,1,1,1,5,5,0,0
+/global/archives/category/corporate/sk-on,Poland,1,1,1,14,5,0,0
+/global/archives/category/corporate/sk-on,Singapore,1,1,1,7,5,0,0
+/global/archives/category/corporate/sk-on,Sweden,1,1,1,32,4,0,0
+/global/archives/category/corporate/sk-rading-international,Canada,1,1,1,0,3,0,0
+/global/archives/category/corporate/sk-rading-international,Norway,1,1,1,9,7,0,0
+/global/archives/category/corporate/sk-rading-international,United States,1,1,1,1,5,0,0
+/global/archives/category/corporates,Canada,1,1,1,33,4,0,0
+/global/archives/category/corporates,France,1,1,1,11,4,0,0
+/global/archives/category/corporates,Hungary,1,1,1,11,4,0,0
+/global/archives/category/corporates,Lithuania,1,1,1,13,4,0,0
+/global/archives/category/corporates,Mauritius,1,1,1,2,4,0,0
+/global/archives/category/corporates,Mexico,1,1,1,17,4,0,0
+/global/archives/category/corporates,Netherlands,1,1,1,6,4,0,0
+/global/archives/category/corporates,Russia,1,1,1,1,3,0,0
+/global/archives/category/corporates,Serbia,1,1,1,38,4,0,0
+/global/archives/category/corporates,Spain,1,1,1,3,4,0,0
+/global/archives/category/corporates,United Arab Emirates,1,1,1,12,4,0,0
+/global/archives/category/corporates/sk-earthon,Japan,1,1,1,6,4,0,0
+/global/archives/category/corporates/sk-energy,Austria,1,1,1,0,2,0,0
+/global/archives/category/corporates/sk-energy,Germany,1,1,1,5,4,0,0
+/global/archives/category/corporates/sk-energy,Indonesia,1,1,1,22,3,0,0
+/global/archives/category/corporates/sk-energy,Malaysia,1,1,1,12,4,0,0
+/global/archives/category/corporates/sk-energy,Netherlands,1,1,1,1,3,0,0
+/global/archives/category/corporates/sk-energy,North Macedonia,1,1,1,21,3,0,0
+/global/archives/category/corporates/sk-energy,Russia,1,1,1,0,3,0,0
+/global/archives/category/corporates/sk-energy,Singapore,1,1,1,0,3,0,0
+/global/archives/category/corporates/sk-energy,Yemen,1,1,1,60,4,0,0
+/global/archives/category/corporates/sk-enmove,Brazil,1,1,1,12,4,0,0
+/global/archives/category/corporates/sk-enmove,Indonesia,1,1,1,8,4,0,0
+/global/archives/category/corporates/sk-enmove,Japan,1,1,1,17,4,0,0
+/global/archives/category/corporates/sk-enterm,Indonesia,1,1,1,4,3,0,0
+/global/archives/category/corporates/sk-enterm,Moldova,1,1,1,7,4,0,0
+/global/archives/category/corporates/sk-geo-centric,France,1,1,1,11,4,0,0
+/global/archives/category/corporates/sk-geo-centric,Mexico,1,1,1,25,4,0,0
+/global/archives/category/corporates/sk-geo-centric,Singapore,1,1,1,4,4,0,0
+/global/archives/category/corporates/sk-geo-centric,South Korea,1,1,1,3,4,0,0
+/global/archives/category/corporates/sk-ie-technology,India,1,1,1,1,4,0,0
+/global/archives/category/corporates/sk-ie-technology,Poland,1,1,1,18,4,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Bulgaria,1,1,1,9,4,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Indonesia,1,1,1,26,4,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,Netherlands,1,1,1,19,4,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,United Kingdom,1,1,1,80,4,0,0
+/global/archives/category/corporates/sk-incheon-petrochem,United States,1,1,1,16,4,0,0
+/global/archives/category/corporates/sk-innovation,Austria,1,1,1,0,4,0,0
+/global/archives/category/corporates/sk-innovation,Bahrain,1,1,1,31,4,0,0
+/global/archives/category/corporates/sk-innovation,Hungary,1,1,1,0,3,0,0
+/global/archives/category/corporates/sk-innovation,Italy,1,1,1,10,4,0,0
+/global/archives/category/corporates/sk-innovation,Russia,1,1,1,19,3,0,0
+/global/archives/category/corporates/sk-innovation,Sweden,1,1,1,14,4,0,0
+/global/archives/category/corporates/sk-innovation,Thailand,1,1,1,20,4,0,0
+/global/archives/category/corporates/sk-on,Bahrain,1,1,1,0,5,0,0
+/global/archives/category/corporates/sk-on,Canada,1,1,1,14,4,0,0
+/global/archives/category/corporates/sk-on,Czechia,1,1,1,5,4,0,0
+/global/archives/category/corporates/sk-on,Indonesia,1,1,1,49,4,0,0
+/global/archives/category/corporates/sk-on,Israel,1,1,1,11,4,0,0
+/global/archives/category/corporates/sk-on,Poland,1,1,1,4,3,0,0
+/global/archives/category/corporates/sk-on,Sweden,1,1,1,4,3,0,0
+/global/archives/category/corporates/sk-on,Thailand,1,1,1,35,4,0,0
+/global/archives/category/corporates/sk-rading-international,Ecuador,1,1,1,0,3,0,0
+/global/archives/category/corporates/sk-rading-international,Libya,1,1,1,16,4,0,0
+/global/archives/category/corporates/sk-rading-international,Philippines,1,1,1,15,3,0,0
+/global/archives/category/insight,China,1,1,1,4,4,0,0
+/global/archives/category/insight,France,1,1,1,29,4,0,0
+/global/archives/category/insight,India,1,1,1,15,4,0,0
+/global/archives/category/insight,Martinique,1,1,1,0,2,0,0
+/global/archives/category/insight,Mauritius,1,1,1,2,4,0,0
+/global/archives/category/insight,Myanmar (Burma),1,1,1,0,2,0,0
+/global/archives/category/insight,Philippines,1,1,1,36,4,0,0
+/global/archives/category/insight,Poland,1,1,1,3,4,0,0
+/global/archives/category/insight,Spain,1,1,1,2,4,0,0
+/global/archives/category/insight,Taiwan,1,1,1,0,3,0,0
+/global/archives/category/insight,Türkiye,1,1,1,8,4,0,0
+/global/archives/category/insight/expert-voice,Austria,1,1,1,8,4,0,0
+/global/archives/category/insight/expert-voice,Japan,1,1,1,21,4,0,0
+/global/archives/category/insight/trend_report,Czechia,1,1,1,32,4,0,0
+/global/archives/category/insight/trend_report,France,1,1,1,34,4,0,0
+/global/archives/category/insight/trend_report,Germany,1,1,1,11,4,0,0
+/global/archives/category/insight/trend_report,Mexico,1,1,1,30,4,0,0
+/global/archives/category/insight/trend_report,Ukraine,1,1,1,0,2,0,0
+/global/archives/category/people,Austria,1,1,1,24,2,0,0
+/global/archives/category/people,France,1,1,1,4,4,0,0
+/global/archives/category/people,Mauritius,1,1,1,1,4,0,0
+/global/archives/category/people,Poland,1,1,1,3,4,0,0
+/global/archives/category/people,Sweden,1,1,1,1,4,0,0
+/global/archives/category/people,Thailand,1,1,1,72,4,0,0
+/global/archives/category/people,United Arab Emirates,1,1,1,2,4,0,0
+/global/archives/category/people/ceo-leaders,Singapore,1,1,1,8,5,0,0
+/global/archives/category/people/ceo-leaders,South Korea,1,1,1,0,4,0,0
+/global/archives/category/people/ceo-leaders,Thailand,1,1,1,15,4,0,0
+/global/archives/category/people/inno-people,China,1,1,1,0,2,0,0
+/global/archives/category/people/inno-people,Iceland,1,1,1,30,3,0,0
+/global/archives/category/people/inno-people,Switzerland,1,1,1,18,4,0,0
+/global/archives/category/people/inno-people,Taiwan,1,1,1,3,4,0,0
+/global/archives/category/people/inno-people,Thailand,1,1,1,11,4,0,0
+/global/archives/category/people/onsite-report,Germany,1,1,1,6,4,0,0
+/global/archives/category/people/onsite-report,Poland,1,1,1,6,3,0,0
+/global/archives/category/people/onsite-report,Taiwan,1,1,1,12,4,0,0
+/global/archives/category/people/sustainability,Pakistan,1,1,1,7,4,0,0
+/global/archives/category/people/sustainability,South Korea,1,1,1,2,4,0,0
+/global/archives/category/people/sustainability,Sweden,1,1,1,0,5,0,0
+/global/archives/category/people/sustainability,Taiwan,1,1,1,0,4,0,0
+/global/archives/category/people/sustainability,Thailand,1,1,1,120,4,0,0
+/global/archives/category/press-room,Austria,1,1,1,0,1,0,0
+/global/archives/category/press-room,Canada,1,1,1,4,4,0,0
+/global/archives/category/press-room,China,1,1,1,7,4,0,0
+/global/archives/category/press-room,France,1,1,1,8,4,0,0
+/global/archives/category/press-room,Greece,1,1,1,6,4,0,0
+/global/archives/category/press-room,Italy,1,1,1,21,4,0,0
+/global/archives/category/press-room,Saudi Arabia,1,1,1,11,4,0,0
+/global/archives/category/press-room,Sweden,1,1,1,3,4,0,0
+/global/archives/category/press-room,United Arab Emirates,1,1,1,58,4,0,0
+/global/archives/category/press-room/ZmluYW5jaW,Austria,1,1,1,0,5,0,0
+/global/archives/category/press-room/financial-results,Austria,1,1,1,9,4,0,0
+/global/archives/category/press-room/financial-results,Bahrain,1,1,1,24,5,0,0
+/global/archives/category/press-room/financial-results,Czechia,1,1,1,2,4,0,0
+/global/archives/category/press-room/financial-results,Israel,1,1,1,10,5,0,0
+/global/archives/category/press-room/financial-results,Laos,1,1,1,3,4,0,0
+/global/archives/category/press-room/financial-results,South Africa,1,1,1,1,4,0,0
+/global/archives/category/press-room/financial-results,Switzerland,1,1,1,18,5,0,0
+/global/archives/category/press-room/issue-fact,Czechia,1,1,1,5,4,0,0
+/global/archives/category/press-room/issue-fact,Greece,1,1,1,10,4,0,0
+/global/archives/category/press-room/issue-fact,India,1,1,1,0,5,0,0
+/global/archives/category/press-room/issue-fact,Malaysia,1,1,1,8,4,0,0
+/global/archives/category/press-room/press-release,China,1,1,1,2,4,0,0
+/global/archives/category/press-room/press-release,Egypt,1,1,1,1,5,0,0
+/global/archives/category/press-room/press-release,Greece,1,1,1,0,5,0,0
+/global/archives/category/press-room/press-release,Hungary,1,1,1,9,4,0,0
+/global/archives/category/press-room/press-release,Lithuania,1,1,1,5,4,0,0
+/global/archives/category/press-room/press-release,Malaysia,1,1,1,12,4,0,0
+/global/archives/category/press-room/press-release,Philippines,1,1,1,8,3,0,0
+/global/archives/category/press-room/press-release,Poland,1,1,1,0,5,0,0
+/global/archives/category/press-room/press-release,Russia,1,1,1,4,5,0,0
+/global/archives/category/press-room/press-release,Spain,1,1,1,44,5,0,0
+/global/archives/category/press-room/press-release,Sweden,1,1,1,24,4,0,0
+/global/archives/category/press-room/press-release,United Kingdom,1,1,1,8,5,0,0
+/global/archives/category/social-value/csr-program,Japan,1,1,1,8,4,0,0
+/global/archives/category/social-value/social-enterprise,Thailand,1,1,1,8,5,0,0
+/global/archives/tag/1-4-butanediol,India,1,1,1,10,5,0,0
+/global/archives/tag/1-4-butanediol,South Korea,1,1,1,3,4,0,0
+/global/archives/tag/2022-esg-report,India,1,1,1,12,4,0,0
+/global/archives/tag/2023-q1,United States,1,1,1,6,4,0,0
+/global/archives/tag/2023-q4,China,1,1,1,11,4,0,0
+/global/archives/tag/2023-q4,Hong Kong,1,1,1,4,4,0,0
+/global/archives/tag/2023-q4,Poland,1,1,1,6,4,0,0
+/global/archives/tag/2023-q4,Taiwan,1,1,1,3,4,0,0
+/global/archives/tag/2023-q4,United States,1,1,1,4,4,0,0
+/global/archives/tag/2024,United States,1,1,1,7,5,0,0
+/global/archives/tag/2024-q1,Austria,1,1,1,8,4,0,0
+/global/archives/tag/2024-q1,China,1,1,1,64,4,0,0
+/global/archives/tag/2024-q1,Japan,1,1,1,4,4,0,0
+/global/archives/tag/2024-q1,Singapore,1,1,1,3,4,0,0
+/global/archives/tag/Y29iYWx0LW,Netherlands,1,1,1,0,5,0,0
+/global/archives/tag/ZmluYW5jaW,Austria,1,1,1,0,5,0,0
+/global/archives/tag/ai,Hong Kong,1,1,1,11,6,0,0
+/global/archives/tag/air-liquide-korea,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/air-liquide-korea,United States,1,1,1,8,6,0,0
+/global/archives/tag/all-solid-state-battery,India,1,1,1,2,3,0,0
+/global/archives/tag/annual-general-meeting-of-shareholders,Australia,1,1,1,0,3,0,0
+/global/archives/tag/anode-production,Hong Kong,1,1,1,3,5,0,0
+/global/archives/tag/arc,United Kingdom,1,1,1,8,5,0,0
+/global/archives/tag/ascon,Vietnam,1,1,1,9,5,0,0
+/global/archives/tag/atvm,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/australia,Australia,1,1,1,0,6,0,0
+/global/archives/tag/australia,South Korea,1,1,1,31,5,0,0
+/global/archives/tag/autosilicon,Japan,1,0,0,0,3,0,0
+/global/archives/tag/bacteria,India,1,1,1,0,2,0,0
+/global/archives/tag/battery,Belgium,1,1,1,2,4,0,0
+/global/archives/tag/battery-business,Japan,1,1,1,0,3,0,0
+/global/archives/tag/battery-precursor,Japan,1,1,1,4,4,0,0
+/global/archives/tag/benz,Japan,1,1,1,6,5,0,0
+/global/archives/tag/bio-aviation-fuel,India,1,1,1,0,4,0,0
+/global/archives/tag/blueoval-sk,India,1,1,1,0,5,0,0
+/global/archives/tag/blueoval-sk,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/blueoval-sk,United States,1,1,1,14,4,0,0
+/global/archives/tag/bmr,Japan,1,1,1,17,6,0,0
+/global/archives/tag/bmw,Japan,1,1,1,22,6,0,0
+/global/archives/tag/board-of-directors,Singapore,1,1,1,78,6,0,0
+/global/archives/tag/bpse,South Korea,1,1,1,0,5,0,0
+/global/archives/tag/brightmark,India,1,1,1,37,5,0,0
+/global/archives/tag/canada,Canada,1,1,1,6,5,0,0
+/global/archives/tag/cathode,Japan,1,1,1,0,2,0,0
+/global/archives/tag/cathode-active-materials,South Korea,1,1,1,3,3,0,0
+/global/archives/tag/ccs,India,1,1,1,10,5,0,0
+/global/archives/tag/ccs,South Korea,1,1,1,6,5,0,0
+/global/archives/tag/ccs,United Kingdom,1,1,1,1,5,0,0
+/global/archives/tag/ccus,Hong Kong,1,1,1,5,5,0,0
+/global/archives/tag/ccus,Taiwan,1,1,1,19,7,0,0
+/global/archives/tag/ceo,Singapore,1,1,1,43,4,0,0
+/global/archives/tag/cha-gyu-tak,Hong Kong,1,1,1,0,6,0,0
+/global/archives/tag/changzhou,Japan,1,1,1,13,5,0,0
+/global/archives/tag/changzhou,United States,1,1,1,3,5,0,0
+/global/archives/tag/closed-loop-partners,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/compatibilizer,United States,1,1,1,10,4,0,0
+/global/archives/tag/continew,India,1,1,1,2,5,0,0
+/global/archives/tag/crude-oil,Germany,1,1,1,74,4,0,0
+/global/archives/tag/cuu-long,United States,1,1,1,0,4,0,0
+/global/archives/tag/daejeon,South Korea,1,1,1,1,5,0,0
+/global/archives/tag/daejeon,Taiwan,1,1,1,23,5,0,0
+/global/archives/tag/depolymerization,South Korea,1,1,1,1,5,0,0
+/global/archives/tag/digital-transformation,South Korea,1,1,1,4,4,0,0
+/global/archives/tag/digital-transformation,United Kingdom,1,1,1,36,4,0,0
+/global/archives/tag/digital-twin,Japan,1,1,1,5,4,0,0
+/global/archives/tag/dnv,Australia,1,1,1,1,4,0,0
+/global/archives/tag/doosan-fuel-cell,Japan,1,1,1,13,5,0,0
+/global/archives/tag/dpf,South Korea,1,1,1,0,5,0,0
+/global/archives/tag/eaa,Thailand,1,1,1,26,3,0,0
+/global/archives/tag/eaa-plant,Hong Kong,1,1,1,0,3,0,0
+/global/archives/tag/ecopro,Germany,1,1,1,2,4,0,0
+/global/archives/tag/ecopro,India,1,1,1,11,6,0,0
+/global/archives/tag/ecopro,Japan,1,1,1,36,6,0,0
+/global/archives/tag/ecopro-bm,United Kingdom,1,1,1,2,5,0,0
+/global/archives/tag/egg-program,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/ek-energy,Indonesia,1,1,1,3,5,0,0
+/global/archives/tag/electric-vehicles,China,1,1,1,0,4,0,0
+/global/archives/tag/energy-super-station,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/envirun-for-the-earth,South Korea,1,1,1,0,6,0,0
+/global/archives/tag/esg,Ukraine,1,1,1,30,4,0,0
+/global/archives/tag/ess,China,1,1,1,0,4,0,0
+/global/archives/tag/ess,United States,1,1,1,7,5,0,0
+/global/archives/tag/europe,Japan,1,1,1,23,5,0,0
+/global/archives/tag/ev,Denmark,1,1,1,0,4,0,0
+/global/archives/tag/ev-batteries,Canada,1,1,1,18,4,0,0
+/global/archives/tag/ev-battery,Jordan,1,1,1,13,6,0,0
+/global/archives/tag/exhibition,South Korea,1,1,1,3,4,0,0
+/global/archives/tag/f-150-lightning,Hungary,1,1,1,2,5,0,0
+/global/archives/tag/f-150-lightning,South Korea,1,1,1,1,6,0,0
+/global/archives/tag/financial-results,China,1,1,1,3,3,0,0
+/global/archives/tag/financial-results,Russia,1,1,1,20,4,0,0
+/global/archives/tag/financial-results,Singapore,1,1,1,12,4,0,0
+/global/archives/tag/financial-results,Spain,1,1,1,9,4,0,0
+/global/archives/tag/financial-results,United States,1,1,1,6,4,0,0
+/global/archives/tag/ford,Hungary,1,1,1,0,3,0,0
+/global/archives/tag/ford,United States,1,1,1,4,5,0,0
+/global/archives/tag/france,South Korea,1,1,1,35,4,0,0
+/global/archives/tag/gbas-10-guiding-principles,Germany,1,1,1,4,5,0,0
+/global/archives/tag/georgia,Hungary,1,1,1,0,4,0,0
+/global/archives/tag/georgia,India,1,1,1,33,3,0,0
+/global/archives/tag/germany,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/germany,United Kingdom,1,1,1,7,6,0,0
+/global/archives/tag/glendale,South Korea,1,1,1,3,5,0,0
+/global/archives/tag/global-csr,South Korea,1,1,1,4,3,0,0
+/global/archives/tag/global-forum,United States,1,1,1,2,4,0,0
+/global/archives/tag/global-partners,South Korea,1,1,1,10,5,0,0
+/global/archives/tag/global-talent,Georgia,1,1,1,29,5,0,0
+/global/archives/tag/grc,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/green-biz,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/green-bonds,Hong Kong,1,1,1,4,6,0,0
+/global/archives/tag/green-bonds,Japan,1,1,1,11,3,0,0
+/global/archives/tag/hungary,India,1,1,1,0,3,0,0
+/global/archives/tag/hungary,Poland,1,1,1,25,3,0,0
+/global/archives/tag/hydrogen,India,1,1,1,6,5,0,0
+/global/archives/tag/hyundai-mobis,Morocco,1,1,1,1,6,0,0
+/global/archives/tag/hyundai-motor-group,India,1,1,1,0,3,0,0
+/global/archives/tag/im-zic,Morocco,1,1,1,2,5,0,0
+/global/archives/tag/immersion-cooling,United States,1,1,1,19,4,0,0
+/global/archives/tag/india,Hong Kong,1,1,1,0,6,0,0
+/global/archives/tag/indonesia,Malaysia,1,1,1,0,4,0,0
+/global/archives/tag/inobus,Mexico,1,1,1,8,5,0,0
+/global/archives/tag/interbattery-2023,Germany,1,1,1,8,4,0,0
+/global/archives/tag/interbattery-2023,India,1,1,1,10,3,0,0
+/global/archives/tag/interbattery-2024,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/ioniq-5,Germany,1,1,1,25,6,0,0
+/global/archives/tag/ioniq-5,Taiwan,1,1,1,3,5,0,0
+/global/archives/tag/iscc,Singapore,1,1,1,17,5,0,0
+/global/archives/tag/ivancsa,Slovakia,1,1,1,18,5,0,0
+/global/archives/tag/ivancsa,South Korea,1,1,1,10,6,0,0
+/global/archives/tag/jee-dong-seob,Germany,1,1,1,7,5,0,0
+/global/archives/tag/jiangsu,Malaysia,1,1,1,15,6,0,0
+/global/archives/tag/jv,South Korea,1,1,1,36,6,0,0
+/global/archives/tag/jva,Norway,1,1,1,0,3,0,0
+/global/archives/tag/kentucky,South Korea,1,1,1,100,5,0,0
+/global/archives/tag/kentucky,United States,1,1,1,0,3,0,0
+/global/archives/tag/kia,Mexico,1,1,1,19,6,0,0
+/global/archives/tag/korea-hydro-nuclear-power,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/lfp,South Korea,1,1,1,6,4,0,0
+/global/archives/tag/libs,South Korea,1,1,1,1,5,0,0
+/global/archives/tag/liquid-immersion-cooling,United States,1,1,1,28,4,0,0
+/global/archives/tag/liquid-immersion-cooling-system,South Korea,1,1,1,7,5,0,0
+/global/archives/tag/liquid-immersion-cooling-system,Taiwan,1,1,1,0,4,0,0
+/global/archives/tag/lithium-hydroxide,Spain,1,1,1,13,6,0,0
+/global/archives/tag/lithium-ion-batteries,South Korea,1,1,1,2,3,0,0
+/global/archives/tag/lithium-ion-batteries,United Kingdom,1,1,1,19,4,0,0
+/global/archives/tag/lithium-ion-battery,Canada,1,1,1,12,5,0,0
+/global/archives/tag/lithium-ion-battery,Switzerland,1,1,1,4,6,0,0
+/global/archives/tag/lithium-ion-battery,United States,1,1,1,1,5,0,0
+/global/archives/tag/lithium-ion-battery,Yemen,1,1,1,37,6,0,0
+/global/archives/tag/lithium-metal-batteries,Germany,1,1,1,11,4,0,0
+/global/archives/tag/lithium-metal-batteries,Switzerland,1,1,1,14,5,0,0
+/global/archives/tag/loop-industries,Japan,1,1,1,17,5,0,0
+/global/archives/tag/lube-base-oil,Russia,1,1,1,52,4,0,0
+/global/archives/tag/lubricant,Thailand,1,1,1,26,4,0,0
+/global/archives/tag/lubricants,South Korea,1,1,1,50,5,0,0
+/global/archives/tag/malaysia,Malaysia,1,1,1,0,4,0,0
+/global/archives/tag/malaysia,United States,1,1,1,0,5,0,0
+/global/archives/tag/marine-innovation,United States,1,1,1,6,5,0,0
+/global/archives/tag/mdi,Hong Kong,1,1,1,3,5,0,0
+/global/archives/tag/mou,Pakistan,1,1,1,72,4,0,0
+/global/archives/tag/natural-graphite,Hong Kong,1,1,1,6,5,0,0
+/global/archives/tag/ncm811,Germany,1,1,1,16,5,0,0
+/global/archives/tag/ncm811,Poland,1,1,1,6,4,0,0
+/global/archives/tag/ncm811,Russia,1,1,1,8,5,0,0
+/global/archives/tag/ncm811,Sweden,1,1,1,8,3,0,0
+/global/archives/tag/ncm811,United States,1,1,1,0,4,0,0
+/global/archives/tag/ncm9,South Korea,1,1,1,6,5,0,0
+/global/archives/tag/ncm9,United States,1,1,1,16,4,0,0
+/global/archives/tag/netruck,South Africa,1,1,1,7,5,0,0
+/global/archives/tag/netruck,Thailand,1,1,1,14,5,0,0
+/global/archives/tag/netruck,United States,1,1,1,0,6,0,0
+/global/archives/tag/nmc,Canada,1,1,1,2,5,0,0
+/global/archives/tag/nmc,United States,1,1,1,19,6,0,0
+/global/archives/tag/oh-jong-hoon,Singapore,1,1,1,47,5,0,0
+/global/archives/tag/oh-jong-hoon,United States,1,1,1,22,6,0,0
+/global/archives/tag/oil-depletion,Canada,1,1,1,26,4,0,0
+/global/archives/tag/op,India,1,1,1,42,4,0,0
+/global/archives/tag/orevac,Thailand,1,1,1,0,4,0,0
+/global/archives/tag/packaging,South Korea,1,1,1,0,3,0,0
+/global/archives/tag/patra-sk,South Korea,1,1,1,7,5,0,0
+/global/archives/tag/pbat,China,1,1,1,17,4,0,0
+/global/archives/tag/pbat,Germany,1,1,1,0,6,0,0
+/global/archives/tag/pbt,Vietnam,1,1,1,9,5,0,0
+/global/archives/tag/peru,United States,1,1,1,0,4,0,0
+/global/archives/tag/petroleum-history,Singapore,1,1,1,13,4,0,0
+/global/archives/tag/plastic,Bulgaria,1,1,1,15,5,0,0
+/global/archives/tag/poe,Netherlands,1,1,1,6,6,0,0
+/global/archives/tag/poland,China,1,1,1,4,5,0,0
+/global/archives/tag/poland,Croatia,1,1,1,3,5,0,0
+/global/archives/tag/poland,France,1,1,1,0,6,0,0
+/global/archives/tag/poland,Germany,1,1,1,4,4,0,0
+/global/archives/tag/poland,Lebanon,1,1,1,28,5,0,0
+/global/archives/tag/poland,Spain,1,1,1,5,5,0,0
+/global/archives/tag/polymer-electrolytes,Germany,1,1,1,7,4,0,0
+/global/archives/tag/polymer-electrolytes,India,1,1,1,4,4,0,0
+/global/archives/tag/polymer-electrolytes,Japan,1,1,1,8,4,0,0
+/global/archives/tag/pouch,South Korea,1,1,1,4,4,0,0
+/global/archives/tag/pouch-type-battery,Bulgaria,1,1,1,0,4,0,0
+/global/archives/tag/purecycle-technologies,South Korea,1,1,1,50,6,0,0
+/global/archives/tag/purecycle-technologies,United States,1,1,1,8,5,0,0
+/global/archives/tag/renewable-energy,Taiwan,1,1,1,2,3,0,0
+/global/archives/tag/rhee-jang-weon,Germany,1,1,1,8,5,0,0
+/global/archives/tag/rhee-jang-weon,United States,1,1,1,0,4,0,0
+/global/archives/tag/roadmap,India,1,1,1,7,5,0,0
+/global/archives/tag/s-pack,Japan,1,1,1,6,5,0,0
+/global/archives/tag/s-pack,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/s-pack,United States,1,1,1,4,6,0,0
+/global/archives/tag/sales,India,1,1,1,5,3,0,0
+/global/archives/tag/sales,United Kingdom,1,1,1,9,4,0,0
+/global/archives/tag/secondary-batteries,France,1,1,1,11,5,0,0
+/global/archives/tag/separator,China,1,1,1,7,5,0,0
+/global/archives/tag/separator,India,1,1,1,11,5,0,0
+/global/archives/tag/separator,North Macedonia,1,1,1,31,6,0,0
+/global/archives/tag/sf-battery,Lithuania,1,1,1,8,5,0,0
+/global/archives/tag/shepherd-ccs-project,Malaysia,1,1,1,7,4,0,0
+/global/archives/tag/shepherd-ccs-project,Singapore,1,1,1,7,3,0,0
+/global/archives/tag/singapore,India,1,1,1,42,3,0,0
+/global/archives/tag/sk-battery-america,United States,1,1,1,10,5,0,0
+/global/archives/tag/sk-earthon-hochiminh,South Korea,1,1,1,17,6,0,0
+/global/archives/tag/sk-es,Vietnam,1,1,1,4,4,0,0
+/global/archives/tag/sk-functional-polymer,India,1,1,1,11,6,0,0
+/global/archives/tag/sk-gc-americas,South Korea,1,1,1,3,5,0,0
+/global/archives/tag/sk-geo-centric,United States,1,1,1,20,5,0,0
+/global/archives/tag/sk-group,Japan,1,1,1,5,4,0,0
+/global/archives/tag/sk-hi-tech-battery-materials-poland,Algeria,1,1,1,8,4,0,0
+/global/archives/tag/sk-hi-tech-battery-materials-poland,Hong Kong,1,1,1,4,5,0,0
+/global/archives/tag/sk-hi-tech-battery-materials-poland,Singapore,1,1,1,8,4,0,0
+/global/archives/tag/sk-hynix,South Korea,1,1,1,6,3,0,0
+/global/archives/tag/sk-incheon-petrochem,India,1,1,1,652,4,0,0
+/global/archives/tag/sk-innovation-institute-of-environmental-science-and-technology,United States,1,1,1,22,6,0,0
+/global/archives/tag/sk-innovations-institute-of-environmental-science-technology,Russia,1,1,1,27,6,0,0
+/global/archives/tag/sk-innovations-institute-of-environmental-science-technology,South Korea,1,1,1,17,5,0,0
+/global/archives/tag/sk-lubricants,Japan,1,1,1,37,4,0,0
+/global/archives/tag/sk-on,Canada,1,1,1,148,4,0,0
+/global/archives/tag/sk-on,Hong Kong,1,1,1,49,4,0,0
+/global/archives/tag/sk-on,Serbia,1,1,1,31,4,0,0
+/global/archives/tag/sk-on-hungary-skoh-and-sk-battery-manufacturing,South Korea,1,1,1,5,6,0,0
+/global/archives/tag/sk-primacor-europe,Mexico,1,1,1,27,5,0,0
+/global/archives/tag/sk-primacor-europe,Netherlands,1,1,1,1,5,0,0
+/global/archives/tag/sk-primacor-europe,Portugal,1,1,1,37,3,0,0
+/global/archives/tag/sk-primacor-europe,South Korea,1,1,1,5,3,0,0
+/global/archives/tag/sk-seorin-building,Philippines,1,1,1,6,5,0,0
+/global/archives/tag/sk-seorin-building,Singapore,1,1,1,9,6,0,0
+/global/archives/tag/sk-seorin-building,United States,1,1,1,0,4,0,0
+/global/archives/tag/sk-supex-council,South Korea,1,1,1,3,5,0,0
+/global/archives/tag/sk-supex-council,Vietnam,1,1,1,8,6,0,0
+/global/archives/tag/sk-telecom,South Korea,1,1,1,8,5,0,0
+/global/archives/tag/sk-trading-international,Libya,1,1,1,39,4,0,0
+/global/archives/tag/sk-zic,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/skba,Philippines,1,1,1,1,4,0,0
+/global/archives/tag/skbh,India,1,1,1,0,4,0,0
+/global/archives/tag/skbmc,China,1,1,1,5,3,0,0
+/global/archives/tag/skbmp,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/skea,South Korea,1,1,1,41,5,0,0
+/global/archives/tag/skei,India,1,1,1,59,5,0,0
+/global/archives/tag/skei-singapore,South Korea,1,1,1,0,4,0,0
+/global/archives/tag/skeo,Portugal,1,1,1,13,5,0,0
+/global/archives/tag/skeo,Vietnam,1,1,1,67,5,0,0
+/global/archives/tag/skfp,China,1,1,1,0,3,0,0
+/global/archives/tag/skfp,India,1,1,1,13,5,0,0
+/global/archives/tag/skgc-japan,India,1,1,1,1,5,0,0
+/global/archives/tag/skgc-japan,South Korea,1,1,1,3,4,0,0
+/global/archives/tag/skiet,Sri Lanka,1,1,1,135,4,0,0
+/global/archives/tag/skietechnology,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/skipc,Hong Kong,1,1,1,40,6,0,0
+/global/archives/tag/skipc,India,1,1,1,14,4,0,0
+/global/archives/tag/skle,Hong Kong,1,1,1,0,3,0,0
+/global/archives/tag/skle,South Korea,1,1,1,2,5,0,0
+/global/archives/tag/sko,Belgium,1,1,1,15,5,0,0
+/global/archives/tag/sko,Singapore,1,1,1,2,5,0,0
+/global/archives/tag/skti,South Korea,1,1,1,4,5,0,0
+/global/archives/tag/skti,United States,1,1,1,15,4,0,0
+/global/archives/tag/sk润滑油,China,1,1,1,22,4,0,0
+/global/archives/tag/sk综合化学,China,1,1,1,30,6,0,0
+/global/archives/tag/sk综合化学,Japan,1,1,1,29,6,0,0
+/global/archives/tag/sk综合化学,Singapore,1,1,1,9,5,0,0
+/global/archives/tag/small-modular-reactor,Vietnam,1,1,1,15,5,0,0
+/global/archives/tag/solid-power,France,1,1,1,8,5,0,0
+/global/archives/tag/solid-power,India,1,1,1,0,4,0,0
+/global/archives/tag/solid-power,Singapore,1,1,1,9,5,0,0
+/global/archives/tag/solid-power,Taiwan,1,1,1,10,5,0,0
+/global/archives/tag/solid-state-battery,India,1,1,1,0,2,0,0
+/global/archives/tag/solid-state-battery,Japan,1,1,1,0,4,0,0
+/global/archives/tag/sustainability-report,Germany,1,1,1,13,5,0,0
+/global/archives/tag/sustainability-report,Japan,1,1,1,9,3,0,0
+/global/archives/tag/tesla,France,1,1,1,0,5,0,0
+/global/archives/tag/tesla,India,1,1,1,0,4,0,0
+/global/archives/tag/tesla,Myanmar (Burma),1,1,1,0,4,0,0
+/global/archives/tag/tesla,United States,1,1,1,0,4,0,0
+/global/archives/tag/turkey,Australia,1,1,1,2,6,0,0
+/global/archives/tag/ud-tape,Sweden,1,1,1,6,6,0,0
+/global/archives/tag/ulsan-clx,France,1,1,1,7,5,0,0
+/global/archives/tag/ulsan-clx,Türkiye,1,1,1,1,5,0,0
+/global/archives/tag/ulsan-clx,United States,1,1,1,18,6,0,0
+/global/archives/tag/ulsan-complex,Japan,1,1,1,18,5,0,0
+/global/archives/tag/used-car,South Korea,1,1,1,3,5,0,0
+/global/archives/tag/vietnam,Vietnam,1,1,1,2,5,0,0
+/global/archives/tag/volunteer-activity,South Korea,1,1,1,14,4,0,0
+/global/archives/tag/vwbe,Hong Kong,1,1,1,36,5,0,0
+/global/archives/tag/vwbe,India,1,1,1,0,5,0,0
+/global/archives/tag/waste-water-treatment-system,South Korea,1,1,1,99,6,0,0
+/global/archives/tag/wechat,Brazil,1,1,1,8,5,0,0
+/global/archives/tag/weixing-chemical,China,1,1,1,0,2,0,0
+/global/archives/tag/winter-pro-lfp-battery,South Korea,1,1,1,9,4,0,0
+/global/archives/tag/yubase,Indonesia,1,1,1,23,5,0,0
+/global/archives/tag/yubase,United Arab Emirates,1,1,1,0,4,0,0
+/global/archives/tag/z-folding,South Korea,1,1,1,8,5,0,0
+/global/archives/tag/zic,France,1,1,1,2,5,0,0
+/global/archives/tag/中国,China,1,1,1,8,5,0,0
+/global/archives/tag/电动汽车电池,Malaysia,1,1,1,9,5,0,0
+/global/family-site-links,Russia,1,1,1,15,7,0,0
+/global/latestnews,Bahrain,1,1,1,8,4,0,0
+/global/latestnews,Iceland,1,1,1,35,5,0,0
+/global/latestnews,Indonesia,1,1,1,8,5,0,0
+/global/latestnews,Malaysia,1,1,1,18,3,0,0
+/global/latestnews,Mauritius,1,1,1,0,3,0,0
+/global/latestnews,Serbia,1,1,1,2,4,0,0
+/global/latestnews,Spain,1,1,1,67,4,0,0
+/global/latestnews,Taiwan,1,1,1,21,4,0,0
+/global/latestnews,United Kingdom,1,1,1,1,4,0,0
+/global/login,South Korea,1,1,1,2,4,0,0
+/global/privacy-policy,France,1,1,1,29,4,0,0
+/global/privacy-policy,India,1,1,1,9,3,0,0
+/global/privacy-policy,South Korea,1,1,1,0,3,0,0
+/global/sustainability-report,Canada,1,1,1,5,4,0,0
+/global/sustainability-report,China,1,1,1,10,6,0,0
+/global/sustainability-report,France,1,1,1,5,5,0,0
+/global/sustainability-report,Hungary,1,1,1,0,4,0,0
+/global/sustainability-report,Indonesia,1,1,1,8,5,0,0
+/global/sustainability-report,Italy,1,1,1,12,7,0,0
+/global/sustainability-report,Malaysia,1,1,1,12,6,0,0
+/global/sustainability-report,Pakistan,1,1,1,2,4,0,0
+/global/sustainability-report,Switzerland,1,1,1,3,5,0,0
+/global/sustainability-report,United Kingdom,1,1,1,23,6,0,0
+/global/terms-and-conditions,Japan,1,1,1,12,3,0,0
+/global/who-we-are,Hong Kong,1,1,1,10,4,0,0
+/global/archives/10767,Bolivia,0,0,0,0,2,0,0
+/global/archives/11623👈,Ireland,0,1,0,7,1,0,0
+/global/archives/13313,Germany,0,2,0,5.5,2,0,0
+/global/archives/13850,South Korea,0,1,0,8,1,0,0
+/global/archives/14193,Romania,0,0,0,0,3,0,0
+/global/archives/14491,Germany,0,0,0,0,2,0,0
+/global/archives/14770,Hungary,0,1,0,1,2,0,0
+/global/archives/16532,Hong Kong,0,1,0,0,1,0,0
+/global/archives/17216,Spain,0,0,0,0,2,0,0
+/global/archives/17426,France,0,1,0,4,3,0,0
+/global/archives/18268,China,0,1,0,24,1,0,0
+/global/archives/2026,Hong Kong,0,1,0,44,1,0,0
+/global/archives/7245,Australia,0,1,0,0,2,0,0
+/global/archives/8046,United Kingdom,0,1,0,7,1,0,0
+/global/archives/9493,Côte d’Ivoire,0,1,0,18,3,0,0
+/global/archives/tag/jva,Malaysia,0,1,0,1,2,0,0
